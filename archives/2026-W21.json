@@ -1,7 +1,35 @@
 {
-  "count": 221,
-  "generated_at": "2026-05-22T22:29:08.370751+00:00",
+  "count": 223,
+  "generated_at": "2026-05-22T22:33:34.269601+00:00",
   "jobs": [
+    {
+      "company": "openai",
+      "description": "About the team OpenAI’s mission is to ensure the responsible and widespread adoption of artificial intelligence. In support of that mission, the Ads Solutions team partners closely with advertisers to deeply understand their businesses and needs, helping inform the development of products and solutions that drive meaningful revenue growth and long-term success on the platform—while maintaining strong standards for user trust and platform integrity. About the role We’re looking for a Customer Success Manager to support advertisers in onboarding, launching, and growing on OpenAI’s advertising platform. You will manage a portfolio of partners and serve as a trusted advisor, helping them achieve",
+      "id": "7207c5b8c4a428e4",
+      "location": "Not specified",
+      "posted_at": "2026-05-22T22:31:37.294000+00:00",
+      "raw_source_id": "991f7a9c-5908-4690-b655-aea652f7e7b0",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Customer Success Manager, Ads Solutions",
+      "url": "https://jobs.ashbyhq.com/openai/991f7a9c-5908-4690-b655-aea652f7e7b0"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to ensure the responsible and widespread adoption of artificial intelligence. In support of that mission, the Ads Solutions team partners closely with advertisers to deeply understand their businesses and needs, helping inform the development of products and solutions that drive meaningful revenue growth and long-term success on the platform—while maintaining strong standards for user trust and platform integrity. About the Role This role is focused on driving new and expanded advertising revenue and ensuring successful business results for advertisers. You will own the full sales cycle — from prospecting to deal closure, developing long-term commercial par",
+      "id": "24fb3ad3a8555c03",
+      "location": "Not specified",
+      "posted_at": "2026-05-22T22:31:12.377000+00:00",
+      "raw_source_id": "732f14a7-636a-4d6a-bf66-5ed522625685",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Regional Client Partner, Ads Solutions",
+      "url": "https://jobs.ashbyhq.com/openai/732f14a7-636a-4d6a-bf66-5ed522625685"
+    },
     {
       "company": "anthropic",
       "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"heading\"><strong>About the role</strong></h2> <p>We are hiring Support Engineers to serve as the named, dedicated Product Support point of contact for Anthropic's most strategic enterprise customers. As a Support Engineer, you'll be providing high-touch, deeply contextual support to a ",

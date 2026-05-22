@@ -1,7 +1,49 @@
 {
-  "count": 189,
-  "generated_at": "2026-05-22T22:02:25.255180+00:00",
+  "count": 221,
+  "generated_at": "2026-05-22T22:29:08.370751+00:00",
   "jobs": [
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"heading\"><strong>About the role</strong></h2> <p>We are hiring Support Engineers to serve as the named, dedicated Product Support point of contact for Anthropic's most strategic enterprise customers. As a Support Engineer, you'll be providing high-touch, deeply contextual support to a ",
+      "id": "ed2df12cb0347e14",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "posted_at": "2026-05-22T22:19:40+00:00",
+      "raw_source_id": "5228463008",
+      "source": "Greenhouse",
+      "tags": [
+        "Product Management, Support, & Operations"
+      ],
+      "title": "Support Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5228463008"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Customer Marketing team showcases real-world customer outcomes through storytelling, proof, and structured advocacy programs. We partner closely with GTM, Product Marketing, Communications, Creative, Events, Legal, and regional teams to bring customer impact to life. SMB customer marketing helps OpenAI turn high-growth segments, launches, and product workstreams into practical proof that drives ChatGPT Business awareness, conversion, adoption, and workspace expansion. About the Role As a Customer Marketing Manager focused on SMB, you will build the customer proof engine for ChatGPT Business growth across priority SMB audiences. You will source and package customer stories,",
+      "id": "9efedd388233ff80",
+      "location": "Not specified",
+      "posted_at": "2026-05-22T22:03:07.291000+00:00",
+      "raw_source_id": "79a29efc-ef3e-4178-80dd-9c23dbd88823",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Customer Marketing Manager, SMB",
+      "url": "https://jobs.ashbyhq.com/openai/79a29efc-ef3e-4178-80dd-9c23dbd88823"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-renderer-start-pos=\"1648\">REQ ID - FEQ227R19</p> <p>Location:&nbsp; Houston, TX / Austin, TX / Dallas, TX</p> <p>We are looking for pre-sales professionals who have a successful track record helping large oil, gas, and energy enterprises become more data-driven. Working with the Enterprise Account Executive (AE), the Sr. Solutions Engineer defines and directs the technical strategy for our largest and most important oil, gas, and energy accounts, leading to more widespread use of our products and wider and deeper adoption of ML &amp; AI. You will lean upon your background in value selling, technical account management and technical leadership to maximize success in these accounts. Yo",
+      "id": "e7e9f235a8a4ea50",
+      "location": "Houston, Texas",
+      "posted_at": "2026-05-22T22:03:06+00:00",
+      "raw_source_id": "8417673002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - FE Direct Regulated"
+      ],
+      "title": "Sr. Solutions Engineer - Oil, Gas, Energy",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8417673002"
+    },
     {
       "company": "anthropic",
       "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"heading\">About the role:</h2> <p>Anthropic’s Research Tools team builds systems that support our large-scale, distributed finetuning runs and improve the productivity of researchers. As a manager, you’ll support a team of machine learning and distributed systems experts to make these s",
@@ -171,6 +213,20 @@
       "url": "https://jobs.ashbyhq.com/openai/2719a0cb-00c7-40dc-b237-ff013a454a20"
     },
     {
+      "company": "Einklang",
+      "description": "<p>Einklang bringt den Stromverbrauch von Unternehmen in Einklang mit Sonne und Wind. Wir kombinieren Batteriespeicher, dynamische Tarife und intelligente Steuerung, damit Mittelständler unabhängiger und günstiger Strom beziehen können. So wird Energie vom Kostenrisiko zum Wettbewerbsvorteil.</p> <p>Wir bauen Einklang von Grund auf als AI-natives Unternehmen. Das heißt nicht, dass wir AI als Tool nutzen sondern dass AI Teil unserer Arbeitsweise ist. Vom Vertrieb über die technische Auslegung bis zu den Prozessen, an die noch keiner gedacht hat.</p> <p>Als AI Engineer schaust du dir an, was wir den ganzen Tag machen und automatisierst alles, was sich sinnvoll automatisieren lässt. Du baust ni",
+      "id": "14779ffe00a75d0b",
+      "location": "Cologne",
+      "posted_at": "2026-05-22T17:29:02+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Business Operations"
+      ],
+      "title": "AI Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/einklang/ai-engineer-cologne-148360"
+    },
+    {
       "company": "openai",
       "description": "About the company OpenAI’s mission is to build and ensure that safe artificial general intelligence (AGI) benefits all of humanity. This long-term undertaking brings together the world’s best scientists, engineers, and business professionals to accomplish this. About the team The GTM Readiness & Activation team translates OpenAI’s product innovation into real-world customer impact. We equip customer-facing teams with the knowledge, tools, and frameworks they need to succeed with customers. Our work connects strategy to execution — helping the field understand what matters, how to act on it, and how to deliver measurable outcomes for customers and the business. About the role OpenAI is hiring",
       "id": "5bed9f31103ba7ab",
@@ -183,6 +239,21 @@
       ],
       "title": "GTM Readiness & Activation",
       "url": "https://jobs.ashbyhq.com/openai/ffda0834-854f-4ea1-bfd9-c872be110e05"
+    },
+    {
+      "company": "constellr GmbH",
+      "description": "<p><strong><span style=\"\">Our Mission</span></strong><span style=\"\"> </span></p><p>At constellr, we're harnessing the power of space to solve one of Earth’s greatest challenges: climate resilience & security in a changing world. Our thermal satellite constellation delivers the most accurate land surface temperature data on the market, equipping commercial players, governments, defence agencies, and global institutions with the thermal intelligence they need to make strategic decisions– from national security and infrastructure to agriculture and climate resilience. <br /> <br />As a fast-scaling company with offices in Brussels, Freiburg, Munich, Washington and Toulouse, our multidisciplinar",
+      "id": "6a1144bb678e217d",
+      "location": "Berlin",
+      "posted_at": "2026-05-22T17:20:14+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Other",
+        "bachelor's degree"
+      ],
+      "title": "Flight Software Product Assurance Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/constellr-gmbh/flight-software-product-assurance-engineer-berlin-475245"
     },
     {
       "company": "openai",
@@ -211,6 +282,20 @@
       ],
       "title": "Capacity Systems Software Engineer",
       "url": "https://jobs.ashbyhq.com/openai/11c51b12-3ba0-4a7a-a0d2-ed0661324dc3"
+    },
+    {
+      "company": "MY Humancapital GmbH",
+      "description": "<p>Im Auftrag unseres Partnerunternehmens in München suchen wir Sie zum nächstmöglichen Zeitpunkt als „<strong>Software Tester Testautomatisierung (m/w/d)“.</strong></p> <h2><strong>Aufgaben</strong></h2> <ul> <li>Als Software Test Engineer (m/w/d) planen und entwickeln Sie strukturierte Testfälle auf Basis von Anforderungen</li> <li>Zudem führen Sie manuelle und automatisierte Tests sowie Regressionstests in komplexen Systemumgebungen durch</li> <li>Auch erstellen und pflegen Sie Testkonzepte, Testdaten sowie automatisierte Testskripte</li> <li>Darüber hinaus analysieren, dokumentieren und verfolgen Sie Fehler bis zur erfolgreichen Nachprüfung</li> <li>Zusätzlich arbeiten Sie eng mit der En",
+      "id": "38cc6c7332342336",
+      "location": "Munich",
+      "posted_at": "2026-05-22T17:00:44+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Software Tester Testautomatisierung (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/software-tester-testautomatisierung-munich-39701"
     },
     {
       "company": "openai",
@@ -309,6 +394,62 @@
       ],
       "title": "Staff Product Manager, Adaptive Pricing",
       "url": "https://stripe.com/jobs/search?gh_jid=7912407"
+    },
+    {
+      "company": "Yendou",
+      "description": "<p>Most code doesn't matter.</p> <p><strong>This does.</strong></p> <p>We are building software that helps humanity conquer death. Cancer therapeutics take 12 years and $800 million to reach a patient. We are cutting that down to 5. Every line of code shipped here is time bought for someone who is running out of it.</p> <p>We are looking for one person. Junior. The most ambitious of our generation.</p> <p>You will write code next to some of the best people working on one of the hardest problems on earth. You will not be parked on a side project. You will be in the room.</p> <h2>Tasks</h2> <p><strong>The bar for Interns:</strong></p> <p><strong>High agency.</strong> You see a problem, try to ",
+      "id": "f24482f577e6df6c",
+      "location": "Berlin",
+      "posted_at": "2026-05-22T11:00:42+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Software Engineering Intern (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/yendou/software-engineering-intern-berlin-383771"
+    },
+    {
+      "company": "Assecor GmbH",
+      "description": "<h2>Deine Rolle bei uns</h2> <p>Als <strong>IT-Consultant Data Engineering (m/w/d)</strong> entwickelst du gemeinsam mit unseren Kunden moderne und skalierbare Datenplattformen – von performanten Datenpipelines bis hin zu cloudbasierten Data-Lake- und Analytics-Architekturen.<br> Du arbeitest eng mit Kunden, Entwicklerteams und Fachbereichen zusammen und bringst technische Anforderungen in nachhaltige Lösungen. Dabei übernimmst du Verantwortung in Projekten und bewegst dich sicher zwischen Engineering und Beratung</p> <h2>Aufgaben</h2> <ul> <li>Du konzipierst, entwickelst und optimierst moderne Datenarchitekturen (z. B. Datenbanken, Data Lakes oder Lakehouses)</li> <li>Du entwickelst, optimi",
+      "id": "ec6e430b19d96e24",
+      "location": "Berlin",
+      "posted_at": "2026-05-22T10:00:45+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Project Management"
+      ],
+      "title": "IT-Consultant Data Engineering (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/it-consultant-data-engineering-berlin-328269"
+    },
+    {
+      "company": "1KOMMA5˚",
+      "description": "<h2>1KOMMA5°</h2> <p>At <strong>1KOMMA5°</strong>, we pursue a clear vision: <strong>Living on wind and sunlight forever for free</strong>. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to transitio",
+      "id": "a7c980f64b413179",
+      "location": "Hamburg",
+      "posted_at": "2026-05-22T10:00:45+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Working Student Data Science Forecasting (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-data-science-forecasting-hamburg-498049"
+    },
+    {
+      "company": "empower GmbH",
+      "description": "<p><strong>empower® vereint den Spirit kreativer Startups mit den Vorzügen großer Unternehmen</strong></p> <p>Du hast Lust auf komplexe Herausforderungen, state-of-the-art Entwicklung mit asynchronen Abläufen? Dann bist du bei uns genau richtig!</p> <p>Bei uns entwickelst du Software, die täglich Millionen von Menschen begeistert. Als einer der weltweiten Marktführer setzen wir Maßstäbe in Branding- und Produktivitäts-Apps für Microsoft Office. Unternehmen wie Microsoft, Amazon, BMW, RTL und S&P bauen auf unsere Produkte, weil sie Probleme lösen und die Zukunft mitdenken. Entscheidend dafür: kreative Teammitglieder:innen und Freiräume, in denen alle zu Unternehmer:innen werden.</p> <h2>Aufga",
+      "id": "3670c7b7bde557f9",
+      "location": "Cologne",
+      "posted_at": "2026-05-22T09:30:38+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "(Lead) Software Engineer (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/empower-gmbh/lead-software-engineer-cologne-383574"
     },
     {
       "company": "databricks",
@@ -493,6 +634,30 @@
       "url": "https://jobs.ashbyhq.com/openai/fb8dbe07-00b0-4329-8925-c99b3aabcdfd"
     },
     {
+      "company": "Bolt Technology",
+      "description": "<p><gh-intro><br><text><br>We are looking for a <strong>Staff Machine Learning Engineer, AI Applications</strong> to join Bolt's Customer Support Product team and lead the quality, learning, and knowledge foundations behind our AI automation stack. You will have the opportunity to shape how we evaluate and align LLM-based systems, improve knowledge quality and retrieval, and build the feedback loops that continuously improve customer support automation. If you are passionate about applied ML, retrieval and knowledge systems, and making AI products measurably better in production, this role will perfectly suit you.<br></text><br></gh-intro><br><br></p> <p><span style=\"font-weight: 400;\"><gh-a",
+      "id": "d645a00dd9665eef",
+      "location": "Berlin, Berlin, Germany",
+      "posted_at": "2026-05-21T20:45:24+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Staff Machine Learning Engineer, AI Applications, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/bolt-technology/staff-machine-learning-engineer-ai-applications-berlin-337190"
+    },
+    {
+      "company": "Wolt - English",
+      "description": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the globe.<br><br>Working at Wolt isn't always easy, but it's definitely exciting. Here you'll learn more, build more, and ship more than in most other companies. You'll be challenged a lot, but also have a",
+      "id": "77968a8a73a8259d",
+      "location": "Berlin, Berlin, Germany",
+      "posted_at": "2026-05-21T20:45:22+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Software Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/software-engineer-berlin-66586"
+    },
+    {
       "company": "openai",
       "description": "About the Team The Demo Studio translates OpenAI's most advanced capabilities into tangible, high-impact customer experiences. We design and deliver the demos, applications, and environments that help executives and practitioners understand what is possible with AI. Our work sits at the intersection of product, engineering, design, and go-to-market. We operate as a hybrid product studio and live production team, building experiences that are technically credible, narratively compelling, and reliable in high-stakes settings. About the Role We’re looking for a Demo Studio Lead to own the end-to-end demo experience for OpenAI’s major events, launches, and strategic programs. This is a highly cr",
       "id": "7e56c137631d67d9",
@@ -647,6 +812,20 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227413008"
     },
     {
+      "company": "RIZM",
+      "description": "<p><strong>Why this role exists</strong></p> <p>Europe can reindustrialize if we bring together AI × Energy Market Opportunities × Industrial Processes. The largest European companies (~2% of total energy demand) make their energy decisions using our Energy OS.</p> <p>The mission statement we stand behind: <em>Invest in Values. Produce in Freedom. Boost Europe.</em></p> <p>You are not rolling out a finished product. <strong>You are actively building the engine.</strong> You deploy our Agentic Energy OS at industrial sites. You are its teacher. You engineer how the tools execute. You enrich them with the energy insights you bring to the table. You iterate on customer feedback in hours, not qu",
+      "id": "2d26d9f6b293fa13",
+      "location": "Munich",
+      "posted_at": "2026-05-21T18:00:29+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Forward Deployed Engineer - in Münster or Munich (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/rizm/forward-deployed-engineer-in-munster-or-munich-176432"
+    },
+    {
       "company": "openai",
       "description": "About the Team Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity. The Security team protects OpenAI’s technology, people, and products. We are technical in what we build but are operational in how we do our work, and are committed to supporting all products and research at OpenAI. Our Security team tenets include: prioritizing for impact, enabling researchers, preparing for future transformative technologies, and engaging a robust security culture. About the Role Our technologies support some of the most important and impactful work in the world, including our strategic and high-impact customers in the public sector. As ",
       "id": "9249dd2f2418ace7",
@@ -787,6 +966,63 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7943909"
     },
     {
+      "company": "Verwaltungssprung GmbH",
+      "description": "<p>Verwaltungssprung is a Berlin-based GovTech company developing AI-powered software solutions to simplify and digitize administrative processes. Our platform enables citizens and public institutions to access secure, user-friendly, and fully digital public services.</p> <p>To support the growth of our organization, we are looking for a Head of Engineering (f/m/d) who combines strong technical leadership with a passion for building scalable digital platforms and high-performing engineering teams.</p> <p>In this role, you will lead the technical strategy, engineering organization, and software delivery processes of our growing GovTech platform. Working closely with Product, AI, Governance, a",
+      "id": "142c547dd22e3aab",
+      "location": "Berlin",
+      "posted_at": "2026-05-21T15:31:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Head of Engineering (f/m/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/verwaltungssprung-gmbh/head-of-engineering-berlin-447268"
+    },
+    {
+      "company": "Verwaltungssprung GmbH",
+      "description": "<p>Verwaltungssprung is a Berlin-based GovTech company developing AI-powered software solutions to simplify and digitize administrative processes. Our platform enables citizens and public institutions to access secure, user-friendly, and fully digital public services.</p> <p>To support the growth of our organization, we are looking for an AI Test Engineer (f/md) who is passionate about ensuring the reliability, security, and quality of AI-driven applications in the public sector. In this role, you will help validate and optimize AI systems that directly impact digital government services and citizen experiences.</p> <p>In this role, you will design, develop, and optimize AI-powered solutions",
+      "id": "a5ee362348651d4a",
+      "location": "Berlin",
+      "posted_at": "2026-05-21T15:31:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Inspection",
+        "Quality Assurance"
+      ],
+      "title": "AI Test Engineer (f/md)",
+      "url": "https://www.arbeitnow.com/jobs/companies/verwaltungssprung-gmbh/ai-test-engineer-f-md-berlin-284707"
+    },
+    {
+      "company": "Verwaltungssprung GmbH",
+      "description": "<p>Verwaltungssprung is a Berlin-based GovTech company developing AI-powered software solutions to simplify and digitize administrative processes. Our platform enables citizens and public institutions to access secure, user-friendly, and fully digital public services.</p> <p>To support the growth of our organization, we are looking for a Senior Full Stack Engineer (f/m/d) with strong expertise in modern frontend and backend development, scalable system architectures, and high-quality software engineering practices.</p> <p>In this role, you will lead the technical implementation of digital platforms and AI-powered applications that modernize public administration and deliver seamless user exp",
+      "id": "461f64f31fd3d691",
+      "location": "Berlin",
+      "posted_at": "2026-05-21T15:31:18+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Senior Full Stack Engineer (f/m/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/verwaltungssprung-gmbh/senior-full-stack-engineer-berlin-495255"
+    },
+    {
+      "company": "Verwaltungssprung GmbH",
+      "description": "<p>Verwaltungssprung is a Berlin-based GovTech company developing AI-powered software solutions to simplify and digitize administrative processes. Our platform enables citizens and public institutions to access secure, user-friendly, and fully digital public services.</p> <p>To support the growth of our organization, we are looking for a Midtier Frontend Engineer (f/m/d) with strong expertise in modern web technologies, responsive interface development, and user-centered digital experiences.</p> <p>In this role, you will develop intuitive and accessible frontend applications that help citizens and public institutions interact seamlessly with digital government services.</p> <h2>Tasks</h2> <u",
+      "id": "1adc4dcc67f0c404",
+      "location": "Berlin",
+      "posted_at": "2026-05-21T15:31:18+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "title": "Midtier Frontend Engineer (f/m/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/verwaltungssprung-gmbh/midtier-frontend-engineer-berlin-265567"
+    },
+    {
       "company": "figma",
       "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p>We’re hiring a Brand Producer on the Brand Studio team. You’ll lead high-impact brand initiatives, developing the creative production strategy for your projects, demonstrating op",
       "id": "9158c7824e8f0da5",
@@ -799,6 +1035,100 @@
       ],
       "title": "Brand Producer",
       "url": "https://boards.greenhouse.io/figma/jobs/6000002004?gh_jid=6000002004"
+    },
+    {
+      "company": "Flix",
+      "description": "<p>At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership. </p> <p>We're looking for a motivated and driven <strong>Senior Software Engineer (m/f/d) </strong>who will help us shape our team and have the most direct influence on our success.</p> <p>The mission of the Revenue Management Products team is to integrate diverse pricing tools and services into a single, cohesive ecosystem, focusing on user experience.</p> <p>Our team is part of the Demand Division, Demand Management Stream. As part of our team, you will play a pivotal role in continuously evolving our Reven",
+      "id": "8c1aa68e16f6b7ba",
+      "location": "Berlin, Berlin, Deutschland",
+      "posted_at": "2026-05-21T13:45:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Senior Software Engineer (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-berlin-23236"
+    },
+    {
+      "company": "Flix",
+      "description": "<p><span data-contrast=\"none\">We're looking for a talented <strong>Senior Kotlin Engineer (m/f/d)</strong> to join us in Berlin or Munich. </span><span data-ccp-props=\"{\"335559739\":0}\"> </span></p> <p><span data-contrast=\"none\">In the Foundation Division of FlixTech, our Finance Technology Stream helps the business grow efficiently by delivering smart, compliant, and automated finance solutions. We keep things simple for our internal users so they can spend less time on manual tasks and more time on what matters. The team you will join is not focused on user-facing experiences or polished UIs. Our success is measured by data correctness, consistency, and trustworthiness, even in complex and ",
+      "id": "80ba9de52a1800af",
+      "location": "Berlin, Berlin, Germany",
+      "posted_at": "2026-05-21T13:45:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Senior Kotlin Backend Engineer (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-kotlin-backend-engineer-berlin-74817"
+    },
+    {
+      "company": "Flix",
+      "description": "<p style=\"line-height: 1.4;\"></p> <p><span data-contrast=\"none\">We're looking for a talented <strong>Senior Kotlin Engineer (m/f/d)</strong> to join us in Berlin or Munich. </span><span data-ccp-props=\"{\"335559739\":0}\"> </span></p> <p><span data-contrast=\"none\">In the Foundation Division of FlixTech, our Finance Technology Stream helps the business grow efficiently by delivering smart, compliant, and automated finance solutions. We keep things simple for our internal users so they can spend less time on manual tasks and more time on what matters. The team you will join is not focused on user-facing experiences or polished UIs. Our success is measured by data correctness, consistency, and tru",
+      "id": "cac9195665e129d8",
+      "location": "Berlin, Berlin, Germany",
+      "posted_at": "2026-05-21T13:45:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Senior Kotlin Backend Engineer (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-kotlin-backend-engineer-berlin-61047"
+    },
+    {
+      "company": "arcode Systems",
+      "description": "<p>Wir sind ein spezialisiertes AI-Engineering- und FullStack-Team und bauen produktive LLM-/Agenten-Systeme für unsere Kunden — kein PoC-Theater, keine Powerpoint-Decks, keine „Slide-Architekten\". Wir beraten partnerschaftlich auf Augenhöhe und liefern Software, die in Produktion läuft.</p> <p>Du kannst hier Probleme lösen, ohne dass dich dabei Titel oder feste Rollendefinitionen einschränken — die gibt es bei uns nicht. Unsere Jobs sind nicht starr, sie dienen dir nur zur Orientierung. Du wirst nicht auf (d)einen Job begrenzt, sondern entwickelst dich quer durch AI Engineering, Backend, Platform und Consulting weiter. Du stehst mit deinen individuellen Zielen, Vorstellungen und Stärken im ",
+      "id": "16f2d09da2e6c04d",
+      "location": "Bamberg",
+      "posted_at": "2026-05-21T12:30:47+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "title": "AI Engineer / Agentic AI Engineer - Remote (Deutschland) mit gelegentlichem Vor-Ort-Tag",
+      "url": "https://www.arbeitnow.com/jobs/companies/arcode-systems/ai-engineer-agentic-ai-engineer-remote-deutschland-mit-gelegentlichem-vor-ort-tag-bamberg-109494"
+    },
+    {
+      "company": "wabcon",
+      "description": "<p>Unser Kunde gehört zu den etabliertesten Medizintechnikunternehmen<br> Deutschlands und entwickelt Softwarelösungen für medizinische Geräte. In<br> einem hochregulierten Umfeld entstehen moderne Anwendungen, die<br> weltweit in Diagnostik und Therapie eingesetzt werden und höchste<br> Anforderungen an Qualität, Sicherheit und Zuverlässigkeit erfüllen. Das<br> Unternehmen verbindet technologische Exzellenz mit langfristiger<br> Stabilität und bietet ein professionelles Umfeld für anspruchsvolle<br> Softwareentwicklung mit direktem gesellschaftlichem Mehrwert.</p> <h2>Aufgaben</h2> <ul> <li>Entwicklung und Weiterentwicklung sicherheitskritischer Embedded-Software im regulierten technischen ",
+      "id": "e64545d73347cc62",
+      "location": "Berlin",
+      "posted_at": "2026-05-21T11:00:33+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Embedded Systems",
+        "Firmware Development"
+      ],
+      "title": "Senior Embedded Software Engineer m/w/d Fokus Cybersecurity, hybrid Berlin, 65.000 - 80.000",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/senior-embedded-software-engineer-fokus-cybersecurity-hybrid-berlin-65000-80000-121727"
+    },
+    {
+      "company": "wabcon",
+      "description": "<p>Unser Kunde gehört zu den etabliertesten Medizintechnikunternehmen<br> Deutschlands und entwickelt Softwarelösungen für medizinische Geräte. In<br> einem hochregulierten Umfeld entstehen moderne Anwendungen, die<br> weltweit in Diagnostik und Therapie eingesetzt werden und höchste<br> Anforderungen an Qualität, Sicherheit und Zuverlässigkeit erfüllen. Das<br> Unternehmen verbindet technologische Exzellenz mit langfristiger<br> Stabilität und bietet ein professionelles Umfeld für anspruchsvolle<br> Softwareentwicklung mit direktem gesellschaftlichem Mehrwert.</p> <h2>Aufgaben</h2> <ul> <li>Verantwortung für die Koordination und fachliche Steuerung von Projekten im Bereich hardwarenaher Sof",
+      "id": "bfc031147064a6a7",
+      "location": "Berlin",
+      "posted_at": "2026-05-21T11:00:33+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT"
+      ],
+      "title": "Projektleiter (m/w/d) Medical Device - hardwarenahe Softwareentwicklung, hybrid, Berlin, 75.000 - 85.000",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/projektleiter-medical-device-hardwarenahe-softwareentwicklung-hybrid-berlin-75000-85000-86941"
+    },
+    {
+      "company": "wabcon",
+      "description": "<p>Unser Kunde gehört zu den etabliertesten Medizintechnikunternehmen<br> Deutschlands und entwickelt Softwarelösungen für medizinische Geräte. In<br> einem hochregulierten Umfeld entstehen moderne Anwendungen, die<br> weltweit in Diagnostik und Therapie eingesetzt werden und höchste<br> Anforderungen an Qualität, Sicherheit und Zuverlässigkeit erfüllen. Das<br> Unternehmen verbindet technologische Exzellenz mit langfristiger<br> Stabilität und bietet ein professionelles Umfeld für anspruchsvolle<br> Softwareentwicklung mit direktem gesellschaftlichem Mehrwert.</p> <h2>Aufgaben</h2> <ul> <li>Entwicklung und Umsetzung hardwarenaher Softwarefunktionen für technische Systeme</li> <li>Erstellung",
+      "id": "48ceddc9eee24896",
+      "location": "Berlin",
+      "posted_at": "2026-05-21T11:00:30+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Embedded Systems",
+        "Firmware Development"
+      ],
+      "title": "Senior Embedded Software Engineer C, C++ m/w/d, reg. Umfeld, hybrid Berlin, 65.000 - 80.000",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/senior-embedded-software-engineer-c-c-reg-umfeld-hybrid-berlin-65000-80000-317725"
     },
     {
       "company": "stripe",
@@ -827,6 +1157,48 @@
       ],
       "title": "Hunter Account Executive - Middle East",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8556252002"
+    },
+    {
+      "company": "Junini GmbH",
+      "description": "<p><strong>Über junini</strong></p> <p>junini baut die Software-Infrastruktur für ein neues Geschäftsmodell in der Optikbranche. Wir arbeiten eng mit Optikern zusammen und entwickeln eine Plattform, die einen bisher kaum digitalisierten Markt grundlegend verändert. Wir stehen kurz vor Abschluss einer Pre-Seed-Runde. Der POC hat sich erfolgreich bewährt, der Launch erster Pilotkooperationen mit Optikern steht demnächst an.</p> <p>Jetzt suchen wir einen <strong>Founding Engineer (m/w/d)</strong>. Gemeinsam mit dem CTO machst du die Plattform bereit für den produktiven Einsatz bei unseren ersten Kunden. Neben echtem Gestaltungsspielraum und einem kompetitiven Gehalt besteht die Möglichkeit, das",
+      "id": "5a43c44dfc2a4667",
+      "location": "Berlin",
+      "posted_at": "2026-05-21T09:31:47+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Founding Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/junini-gmbh/founding-engineer-berlin-294186"
+    },
+    {
+      "company": "QualityMinds GmbH",
+      "description": "<p>Die QualityMinds GmbH ist ein mittelständisches, agiles Unternehmen mit Schwerpunkt auf Qualitätssicherung, Softwaretest und Softwareentwicklung, in dem kontinuierliches Lernen, Selbstorganisation und Eigenverantwortung gelebt werden. Wir sind überzeugt, dass KI-gestützte Entwicklungswerkzeuge die Art, wie wir Software bauen, grundlegend verändern – und wir gestalten diesen Wandel aktiv mit. In unseren Projekten setzen wir bereits heute auf moderne Agentic-Coding-Tools wie GitHub Copilot und Claude Code.</p> <p>Wenn du Spaß an Projektarbeit und Kundenberatung hast und gleichzeitig an der Spitze moderner KI-gestützter Softwareentwicklung arbeiten möchtest, dann haben wir eine großartige Ba",
+      "id": "fed9446948ed9947",
+      "location": "Nuremberg",
+      "posted_at": "2026-05-21T09:00:47+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Lead Software Engineer (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/qualityminds-gmbh/lead-software-engineer-nuremberg-433987"
+    },
+    {
+      "company": "GLASER LEMKE Managementberatung GmbH",
+      "description": "<p>Unser Klient ist eine innovative und international aufgestellte IT-Prozessberatung, die technologische Kompetenz mit ausgeprägtem fachlichem und betriebswirtschaftlichem Know-how verbindet. Die Basis hierfür ist ein fundiertes Prozessverständnis für die Branchen und das jeweilige Geschäft der Kunden. Die Stärken des Unternehmens sind eine nachhaltige, werteorientierte und gleichzeitig visionäre Unternehmensführung sowie das Engagement der hoch motivierten und professionellen Mitarbeiter/innen. Wir suchen für unseren Kunden eine unternehmerisch denkende Führungsperson, die ein wachstumsorientiertes Consulting-Team im Bereich moderner Datenplattformen aufbaut, wirtschaftlich verantwortet un",
+      "id": "ab2353657df08e76",
+      "location": "Munich",
+      "posted_at": "2026-05-21T08:59:03+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Business Consulting"
+      ],
+      "title": "Competence Center Leiter Databricks Solutions (All Genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/glaser-lemke-managementberatung-gmbh/competence-center-leiter-databricks-solutions-all-genders-munich-345989"
     },
     {
       "company": "stripe",
@@ -869,6 +1241,35 @@
       ],
       "title": "Senior Manager, Commercial Sales (Singapore)",
       "url": "https://boards.greenhouse.io/figma/jobs/5995987004?gh_jid=5995987004"
+    },
+    {
+      "company": "Wallee Group AG",
+      "description": "<p><strong>The Mission</strong></p> <p>Wallee Group is a leader in advanced payment solutions, dedicated to providing robust, scalable, and secure systems across multiple domains. We enhance customer experiences through innovative payment and finance technology that empowers businesses to grow efficiently. With operations spanning several countries, we thrive on collaboration and agility, utilizing the Scrum framework to drive our international teams. At Wallee, we stay at the forefront of market trends, continuously innovating to deliver premier services to our global customers.</p> <p><strong>The Role</strong></p> <p>To achieve our mission of providing the market's best payment experience,",
+      "id": "926c99be67bb58c7",
+      "location": "Hamburg",
+      "posted_at": "2026-05-21T06:30:41+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Java Software Engineer - Payment Integration",
+      "url": "https://www.arbeitnow.com/jobs/companies/wallee-group-ag/java-software-engineer-payment-integration-hamburg-370430"
+    },
+    {
+      "company": "AImera Group GmbH",
+      "description": "<p>Die AImera Group entwickelt maßgeschneiderte AI- und Machine-Learning-Lösungen für Unternehmen mit echtem Business-Impact.</p> <p>Wir suchen keine reine Entwicklerrolle. Wir suchen Menschen, die technische Exzellenz mit Kundenverständnis verbinden und Projekte von der Idee bis zur produktiven Lösung verantworten können.</p> <p>Du arbeitest direkt mit Entscheidern, führst anspruchsvolle AI-Projekte und gestaltest aktiv den Ausbau unserer Boutique mit.</p> <h2>Aufgaben</h2> <ul> <li>Du leitest AI- und Machine-Learning-Projekte bei unseren Kunden</li> <li>Du übersetzt Business-Anforderungen in pragmatische technische Lösungen</li> <li>Du verantwortest Architektur, Delivery und technische Qua",
+      "id": "2950f5302a0f1d63",
+      "location": "Scharbeutz",
+      "posted_at": "2026-05-21T06:30:41+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "IT",
+        "Remote"
+      ],
+      "title": "Lead AI Consultant",
+      "url": "https://www.arbeitnow.com/jobs/companies/aimera-group-gmbh/lead-ai-consultant-scharbeutz-160953"
     },
     {
       "company": "openai",
@@ -1100,6 +1501,18 @@
       ],
       "title": "Product Counsel, Data Products",
       "url": "https://stripe.com/jobs/search?gh_jid=7930151"
+    },
+    {
+      "company": "Funded.club",
+      "description": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>About \"Realist\"</strong></span></p> <ul> <li style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-size: 12pt;\">Realist is an innovative WealthTech startup based in Germany, committed to transforming the financial industry through cutting-edge technology, data-driven insights, and scalable financial infrastructure. As we expand our platform and technology capabilities, we are looking for an experienced <strong>Senior Software Engineer</strong> to join our growing team in Berlin and help build the next generation of financial systems.</span></li> </ul> <p><span style=\"font-fami",
+      "id": "cd59c816d1ed959e",
+      "location": "Berlin, Berlin, Germany",
+      "posted_at": "2026-05-20T20:45:25+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Senior Software Engineer (AI) (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/fundedclub/senior-software-engineer-ai-berlin-53661"
     },
     {
       "company": "openai",
@@ -1466,6 +1879,20 @@
       "url": "https://jobs.ashbyhq.com/openai/6fbb72e6-1d69-4863-aaf3-3c5830e49e8a"
     },
     {
+      "company": "PENTADOC AG",
+      "description": "<p>At <strong>5Plus</strong>, we build <strong>production-grade AI systems</strong> that solve real operational problems for our customers.</p> <p>As a <strong>Senior AI Engineer</strong>, you will <strong>take technical responsibility for customer-facing AI solutions</strong> — from early design decisions to production deployment and operation. You will design, build, and operate AI applications ranging from <strong>LLM-powered workflows</strong> (e.g., intelligent document processing, RAG systems) to <strong>agentic AI systems</strong> that are actively used in customer environments.</p> <p>You’ll work closely with customers and internal engineers to translate ambiguous requirements into r",
+      "id": "66e6869b6b086b14",
+      "location": "Würzburg",
+      "posted_at": "2026-05-20T13:01:42+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Senior AI Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-ag/senior-ai-engineer-wurzburg-43929"
+    },
+    {
       "company": "openai",
       "description": "About the Team OpenAI’s Enterprise Go-To-Market organization helps the world’s largest companies adopt and scale our AI platform across their business, from ChatGPT Enterprise to our developer and APIs. We partner with organizations across Financial Services, Life Sciences, and Retail to build new AI-powered customer experiences, transform operations, and reimagine how work gets done in highly regulated and technically complex environments. As adoption accelerates through pilots, experimentation, and develop-led use cases, the GTM team turns that momentum into durable, enterprise-wide deployments. About the Role We are looking for a senior, high-agency business development representative to ",
       "id": "0edd3af032aac897",
@@ -1478,6 +1905,21 @@
       ],
       "title": "Business Development Representative",
       "url": "https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95"
+    },
+    {
+      "company": "Accenture",
+      "description": "<p>Du möchtest Datenplattformen nicht nur bauen, sondern ganzheitlich denken? Du willst Architekturverantwortung übernehmen, technische Exzellenz leben und Kunden strategisch beraten? Dann gestalte mit uns zukunftsfähige Datenplattformen für führende Unternehmen.</p> <p><strong>Deine Mission</strong></p> <p>In deiner Rolle als Data Platform Architect konzipierst und verantwortest du skalierbare, sichere und cloud-native Datenplattformen für unsere Kunden. Du übersetzt Business-Anforderungen in robuste Zielarchitekturen, setzt technologische Leitplanken und prägst als Architekt:in nachhaltig unsere Data-Projekte.<br> Bei Accenture gestaltest du dir selbst das Umfeld, in dem du aufgehst – mit ",
+      "id": "bd52080fed9850a0",
+      "location": "Frankfurt am Main",
+      "posted_at": "2026-05-20T10:01:01+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data Engineer",
+        "Data Processing"
+      ],
+      "title": "Data Platform Architect (all genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/accenture/data-platform-architect-all-genders-frankfurt-am-main-44301"
     },
     {
       "company": "databricks",

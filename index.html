@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Current Week Jobs</title>
+  <style>
+    :root { color-scheme: light; --ink: #1d2433; --muted: #667085; --line: #d9dee8; --accent: #146c5f; --bg: #f7f8fb; --panel: #ffffff; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial, sans-serif; color: var(--ink); background: var(--bg); }
+    header { background: #ffffff; border-bottom: 1px solid var(--line); }
+    .wrap { width: min(1120px, calc(100% - 32px)); margin: 0 auto; }
+    .top { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 24px 0; }
+    h1 { margin: 0; font-size: clamp(1.7rem, 3vw, 2.8rem); letter-spacing: 0; }
+    .subtitle { color: var(--muted); margin: 8px 0 0; max-width: 760px; line-height: 1.5; }
+    nav { display: flex; gap: 10px; flex-wrap: wrap; }
+    nav a, .button { color: var(--accent); border: 1px solid var(--line); background: #fff; padding: 9px 12px; border-radius: 6px; text-decoration: none; font-weight: 700; }
+    main { padding: 28px 0 48px; }
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin-bottom: 22px; }
+    .stat { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 14px; }
+    .stat strong { display: block; font-size: 1.5rem; }
+    .toolbar { display: flex; gap: 10px; margin: 18px 0; flex-wrap: wrap; }
+    input, select { min-height: 40px; border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; background: #fff; color: var(--ink); }
+    input { flex: 1 1 260px; }
+    .grid { display: grid; gap: 14px; }
+    .job-card, .archive-row { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 18px; }
+    .meta { margin: 0 0 8px; color: var(--muted); font-size: .9rem; font-weight: 700; }
+    h2 { margin: 0; font-size: 1.2rem; letter-spacing: 0; line-height: 1.35; }
+    h2 a { color: var(--ink); text-decoration-color: var(--accent); }
+    .company, .location { margin: 8px 0 0; color: var(--muted); }
+    .description { line-height: 1.5; color: #3d4758; }
+    .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+    .tags span { border: 1px solid #bdd8d3; color: #0f5c51; background: #eef8f6; padding: 4px 7px; border-radius: 999px; font-size: .8rem; }
+    .empty { background: #fff; border: 1px dashed var(--line); border-radius: 8px; padding: 18px; color: var(--muted); }
+    footer { border-top: 1px solid var(--line); padding: 22px 0; color: var(--muted); background: #fff; }
+    @media (max-width: 720px) { .top { align-items: flex-start; flex-direction: column; } }
+    </style>
+</head>
+<body>
+  <header>
+    <div class="wrap top">
+      <div>
+        <h1>Current Week Jobs</h1>
+        <p class="subtitle">Fresh postings for 2026-W21: 2026-05-18 through 2026-05-24. Older weeks are kept on the archive page.</p>
+      </div>
+      <nav><a href="./index.html">Current</a><a href="./archives.html">Archives</a></nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="stats" aria-label="Job stats">
+      <div class="stat"><strong>5</strong><span>current-week jobs</span></div>
+      <div class="stat"><strong>2</strong><span>sources</span></div>
+      <div class="stat"><strong>0</strong><span>archived weeks</span></div>
+    </section>
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search title, company, location">
+      <select id="source"><option value="">All sources</option><option value="Remote OK">Remote OK</option><option value="Remotive">Remotive</option></select>
+    </div>
+    <section id="jobs" class="grid">
+            <article class="job-card" data-source="Remote OK">
+              <div>
+                <p class="meta">Remote OK · 2026-05-21</p>
+                <h2><a href="https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633" rel="noopener noreferrer" target="_blank">Chief Technology Officer</a></h2>
+                <p class="company">Access Softek</p>
+                <p class="location">Remote USA</p>
+                <p class="description">&lt;p&gt; &lt;/p&gt;&lt;p&gt;Access Softek is a leading provider of digital banking platforms for financial institutions across the U.S. &lt;/p&gt; &lt;p&gt;We are seeking a Chief Technology Officer to define and lead the companyâs technology vision, architecture strategy, and long-term platform evolution. This is an executive role responsible for ensuring technology is a core driver of business growth, product scalability, and operational resilience.&lt;/p&gt; &lt;p&gt;As CTO, you will partner with the CEO and executive leadership team to shape company strategy through technology, make high-impact architectural decisions, and ensure the organization is built to scale sustainably.&lt;/p&gt; &lt;p&gt;&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;What You&#x27;ll own </p>
+                <div class="tags"><span>banking</span><span>ceo</span><span>consulting</span><span>cto</span><span>design</span></div>
+              </div>
+            </article>
+            
+
+            <article class="job-card" data-source="Remotive">
+              <div>
+                <p class="meta">Remotive · 2026-05-19</p>
+                <h2><a href="https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-full-remote-worldwide-2090887" rel="noopener noreferrer" target="_blank">Mid/Senior AI Cinematic Video Editor (Full Remote - Worldwide)</a></h2>
+                <p class="company">EverAI</p>
+                <p class="location">Worldwide</p>
+                <p class="description">&lt;p class=&quot;h1&quot; style=&quot; line-height: 28px; padding: 0px; font-weight: 500; color: rgb(55, 62, 77); &quot;&gt;Our Vision &amp; Products&lt;/p&gt;&lt;p style=&quot;line-height: 24px; margin: 8px 0px 0px; padding: 0px; color: rgb(55, 62, 77); min-height: 1.5em;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 600;&quot;&gt;🚀 EverAI — Building the Future of AI Companionship&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 24px; margin: 8px 0px 0px; padding: 0px; color: rgb(55, 62, 77); min-height: 1.5em;&quot;&gt;&lt;em&gt;One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World&lt;/em&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 24px; margin: 8px 0px 0px; padding: 0px; color: rgb(55, 62, 77); min-height: 1.5em;&quot;&gt;&lt;em&gt;50 Million Users in 2 years — Help Us Reach 100M first, 500M nex</p>
+                <div class="tags"><span>AI/ML</span><span>REST</span><span>SOLID</span><span>after effects</span><span>customer acquisition</span></div>
+              </div>
+            </article>
+            
+
+            <article class="job-card" data-source="Remote OK">
+              <div>
+                <p class="meta">Remote OK · 2026-05-19</p>
+                <h2><a href="https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626" rel="noopener noreferrer" target="_blank">Software Engineer Platform</a></h2>
+                <p class="company">Benchling</p>
+                <p class="location">Remote</p>
+                <p class="description">&lt;p style=&quot;min-height:1.5em&quot;&gt;&lt;/p&gt;&lt;p style=&quot;min-height:1.5em&quot;&gt;We are rebuilding biotech for the AI era.&lt;br /&gt;&lt;br /&gt;When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&amp;D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.&lt;br /&gt;&lt;br /&gt;Benchling is the AI platform for biotech R&amp;D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around </p>
+                <div class="tags"><span>biotech</span><span>cloud</span><span>code</span><span>design</span><span>developer</span></div>
+              </div>
+            </article>
+            
+
+            <article class="job-card" data-source="Remote OK">
+              <div>
+                <p class="meta">Remote OK · 2026-05-19</p>
+                <h2><a href="https://remoteOK.com/remote-jobs/remote-analytics-engineer-upto-125-hr-mercor-1131797" rel="noopener noreferrer" target="_blank">Analytics Engineer Upto $125 hr</a></h2>
+                <p class="company">Mercor</p>
+                <p class="location">Toronto, Toronto, Ontario, Canada</p>
+                <p class="description">&lt;strong&gt;About The Job&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Mercor&lt;/strong&gt; connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include &lt;strong&gt;Benchmark&lt;/strong&gt;, &lt;strong&gt;General Catalyst&lt;/strong&gt;, &lt;strong&gt;Peter Thiel&lt;/strong&gt;, &lt;strong&gt;Adam D&#x27;Angelo&lt;/strong&gt;, &lt;strong&gt;Larry Summers&lt;/strong&gt;, and &lt;strong&gt;Jack Dorsey&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Position:&lt;/strong&gt; Data Engineering Expert&lt;br&gt;&lt;br&gt;&lt;strong&gt;Type:&lt;/strong&gt; &lt;strong&gt;Contract&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Compensation:&lt;/strong&gt; &lt;strong&gt;$90â$125/hour&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Location:&lt;/strong&gt; &lt;strong&gt;Remote&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Role Responsibilities&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Build long-ho</p>
+                <div class="tags"><span>analytics</span><span>design</span><span>digital nomad</span><span>educational</span><span>engineer</span></div>
+              </div>
+            </article>
+            
+
+            <article class="job-card" data-source="Remotive">
+              <div>
+                <p class="meta">Remotive · 2026-05-18</p>
+                <h2><a href="https://remotive.com/remote-jobs/marketing/paid-media-specialist-2090885" rel="noopener noreferrer" target="_blank">Paid Media Specialist</a></h2>
+                <p class="company">Noventra Group Europe</p>
+                <p class="location">Worldwide</p>
+                <p class="description">&lt;p&gt;Noventra Group Europe works with selected brands, suppliers, and retail partners across the European market, with a focus on product sourcing, procurement support, and commercial retail collaboration.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;As our partner brands continue to expand their presence across European retail channels, we are looking for a Remote Paid Media Specialist to support campaign coordination, audience research, paid advertising, and market development activities across Meta Ads and Google Ads.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;In this role, you will help promote selected brand and product initiatives, support campaign setup, analyze performance data, research audiences, and provide clear recommendations to impro</p>
+                <div class="tags"><span>A/B Testing</span><span>advertising</span><span>ecommerce</span><span>google ads</span><span>lead generation</span></div>
+              </div>
+            </article>
+            </section>
+  </main>
+  <footer><div class="wrap">Generated 2026-05-22T21:18:52.235446+00:00</div></footer>
+  <script>
+    const search = document.querySelector('#search');
+    const source = document.querySelector('#source');
+    const cards = [...document.querySelectorAll('.job-card')];
+    function applyFilters() {
+      const q = search.value.trim().toLowerCase();
+      const s = source.value;
+      cards.forEach(card => {
+        const matchesText = !q || card.innerText.toLowerCase().includes(q);
+        const matchesSource = !s || card.dataset.source === s;
+        card.style.display = matchesText && matchesSource ? '' : 'none';
+      });
+    }
+    search.addEventListener('input', applyFilters);
+    source.addEventListener('change', applyFilters);
+  </script>
+</body>
+</html>

@@ -1,7 +1,21 @@
 {
-  "count": 223,
-  "generated_at": "2026-05-22T22:33:34.269601+00:00",
+  "count": 224,
+  "generated_at": "2026-05-22T22:41:34.197545+00:00",
   "jobs": [
+    {
+      "company": "scaleai",
+      "description": "<p>Scale AI is at the forefront of the AI revolution, helping the U.S. government and allied partners unlock the potential of AI across national security missions. We’re building enterprise-grade generative AI solutions and delivering them into operational use cases that matter.</p> <p>We’re hiring an engagement manager (EM) to lead and coordinate delivery of agentic workflows who is eager to travel regularly to Europe and ultimately relocate to Germany to be onsite with customers. As an EM on our public sector delivery team, you will support a large account plan, manage day-to-day execution for customers, and ensure an incredible customer experience. This role is ideal for someone who blend",
+      "id": "cf3538006f5e0c88",
+      "location": "Washington, DC",
+      "posted_at": "2026-05-22T22:34:32+00:00",
+      "raw_source_id": "4699033005",
+      "source": "Greenhouse",
+      "tags": [
+        "Public Sector"
+      ],
+      "title": "Engagement Manager (Germany), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4699033005"
+    },
     {
       "company": "openai",
       "description": "About the team OpenAI’s mission is to ensure the responsible and widespread adoption of artificial intelligence. In support of that mission, the Ads Solutions team partners closely with advertisers to deeply understand their businesses and needs, helping inform the development of products and solutions that drive meaningful revenue growth and long-term success on the platform—while maintaining strong standards for user trust and platform integrity. About the role We’re looking for a Customer Success Manager to support advertisers in onboarding, launching, and growing on OpenAI’s advertising platform. You will manage a portfolio of partners and serve as a trusted advisor, helping them achieve",

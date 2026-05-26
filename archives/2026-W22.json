@@ -1,7 +1,274 @@
 {
-  "count": 5,
-  "generated_at": "2026-05-25T16:15:57.799279+00:00",
+  "count": 24,
+  "generated_at": "2026-05-26T17:22:08.630542+00:00",
   "jobs": [
+    {
+      "company": "openai",
+      "description": "About the Team The Monetization team is a new cross-functional group working across engineering, product, research, and design to build the foundational systems that will help OpenAI scale access to intelligence responsibly. Our mission is to develop user-first, privacy-preserving monetization products, including next-generation ads experiences, that strengthen user trust, unlock economic opportunity, and support OpenAI’s long-term innovation. Monetization plays a critical role in enabling OpenAI to continue pushing the boundaries of AI capabilities while ensuring the benefits of AGI are broadly shared. We believe monetization must be aligned with user value, uphold rigorous privacy and safe",
+      "id": "a1cdc9e8b0c24b79",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T17:18:15.004000+00:00",
+      "raw_source_id": "0b212a4a-6709-4da8-b59d-283a9bbf812e",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Software Engineer, Ad Formats",
+      "url": "https://jobs.ashbyhq.com/openai/0b212a4a-6709-4da8-b59d-283a9bbf812e"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Frontier Clusters team at OpenAI builds, launches, and supports the largest supercomputers in the world! Our mission is to make them work for frontier model training. We bring new clusters online, scale them to larger and larger training runs, improve cluster availability, and work with researchers to understand and fix the issues that keep jobs from running reliably. That means debugging issues across hardware and software, building the tools needed to operate these systems, and working closely with researchers to make frontier training reliable. About the Role You will build web-based tools that help answer critical questions about our supercomputing clusters: Why is thi",
+      "id": "f33ced89890674c4",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T16:47:45.468000+00:00",
+      "raw_source_id": "1312f55e-ff56-4dab-9bf7-a91e2c157572",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Full-Stack Software Engineer, Compute Foundations",
+      "url": "https://jobs.ashbyhq.com/openai/1312f55e-ff56-4dab-9bf7-a91e2c157572"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p>Figma is expanding how teams design, build, and collaborate together — and AI is fundamentally reshaping that future. We’re looking for a Director of Product to help define how t",
+      "id": "3a6955074fa28b10",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "posted_at": "2026-05-26T16:04:46+00:00",
+      "raw_source_id": "6002024004",
+      "source": "Greenhouse",
+      "tags": [
+        "Product"
+      ],
+      "title": "Director, Product - Enterprise",
+      "url": "https://boards.greenhouse.io/figma/jobs/6002024004?gh_jid=6002024004"
+    },
+    {
+      "company": "Batch Robotics GmbH",
+      "description": "<p><a href=\"http://www.batch-robotics.com/\">Batch Robotics</a> is revolutionizing how robots operate in factories — not through rigid programming or teaching by human demonstration, but with smart perception and AI intelligence. We are a team of 4 motivated people with +25 years of experience in industry and robotics. Our mission is to make robots smarter and more flexible, enabling batch-size-1 automation for surface treatment economically. Our technology helps factories in Europe to remain competitive with intelligent robotics.</p> <p>We are now looking for a <strong>Senior Machine Learning Engineer</strong> with technical excellence and entrepreneurial drive to join us in developing the n",
+      "id": "a81ec6b3e0a17688",
+      "location": "Munich",
+      "posted_at": "2026-05-26T15:59:03+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Development"
+      ],
+      "title": "Senior Machine Learning Engineer, Robot Learning (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/senior-machine-learning-engineer-robot-learning-munich-185255"
+    },
+    {
+      "company": "Logistikbude GmbH",
+      "description": "<p><strong>Lust, AI in ein echtes Produkt zu bringen?</strong></p> <p>Dann bist du bei uns genau richtig! Wir suchen einen engagierten Software Developer mit AI-Fokus (m/w/d), der mit uns die nächste Generation unserer Logistik-Plattform mitgestaltet – mit modernem .NET, einem starken Team und einer klaren Vision für den Einsatz von KI.</p> <p>Wir sind ein junges Tech-Unternehmen und entwickeln eine innovative Softwarelösung für die Logistik. Unser Ziel: Mehrweglösungen so einfach wie Einweg machen und damit einen der nervigsten Prozesse der Branche optimieren – während wir gleichzeitig den CO₂-Fußabdruck der Logistik deutlich reduzieren.</p> <p>In dieser Rolle bringst du KI dort ein, wo sie",
+      "id": "c24262bdf07dd233",
+      "location": "Dortmund",
+      "posted_at": "2026-05-26T15:30:52+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "(Senior) AI Software Engineer (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/logistikbude-gmbh/senior-ai-software-engineer-dortmund-369112"
+    },
+    {
+      "company": "Pronux GmbH",
+      "description": "<p><strong>Du willst nicht nur Kunden betreuen. Du willst Wachstum gestalten.</strong></p> <p>Du denkst strategisch, handelst unternehmerisch und hast Lust, in einem modernen Softwareunternehmen wirklich etwas zu bewegen? Dann suchen wir genau dich.</p> <p>Wir bei Pronux entwickeln seit über 15 Jahren mit PROPLAN eine etablierte Softwarelösung für die Planung und Steuerung komplexer Bauprojekte. Unsere Kunden gehören zu den führenden Unternehmen der Bauindustrie — und genau hier kommst du ins Spiel.</p> <p>KI ist für uns ein wesentliches Werkzeug bei unserer täglichen Arbeit und hilft uns wiederkehrende Prozesse zu automatisieren.</p> <p>Für unser wachsendes Customer-Success-Team suchen wir ",
+      "id": "b26485ab4adfe686",
+      "location": "Rosenheim",
+      "posted_at": "2026-05-26T14:30:43+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "title": "Senior Customer Success Manager (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pronux-gmbh/senior-customer-success-manager-rosenheim-462708"
+    },
+    {
+      "company": "Pronux GmbH",
+      "description": "<p><strong>Du willst nicht verwalten. Du willst etwas bewegen.</strong></p> <p>Du denkst unternehmerisch, handelst lösungsorientiert und hast Lust, in einem modernen Softwareunternehmen wirklich etwas zu bewegen?</p> <p>Dann suchen wir genau dich!</p> <p>Wir bei Pronux entwickeln seit über 15 Jahren mit PROPLAN eine etablierte Softwarelösung für die Planung und Steuerung komplexer Bauprojekte. Unsere Kunden gehören zu den führenden Unternehmen der Bauindustrie — und genau hier kommst du ins Spiel.</p> <p>KI ist für uns ein wesentliches Werkzeug bei unserer täglichen Arbeit und hilft uns wiederkehrende Prozesse zu automatisieren. Für unser wachsendes Customer-Success-Team suchen wir Menschen ",
+      "id": "dc9fa7a39dd1f5ab",
+      "location": "Rosenheim",
+      "posted_at": "2026-05-26T14:30:42+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Service"
+      ],
+      "title": "Junior Customer Success Manager (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pronux-gmbh/junior-customer-success-manager-rosenheim-263151"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>Databricks — the global leader in data and AI — is looking for a motivated Legal Counsel to play a key role in our growing EMEA business. This is an opportunity to bring your SaaS commercial experience to a company defining the next generation of data, analytics and AI — partnering with sales teams to enable some of the world's most innovative organisations to build on the Databricks Data Intelligence Platform.</p> <p>You will report to the Director &amp; Assistant General Counsel, EMEA Commercial Legal, and will be a valued part of the team responsible for reviewing and negotiating customer agreements, providing legal support for revenue-generating activities of Databricks, and helping t",
+      "id": "e6fe8bbe23f7bef4",
+      "location": "London, United Kingdom",
+      "posted_at": "2026-05-26T13:49:07+00:00",
+      "raw_source_id": "8564394002",
+      "source": "Greenhouse",
+      "tags": [
+        "Legal"
+      ],
+      "title": "Legal Counsel, EMEA Commercial",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564394002"
+    },
+    {
+      "company": "Würth Cloud Services GmbH",
+      "description": "<p>Würth Cloud Services GmbH is a dynamic and rapidly growing startup within the Würth Group.</p> <p>As a spin-off of the global market leader Würth, we combine the best of both worlds: experience and continuity with pioneering spirit and a sense of new beginnings.</p> <h2>Tasks</h2> <p><strong>Your Responsibilities:</strong></p> <ul> <li>Own and evolve the end-to-end test strategy across Web and API layers.</li> <li>Design, build, and maintain robust automation frameworks in Python and TypeScript using tools like Appium, Playwright, and Maestro.</li> <li>Define and track quality metrics (coverage, flakiness, escape defects)</li> <li>Design scalable CI/CD quality gates and optimize feedback ",
+      "id": "3ad590d07972fafd",
+      "location": "Berlin",
+      "posted_at": "2026-05-26T13:31:01+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Inspection",
+        "Quality Assurance"
+      ],
+      "title": "QA Engineer (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/wurth-cloud-services-gmbh/qa-engineer-berlin-363910"
+    },
+    {
+      "company": "Actana Consulting Services GmbH",
+      "description": "<p>Im Umfeld der Software-Qualität unterstützt der Mitarbeiter die Entwicklung und Etablierung effektiver, Automotive SPICE konformer Kennzahlen (KPIs) zur transparenten Bewertung des Software Entwicklungsfortschritts. Die Aufgabe erfolgt in enger Zusammenarbeit mit den Software Entwicklungsbereichen,<br> den Prozessverantwortlichen und der Qualitätsorganisation.</p> <h2>Aufgaben</h2> <p>- Erarbeitung, Definition und Etablierung von KPIs entlang Automotive SPICE relevanter Prozesse (z.B. SWE.1–SWE.6, SUP.1, SUP.8 etc.)<br> - Analyse bestehender Entwicklungs- und Qualitätsdaten, Ableitung sinnvoller Metriken und Identifikation von Optimierungspotenzialen - Abstimmung der KPI Definitionen mit ",
+      "id": "a920bdbc06a85ba0",
+      "location": "Munich",
+      "posted_at": "2026-05-26T13:00:47+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "SW-Quality Engineer (all gender)",
+      "url": "https://www.arbeitnow.com/jobs/companies/actana-consulting-services-gmbh/sw-quality-engineer-all-gender-munich-222220"
+    },
+    {
+      "company": "neural frames",
+      "description": "<p>Neural Frames is a leading AI music video generator, turning any song into a fully produced music video in minutes. We're bootstrapped, profitable, and growing fast at over $5M ARR.</p> <p>Our ambition is to build a category-defining company, helping tens of millions of audio creators to visualize their content and promote it online.</p> <p>As a profitable company, there is no VC drama. We are a small, ambitious group of people, striving to build something creators love.</p> <h2>Tasks</h2> <ul> <li>Own the systems that turn songs into videos: video generation pipelines, model orchestration, queue management, and the infrastructure that keeps it all running at scale.</li> <li>Design and bu",
+      "id": "b9676db3d097ee67",
+      "location": "Berlin",
+      "posted_at": "2026-05-26T11:00:43+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Backend Software Engineer // AI Music Video Platform",
+      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/backend-software-engineer-ai-music-video-platform-berlin-114134"
+    },
+    {
+      "company": "acemate.ai",
+      "description": "<p>acemate is building an AI learning & teaching platform for higher and further education institutions. We have strong traction, secured funding and are entering an exciting growth phase. We're looking for a passionate <strong>Senior Backend Engineer / Developer</strong> to drive our product forward and help us scale.</p> <p><strong>About acemate</strong></p> <p>Founded in 2024, acemate has quickly become the leading AI learning platform for higher and further education, trusted by top-tier institutions across four countries, including <strong>University of Cologne</strong>, <strong>WHU</strong> and the <strong>German Chambers of Commerce and Industry (IHKs)</strong>.</p> <ul> <li><strong>O",
+      "id": "d2266168411505b9",
+      "location": "Berlin",
+      "posted_at": "2026-05-26T10:30:56+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Senior Backend Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/acemateai/senior-backend-engineer-berlin-281232"
+    },
+    {
+      "company": "stripe",
+      "description": "<ul> <li style=\"font-weight: 400;\"> <h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3 id=\"about-the-team\">About the team</h3> <p>Stripe’s Customer Success Manager",
+      "id": "43ba2fc15d4d98af",
+      "location": "Dublin",
+      "posted_at": "2026-05-26T09:30:14+00:00",
+      "raw_source_id": "7921314",
+      "source": "Greenhouse",
+      "tags": [
+        "1340 Customer Success Management"
+      ],
+      "title": "Customer Success Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=7921314"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>P-1553</p> <p>As a Senior Designated Engineer and tech subject matter expert, you will partner closely with our Field and Engineering teams to deliver high-touch specialized support and tailored technical solutions for Databricks' largest and most strategic customers in the Digital Native Business (DNB) segment. In this customer-facing role, you will leverage your technical expertise in Apache Spark™ and other data technologies to triage and resolve complex product issues and unblock our customers’ most critical technical challenges.&nbsp;</p> <h3><strong>The Impact You Will Have</strong></h3> <ul> <li>Perform advanced Troubleshooting and Root Cause Analysis to resolve performance and rel",
+      "id": "aae5229dd9e44427",
+      "location": "Bengaluru, India",
+      "posted_at": "2026-05-26T07:22:26+00:00",
+      "raw_source_id": "8564166002",
+      "source": "Greenhouse",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Senior Designated Support Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\"><strong>GAQ327R184</strong></p> <p>We’re looking for a detail-oriented and execution-focused TA Operations Analyst to support the day-to-day operations of our global recruiting function. This role will help maintain and improve the processes, tools, and reporting that enable efficient and scalable hiring across Databricks, including the use of AI and automation to streamline workflows and enhance data quality.</p> <p>As an Analyst, Talent Acquisition Operations, you will play a key role in supporting our global talent organization by ensuring smooth operations and efficient, tech-enabled processes. You will assist in executing projects, maintaining data accuracy, an",
+      "id": "7ee0cd217c492e0a",
+      "location": "Belgrade, Serbia",
+      "posted_at": "2026-05-26T06:51:40+00:00",
+      "raw_source_id": "8555819002",
+      "source": "Greenhouse",
+      "tags": [
+        "Recruiting"
+      ],
+      "title": "Analyst, Talent Acquisition Operations",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555819002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p><strong>P-1558</strong></p> <p>We are looking for a strong <strong>Support Operations Leader</strong>, who will serve as the operational leader and strategic partner for the Bangalore support team. You will own critical support operations workflows and rhythms, strengthen coverage across priority support motions, and partner closely with cross-functional teams to improve how support operates at scale.</p> <p>An ideal candidate for this role will be a hands-on operational leader with a strong product operations mindset. The candidate will own core support operations rhythms, including shift scheduling, coverage planning, workflow clarity, and operating cadences, while driving cross-functio",
+      "id": "6ec521f323a998eb",
+      "location": "Bengaluru, India",
+      "posted_at": "2026-05-26T06:18:23+00:00",
+      "raw_source_id": "8560096002",
+      "source": "Greenhouse",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Staff Product Operations Manager",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560096002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>P- 1536</p> <p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to tackle technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started.</p> <p>The Partner Ecosystem team’s",
+      "id": "fda1f8536f15fc68",
+      "location": "Bengaluru, India",
+      "posted_at": "2026-05-26T05:50:47+00:00",
+      "raw_source_id": "8476582002",
+      "source": "Greenhouse",
+      "tags": [
+        "Engineering - Pipeline"
+      ],
+      "title": "Staff Software Engineer (L6) - Partner Ecosystem",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476582002"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p>As a member of the Engineering People Partner team, you’ll be a key partner in helping the largest function at Figma mature and thrive during a dynamic and high growth phase.&nbs",
+      "id": "70e5328f99743048",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "posted_at": "2026-05-25T19:45:28+00:00",
+      "raw_source_id": "6004746004",
+      "source": "Greenhouse",
+      "tags": [
+        "People"
+      ],
+      "title": "People Partner, Engineering",
+      "url": "https://boards.greenhouse.io/figma/jobs/6004746004?gh_jid=6004746004"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE ROLE The Engineering Acceleration team builds and operates the foundational systems that engineers use to build, test, and ship ChatGPT, the API, and OpenAI's infrastructure. We are looking for an engineer to help evolve OpenAI's build and continuous integration systems for a fast-growing engineering organization. This role sits at the intersection of developer productivity, build systems, distributed infrastructure, and software quality. You will work on the systems that determine how quickly and confidently engineers can move: Bazel-based builds, Buildkite pipelines, test selection, remote caching and execution, CI observability, and tooling that helps engineers understand and fi",
+      "id": "87cc84018a426109",
+      "location": "Not specified",
+      "posted_at": "2026-05-25T19:44:52.128000+00:00",
+      "raw_source_id": "202eb061-23d7-4a58-80c8-bc3b41e56d39",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Software Engineer, Build Systems / CI",
+      "url": "https://jobs.ashbyhq.com/openai/202eb061-23d7-4a58-80c8-bc3b41e56d39"
+    },
     {
       "company": "anthropic",
       "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold\">About the role</h2> <p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">As part of our growing Data Science and Analytics team, you will play a key role in Anthropic's mission of building safe and benefici",
@@ -19,7 +286,7 @@
     {
       "company": "stripe",
       "description": "<h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Technology Governance, Risk and Compliance (GRC) team is dedicated to delivering excellence across Stripe’s compliance with global and indus",
-      "id": "45e71e3ca92684af",
+      "id": "011c5dc1528591dd",
       "location": "Dublin",
       "posted_at": "2026-05-25T07:27:18+00:00",
       "raw_source_id": "7947471",
@@ -27,7 +294,7 @@
       "tags": [
         "8135 Compliance"
       ],
-      "title": "Program Manager, Engineering",
+      "title": "Program Manager, Engineering - Technology GRC",
       "url": "https://stripe.com/jobs/search?gh_jid=7947471"
     },
     {

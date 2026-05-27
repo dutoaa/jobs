@@ -1,7 +1,732 @@
 {
-  "count": 24,
-  "generated_at": "2026-05-26T17:22:08.630542+00:00",
+  "count": 75,
+  "generated_at": "2026-05-27T16:58:02.331310+00:00",
   "jobs": [
+    {
+      "company": "openai",
+      "description": "About the Team The Stargate organization is responsible for building and scaling the physical infrastructure systems that power OpenAI’s next generation of AI training and inference platforms. This includes the manufacturing, deployment, and operational execution required to bring large-scale compute infrastructure online globally. The team operates at the intersection of data center infrastructure, hardware manufacturing, supply chain, deployment operations, and systems planning. We partner closely across Infrastructure Strategy, Manufacturing Operations, Capacity Planning, Supply Chain, Deployment, and Engineering to execute one of the largest infrastructure scale-outs in the industry. Abo",
+      "id": "e860235f13186726",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T16:44:18.933000+00:00",
+      "raw_source_id": "713a9469-fb35-49db-809e-36f67c920880",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Technical Program Manager, Rack Delivery",
+      "url": "https://jobs.ashbyhq.com/openai/713a9469-fb35-49db-809e-36f67c920880"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Stargate organization is responsible for building and scaling the physical infrastructure systems required to support OpenAI’s rapidly growing AI training and inference platforms. As infrastructure scale accelerates globally, long-range demand planning, supply readiness, and infrastructure forecasting are becoming increasingly critical capabilities across the organization. The team partners across Finance, Infrastructure Strategy, Capacity Planning, Manufacturing Operations, Strategic Sourcing, and Supply Chain to ensure infrastructure growth can scale predictably and efficiently. About the Role We are seeking a Technical Program Manager, Demand Planning & S&OP to help bui",
+      "id": "5ddc734c2c932022",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T16:42:21.149000+00:00",
+      "raw_source_id": "3b38affc-b034-40f9-89c9-8e963c5e6838",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Technical Program Manager, Demand Planning and S&OP",
+      "url": "https://jobs.ashbyhq.com/openai/3b38affc-b034-40f9-89c9-8e963c5e6838"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the team</strong></h2> <p>The Data Center Security Engineering team owns the security posture of Anthropic-operated data center infrastructure, from the physical facility up to the booted node. As Anthropic moves from cloud tenant to operating our own compute footprint at scale,",
+      "id": "9397d64bea98d657",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "posted_at": "2026-05-27T16:26:50+00:00",
+      "raw_source_id": "5231717008",
+      "source": "Greenhouse",
+      "tags": [
+        "Security"
+      ],
+      "title": "Supply Chain Security & Assurance Lead",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5231717008"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Growth team drives user and revenue growth across ChatGPT’s consumer and business segments as well as other OpenAI products worldwide. We operate across the full funnel - from awareness and acquisition through activation, retention, and expansion - using a combination of global performance marketing, AI-powered workflows, in-product optimization, insights, experimentation, and creative ops engineering. Our Product Growth (PG) team is a rapidly scaling functional area, accelerating growth by connecting out-of-product and in-product experiences into seamless journeys that acquire, retain, and re-engage users, unlocking ChatGPT’s transformative potential in users’ daily lives",
+      "id": "37db2983d29a22e5",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T16:14:38.356000+00:00",
+      "raw_source_id": "02ee1352-9c8f-4efc-8127-d8f4eaed4474",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Growth, Cross Channel Creative",
+      "url": "https://jobs.ashbyhq.com/openai/02ee1352-9c8f-4efc-8127-d8f4eaed4474"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Strategy &amp; Analytics (S&amp;A) maximizes and accelerates Operations' abil",
+      "id": "0f5163a2a5a16d54",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-05-27T15:28:04+00:00",
+      "raw_source_id": "7919064",
+      "source": "Greenhouse",
+      "tags": [
+        "4176 Support S&A"
+      ],
+      "title": "Business Partner Analyst",
+      "url": "https://stripe.com/jobs/search?gh_jid=7919064"
+    },
+    {
+      "company": "Quantum- Systems GmbH",
+      "description": "<a target=\"_blank\" href=\"https://www.fernride.com/\"><img style=\"width: 650px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/b8sbpn98trem3vs54lo7m8fynocgn4/Quantum-Systems-uebernimmt-Fernride-169FullWidth-1559f24-393125.avif\" /></a><p style=\";;\"></p><p>As a Senior Robotics & Machine Learning Engineer, you will shape the next generation of autonomous ground systems. You will design and implement core components of our end‑to‑end autonomy stack — from <strong>perception</strong> and <strong>prediction</strong> to <strong>path planning</strong> and <strong>vehicle control</strong>. Your work enables reliable operation of unmanned ground vehicles (UGVs) in challenging environm",
+      "id": "b5043a0d5ad6fc96",
+      "location": "München",
+      "posted_at": "2026-05-27T15:20:12+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "bachelor's degree"
+      ],
+      "title": "Senior Robotics & Machine Learning Engineer (m/f/d) - Fernride GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-robotics-machine-learning-engineer-fernride-gmbh-munchen-258296"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team Like every team at OpenAI, the Marketing team contributes to our broader mission of ensuring responsible and widespread adoption of artificial intelligence. With that aim in mind, we are responsible for developing and executing strategies that drive awareness, engagement, and usage for OpenAI’s products and platform amongst our core audiences. Our focus extends beyond just promoting product features; we aim to provide valuable insights and resources that help our users make the most out of AI technologies. About the Role As an Industry PMM, you will help define how OpenAI brings frontier AI to priority industries. This role sits at the center of OpenAI’s industry marketing mot",
+      "id": "3593b7fbd3bc4419",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T15:08:27.730000+00:00",
+      "raw_source_id": "0e078d07-fb0b-4893-b90a-f50e413f3e13",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Industry Product Marketing Manager",
+      "url": "https://jobs.ashbyhq.com/openai/0e078d07-fb0b-4893-b90a-f50e413f3e13"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">At Figma we believe design doesn't end in a file or with your designer — it includes everything that",
+      "id": "f53897aea9baa00b",
+      "location": "Dublin, Ireland",
+      "posted_at": "2026-05-27T15:00:58+00:00",
+      "raw_source_id": "6002655004",
+      "source": "Greenhouse",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Software Engineer (Dublin, Ireland)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6002655004?gh_jid=6002655004"
+    },
+    {
+      "company": "Omnora GmbH",
+      "description": "<h2>About The Role And Potential Progression</h2> <p>Mit unserer <strong>Intelligence Management Plattform</strong> lösen wir eine der größten Herausforderungen der kommenden Dekade: <strong>Wie Unternehmen ihr Expertenwissen bewahren</strong>, bevor es durch Ruhestand oder Fluktuation verloren geht.</p> <p>Als <strong>Founding AI Engineer</strong> übernimmst du Verantwortung für ein visionäres Produkt an der Schnittstelle von <strong>KI, UX und Wissensmanagement</strong>. Du entwirfst, implementierst und verbesserst ein KI-basiertes System, das Fachexperten vollautomatisiert interviewt, ihr implizites Wissen erfasst und dieses Wissen über verschiedene Formate und Schnittstellen im Unternehm",
+      "id": "a42b9ba97a8cf6ef",
+      "location": "Frankfurt am Main",
+      "posted_at": "2026-05-27T14:59:02+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Project Management"
+      ],
+      "title": "Founding AI Engineer (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/omnora-gmbh/founding-ai-engineer-frankfurt-am-main-165839"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The B2B Marketing team is responsible for helping businesses understand, adopt, and get value from OpenAI's products. B2B marketing is a major and growing priority for OpenAI as we scale our work with companies, developers, and institutions around the world. The team operates across field marketing, campaigns, customer storytelling, thought leadership, events, lifecycle programs, and executive communications. We partner closely with Sales, Product, Communications, Finance, Recruiting, and company leadership to build programs that drive durable growth across enterprise and business audiences. About the Role As a Strategy & Operations Lead on the B2B Marketing team, you will hel",
+      "id": "ce2394ffc7a4315d",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T14:29:52.042000+00:00",
+      "raw_source_id": "493f5328-27bc-4987-9cc1-47ec3793a4d5",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Strategy & Operations Lead, B2B Marketing",
+      "url": "https://jobs.ashbyhq.com/openai/493f5328-27bc-4987-9cc1-47ec3793a4d5"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">As we continue to grow globally, we're looking for an International Go-to-Market Lead to drive Figma",
+      "id": "280fdf71f63e9e24",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "posted_at": "2026-05-27T13:58:55+00:00",
+      "raw_source_id": "6004606004",
+      "source": "Greenhouse",
+      "tags": [
+        "Marketing"
+      ],
+      "title": "Manager, Figma for Education",
+      "url": "https://boards.greenhouse.io/figma/jobs/6004606004?gh_jid=6004606004"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems. As we scale, our corporate structure and the flows between our entities are growing more complex. We are looking for a Head of Consolidati",
+      "id": "fea5a269376715df",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-05-27T13:57:30+00:00",
+      "raw_source_id": "5229804008",
+      "source": "Greenhouse",
+      "tags": [
+        "Finance"
+      ],
+      "title": "Head of Consolidations & Intercompany",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229804008"
+    },
+    {
+      "company": "Solactive AG",
+      "description": "<h2>Company Description</h2> <p>Since its creation in 2007 in the financial city of Frankfurt am Main, Solactive AG has grown to one of the key players in the indexing space. The German multi-asset index provider focusses on tailor-made indices, offering to its clients a faster service, with greater flexibility and at a reasonable cost. Solactive AG and its subsidiaries have become one of the fastest growing index providers over the past few years and support the leading investment banks and asset managers across the globe. We have gained global recognition for our role in the Exchange Traded Fund (ETF) industry, where we rank among the top providers worldwide for underlying indices. We also",
+      "id": "09da70a33ac7f4ba",
+      "location": "Frankfurt am Main",
+      "posted_at": "2026-05-27T09:00:36+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Head of Data Platform (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/solactive-ag/head-of-data-platform-frankfurt-am-main-366943"
+    },
+    {
+      "company": "1KOMMA5˚",
+      "description": "<h2>1KOMMA5°</h2> <p>At <strong>1KOMMA5°</strong>, we pursue a clear vision: <strong>Living on wind and sunlight forever for free</strong>. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?</p> <p>We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to t",
+      "id": "b013046ee2f61486",
+      "location": "Hamburg",
+      "posted_at": "2026-05-27T07:00:30+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "(Senior) Product Engineer - Heartbeat (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-product-engineer-heartbeat-hamburg-498496"
+    },
+    {
+      "company": "stripe",
+      "description": "<h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About Finance Operations</strong></h3> <p>The Finance Operations (FinOps) team provides and enhances core business services that are the backbone ",
+      "id": "1179450adf64c6b5",
+      "location": "Bengaluru",
+      "posted_at": "2026-05-27T05:48:20+00:00",
+      "raw_source_id": "7941741",
+      "source": "Greenhouse",
+      "tags": [
+        "6427 Procurement"
+      ],
+      "title": "Strategic Sourcing Analyst",
+      "url": "https://stripe.com/jobs/search?gh_jid=7941741"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are</strong></h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies from the world’s largest enterprises to the most ambitious startups use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Platform Sales team works with B2B Software Platforms to help them fa",
+      "id": "49d02dcb4d9f2db6",
+      "location": "Sydney Or Melbourne",
+      "posted_at": "2026-05-27T04:54:53+00:00",
+      "raw_source_id": "7680548",
+      "source": "Greenhouse",
+      "tags": [
+        "1195 Account Executives (APAC)"
+      ],
+      "title": "Account Executive, Platforms",
+      "url": "https://stripe.com/jobs/search?gh_jid=7680548"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to ensure that general-purpose artificial intelligence benefits all of humanity. We believe that achieving our goal requires effective engagement with public policy stakeholders and the broader community impacted by AI. Accordingly, our Global Affairs team builds authentic, collaborative relationships with public officials and the broader AI policymaking community to inform and support our shared work in these domains. We ensure that insights from policymakers inform our work and - in collaboration with our colleagues and external stakeholders - support the development of regulation, industry standards, and safe and beneficial development of AI tools. About",
+      "id": "e7d6ae5fee66d282",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T04:12:53.595000+00:00",
+      "raw_source_id": "08373218-5ce5-4a45-9e4b-a2e21a0067be",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Safety Policy Manager, Global Affairs",
+      "url": "https://jobs.ashbyhq.com/openai/08373218-5ce5-4a45-9e4b-a2e21a0067be"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p>We are looking for a driven Sales Enablement Manager to support our growing sales function in Japan. This role will help shape and scale regional enablement strategy and roadmap,",
+      "id": "e6dff587f57b0709",
+      "location": "Tokyo, Japan",
+      "posted_at": "2026-05-27T03:20:03+00:00",
+      "raw_source_id": "6003308004",
+      "source": "Greenhouse",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Senior Field Enablement Manager (Tokyo, Japan)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6003308004?gh_jid=6003308004"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Corporate Development team sits at the intersection of OpenAI’s strategy and the global AI ecosystem. Partnering closely with research, engineering, product, GTM and business leaders, we analyze markets, technologies, and companies to identify opportunities that accelerate OpenAI’s mission and long-term strategy. Bringing together expertise in strategy, M&A, and integration, the team leads the end-to-end process of sourcing, evaluating, negotiating, and integrating acquisitions and other strategic transactions. About the Role This is a high-visibility, strategically critical, cross-functional role at the intersection of M&A execution, enterprise go-to-market, and operation",
+      "id": "52d88ac2fa452a67",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T03:10:52.189000+00:00",
+      "raw_source_id": "db3593d6-ac72-4d3e-b15c-8469e972a99a",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "M&A Integration Lead",
+      "url": "https://jobs.ashbyhq.com/openai/db3593d6-ac72-4d3e-b15c-8469e972a99a"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s Strategic Finance organization provides financial insights and guidance to support the company’s long-term strategy and ambitious growth. We partner across Product, Partnerships, Engineering, and Marketing to allocate resources to the highest-impact opportunities while protecting sustainable unit economics. The Applications Technology Strategic Finance team partners closely with Product to scale core offerings and bring new products to market. We lead revenue forecasting and performance management across the product portfolio, including economic margins, pricing, and partnership deal pricing and structuring. About the Role We are hiring a senior strategic finance thou",
+      "id": "fa5e575b9abd3c27",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T03:02:35.293000+00:00",
+      "raw_source_id": "a0eef158-0ea5-4ce8-aabd-dd6816fe9af8",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Strategic Finance, Product",
+      "url": "https://jobs.ashbyhq.com/openai/a0eef158-0ea5-4ce8-aabd-dd6816fe9af8"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>As a Partners Solutions Architect on the Applied AI team at Anthropic, you will be a Pre-Sales architect focused on cultivating technical relationships with our Global and Regional System Integrators (GSIs/RSIs), and our cloud partners (AWS and GCP). Yo",
+      "id": "905be70c181d28e7",
+      "location": "Tokyo, Japan",
+      "posted_at": "2026-05-27T01:43:20+00:00",
+      "raw_source_id": "5222908008",
+      "source": "Greenhouse",
+      "tags": [
+        "Applied AI"
+      ],
+      "title": "Partner Solutions Architect, Applied AI",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5222908008"
+    },
+    {
+      "company": "openai",
+      "description": "About the team The AI Deployment Engineering team ensures the safe and effective deployment of Generative AI applications for developers and enterprises. We serve as trusted technical advisors, helping customers and partners move from early experimentation to production-scale AI systems. As a Partner AI Deployment Engineer focused primarily on AWS, you will operate at the center of one of our most strategic partnerships, driving customer outcomes through AWS and partner ecosystems while supporting other strategic partners where needed. About the role We are looking for a highly experienced technical leader to serve as the primary technical counterpart to AWS field leadership (Solutions Archi",
+      "id": "346fadd8c5440c84",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T01:39:27.343000+00:00",
+      "raw_source_id": "28f1454f-a790-47e4-bf10-ca1834fe500b",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Partner AI Deployment Engineer - AWS",
+      "url": "https://jobs.ashbyhq.com/openai/28f1454f-a790-47e4-bf10-ca1834fe500b"
+    },
+    {
+      "company": "openai",
+      "description": "About the team The AI Deployment Engineering team ensures the safe and effective deployment of Generative AI applications for developers and enterprises. We serve as trusted technical advisors, helping customers and partners move from early experimentation to production-scale AI systems. As a Partner AI Deployment Engineer focused primarily on AWS, you will operate at the center of one of our most strategic partnerships, driving customer outcomes through AWS and partner ecosystems while supporting other strategic partners where needed. About the role We are looking for a highly experienced technical leader to serve as the primary technical counterpart to AWS field leadership (Solutions Archi",
+      "id": "e050958b10fa524b",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T01:38:52.430000+00:00",
+      "raw_source_id": "48fdb9b8-af29-4250-ac92-44a0e9d60735",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Partner AI Deployment Engineer - AWS",
+      "url": "https://jobs.ashbyhq.com/openai/48fdb9b8-af29-4250-ac92-44a0e9d60735"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE TEAM OpenAI is building tools that enable people across an organization to create software, automate work, and build new capabilities with AI. To make that real at scale, we need AI native education that helps people develop durable skills, not just watch content. In Customer Education, we design learning experiences and certifications that accelerate adoption and unlock new builders inside enterprise customers. As the Learning Experience and Curriculum Lead, you will build learning pathways for the AI workforce. You will design learning experiences, write curriculum, define assessments. You will leverage AI throughout the work. That includes using models to draft and QA course con",
+      "id": "94de0bbc7dc51785",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T01:15:37.240000+00:00",
+      "raw_source_id": "c4726cfd-59c2-4977-80c3-e2204ce27b8e",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Customer Education, Learning Experience & Curriculum Lead",
+      "url": "https://jobs.ashbyhq.com/openai/c4726cfd-59c2-4977-80c3-e2204ce27b8e"
+    },
+    {
+      "company": "openai",
+      "description": "About the team OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how to leverage and deploy our highly capable AI products across their business. The team is made of Sales, Solutions,, Support, Marketing, and Partnership professionals that work together to create valuable solutions that will help bring AI to as many users as possible. About the role Our Go To Market team has a unique mission to help c",
+      "id": "7aa383cfaaf94605",
+      "location": "Not specified",
+      "posted_at": "2026-05-27T01:04:15.455000+00:00",
+      "raw_source_id": "65e1a63a-2dd8-4fbd-b034-2bdf5455632a",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "GTM Enablement Lead",
+      "url": "https://jobs.ashbyhq.com/openai/65e1a63a-2dd8-4fbd-b034-2bdf5455632a"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the Role:&nbsp;</strong></h2> <p>As a Manager of Startups Applied AI Architects at Anthropic, you will drive adoption of frontier AI by leading a team of technical architects to help startups build AI-native products with the Claude Developer Platform. Your team is expected to w",
+      "id": "8a4576dcbcd3b50b",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-05-26T23:52:35+00:00",
+      "raw_source_id": "5230755008",
+      "source": "Greenhouse",
+      "tags": [
+        "Applied AI"
+      ],
+      "title": "Manager of Applied AI Architecture, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5230755008"
+    },
+    {
+      "company": "Flix",
+      "description": "<p>At Flix, we offer a dynamic work environment with competitive pay, strong growth opportunities, and a tech-driven approach to making travel more accessible, sustainable, and affordable. </p> <p><span data-contrast=\"auto\">We're looking for a motivated and skilled </span><strong><span data-contrast=\"auto\">Senior Data Platform Engineer </span></strong><span data-contrast=\"auto\">to join our </span><strong><span data-contrast=\"auto\">Core Data Platform team – Foundation Division</span></strong><span data-contrast=\"auto\">. You will help us drive the company to the next level, and have the most direct influence on our success.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"3355",
+      "id": "ec4cf970af98e2c8",
+      "location": "Berlin, Berlin, Germany",
+      "posted_at": "2026-05-26T23:45:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Senior Data Platform Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-platform-engineer-berlin-267183"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s Enterprise Go-To-Market organization helps the world’s largest companies adopt and scale our AI platform across their business, from ChatGPT Enterprise to our developer platform and APIs. We partner with organizations across Financial Services, Life Sciences, and Retail to build new AI-powered customer experiences, transform operations, and reimagine how work gets done in highly regulated and technically complex environments. As adoption accelerates through pilots, experimentation, and developer-led use cases, the GTM team turns that momentum into durable, enterprise-wide deployments. Business Development sits at the front of this motion, where technical curiosity tur",
+      "id": "d7d8c303c6594521",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T23:20:43.439000+00:00",
+      "raw_source_id": "1eb6ef0f-0e51-46d3-b888-c1a4c22c190a",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Business Development Representative - EMEA (French Speaking)",
+      "url": "https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s Enterprise Go-To-Market organization helps the world’s largest companies adopt and scale our AI platform across their business, from ChatGPT Enterprise to our developer platform and APIs. We partner with organizations across Financial Services, Life Sciences, and Retail to build new AI-powered customer experiences, transform operations, and reimagine how work gets done in highly regulated and technically complex environments. As adoption accelerates through pilots, experimentation, and developer-led use cases, the GTM team turns that momentum into durable, enterprise-wide deployments. Business Development sits at the front of this motion, where technical curiosity tur",
+      "id": "22ba37ca42a05475",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T23:20:07.463000+00:00",
+      "raw_source_id": "6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Business Development Representative - EMEA (German Speaking)",
+      "url": "https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI Finance ensures the organization is positioned for long-term success as we pursue our mission. The Strategic Sourcing & Procurement function plays a critical role in enabling OpenAI to deliver impact across research, product development, technology infrastructure, and services by helping the company scale responsibly, securely, and with strong commercial discipline. Our work sits at the intersection of innovation and execution. We partner closely with teams across OpenAI to translate rapidly evolving business needs into scalable, compliant, and economically sound external partnerships. As OpenAI continues to grow at pace, services sourcing is becoming increasingly strat",
+      "id": "3935ed56143e172f",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T23:08:14.158000+00:00",
+      "raw_source_id": "1a28b2f0-76f4-4fb3-b224-e0ab9f60cee0",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Strategic Sourcing Leader, Go-to-Market",
+      "url": "https://jobs.ashbyhq.com/openai/1a28b2f0-76f4-4fb3-b224-e0ab9f60cee0"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div class=\"flex items-center justify-between px-2 py-2 bg-bg-000 gap-2\"> <div class=\"flex items-center gap-2 flex-1 overflow-hidden pl-3\"> <h2><strong>About the role</strong></h2> <p>Anthropic is looking for an Enterprise Communications Manager. This is a central role in how Anthropic shows up w",
+      "id": "d668abad1b207208",
+      "location": "San Francisco, CA | New York City, NY",
+      "posted_at": "2026-05-26T23:02:35+00:00",
+      "raw_source_id": "5164551008",
+      "source": "Greenhouse",
+      "tags": [
+        "Communications"
+      ],
+      "title": "Communications Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5164551008"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Global GTM Data Science and AI Solutions team sits at the intersection of OpenAI’s products, customers, and commercial strategy. We partner closely with Sales, RevOps, Product, and leadership to turn data science and AI capabilities into practical tools that improve how we go to market and support customers. Our work focuses on identifying high-impact opportunities, scaling AI-powered workflows, and ensuring our commercial teams have the insights and systems they need to succeed. We operate in a fast-moving environment where strategy and execution happen in parallel, and where the ability to translate technical innovation into real business impact is critical. This team pl",
+      "id": "3e9df63e4eeede91",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T22:21:18.254000+00:00",
+      "raw_source_id": "f791a3c9-853c-4a24-a925-05b31cfec024",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Strategy & Operations Lead",
+      "url": "https://jobs.ashbyhq.com/openai/f791a3c9-853c-4a24-a925-05b31cfec024"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ227R703</p> <h3><strong>Lead GTM Enablement &amp; Scale Architect - Lakebase, Field Engineering</strong></h3> <h3><strong>About Databricks</strong></h3> <p>More than 10,000 organizations worldwide - including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow.</p> <h3><strong>The Impact You Will Have</strong></h3> <p>Lakebase is Databricks' managed, serverless PostgreSQL database built f",
+      "id": "96e35974605b8100",
+      "location": "United States",
+      "posted_at": "2026-05-26T22:03:25+00:00",
+      "raw_source_id": "8548502002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - Enablement"
+      ],
+      "title": "Lead GTM Enablement & Scale Architect, Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548502002"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>Stripe is looking for an exceptional t",
+      "id": "f7b2f50fab7b17b9",
+      "location": "United States",
+      "posted_at": "2026-05-26T21:47:45+00:00",
+      "raw_source_id": "7950824",
+      "source": "Greenhouse",
+      "tags": [
+        "6320 Commercial Legal"
+      ],
+      "title": "Commercial Counsel",
+      "url": "https://stripe.com/jobs/search?gh_jid=7950824"
+    },
+    {
+      "company": "stripe",
+      "description": "<h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team’s mission is",
+      "id": "60e29db8833f0b3b",
+      "location": "San Francisco",
+      "posted_at": "2026-05-26T21:30:35+00:00",
+      "raw_source_id": "7927089",
+      "source": "Greenhouse",
+      "tags": [
+        "8554 Payments Experiences - PM"
+      ],
+      "title": "Product Manager, Terminal Device Expansion",
+      "url": "https://stripe.com/jobs/search?gh_jid=7927089"
+    },
+    {
+      "company": "scaleai",
+      "description": "<p>Scale's Enterprise Applications business is growing faster than ever in the quest to <strong>develop reliable AI systems for the world's most important decisions</strong>. As an AI Deployment Strategist you will be right at the center of it, helping our largest customers build, launch, and scale groundbreaking GenAI solutions that redefine their industries. You will take full ownership of our deployment success, turning bold ideas into real impact and ensuring every engagement delivers exceptional results.</p> <p>In this role, you will work directly with data, engineering, business and AI leaders at some of the world's top Enterprises. You will guide projects from the first conversation t",
+      "id": "0a9970d4e57244b3",
+      "location": "San Francisco, CA; New York, NY",
+      "posted_at": "2026-05-26T20:50:15+00:00",
+      "raw_source_id": "4699458005",
+      "source": "Greenhouse",
+      "tags": [
+        "Enterprise Operations"
+      ],
+      "title": "AI Deployment Strategist, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4699458005"
+    },
+    {
+      "company": "Flix",
+      "description": "<p><span style=\"font-size: 12pt;\">At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership.</span></p> <p><span style=\"font-size: 12pt;\">We're looking for a <strong>Senior Software Engineer - Android (m/f/d)</strong> to help shape the future of Flix mobile experiences, making travel seamless for millions of users worldwide. In this role, you'll be a key contributor to developing high-quality, scalable, and user-friendly Mobile applications that enhance the passenger journey.</span></p> <p><span style=\"font-size: 12pt;\">You'll be joining the Android Team under the Mobil",
+      "id": "0ebef338ed9a4834",
+      "location": "Berlin, Berlin, Germany",
+      "posted_at": "2026-05-26T20:45:25+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Senior Software Engineer - Mobile/Android (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-mobile-android-berlin-256431"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Risk Operations team is looki",
+      "id": "323762ede0facd0f",
+      "location": "US-Remote",
+      "posted_at": "2026-05-26T20:41:12+00:00",
+      "raw_source_id": "7913410",
+      "source": "Greenhouse",
+      "tags": [
+        "4896 Fraud Operations"
+      ],
+      "title": "Fraud Patterns Analysts",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913410"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The mission of Fraud Operations i",
+      "id": "143a57dd434f7ce3",
+      "location": "US-Remote",
+      "posted_at": "2026-05-26T20:28:58+00:00",
+      "raw_source_id": "7913406",
+      "source": "Greenhouse",
+      "tags": [
+        "4896 Fraud Operations"
+      ],
+      "title": "Payments Fraud Investigator",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913406"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s Equity Programs and Compensation teams design and support compensation frameworks that help attract, retain, and motivate exceptional talent as we pursue our mission of ensuring artificial general intelligence benefits all of humanity. Together, these teams build thoughtful, scalable programs across cash and equity compensation, grounded in strong governance and disciplined stewardship. Partnering closely with Finance, Legal, and People leaders, the teams develop competitive compensation programs and equity frameworks that align our people with OpenAI’s long-term success. About the Role We are hiring a Compensation Analyst, Equity and Executive Compensation to join Op",
+      "id": "a54a6a446500d52e",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T20:07:51.478000+00:00",
+      "raw_source_id": "2b44b27b-d9c1-44a5-8a88-17cdb63f49c9",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Compensation Analyst, Equity & Executive Compensation",
+      "url": "https://jobs.ashbyhq.com/openai/2b44b27b-d9c1-44a5-8a88-17cdb63f49c9"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to build safe artificial general intelligence (AGI) that benefits all of humanity. To achieve this, we bring together world-class scientists, engineers, and business leaders to build and deploy transformative AI technologies. Our Go-To-Market (GTM) team helps customers successfully adopt and scale OpenAI’s products across their organizations. The GTM Strategy & Operations team serves as the operational backbone of the business, building the systems, processes, and insights that enable efficient growth and execution. About the Role As a Director, GTM Strategy & Operations, you will play a critical role in designing and scaling the operational infrastructure ",
+      "id": "50b93039ef96fb69",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T19:56:52.294000+00:00",
+      "raw_source_id": "e4c2acbb-bfab-4a5d-ae79-a70c11e4e81e",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Sales Operations",
+      "url": "https://jobs.ashbyhq.com/openai/e4c2acbb-bfab-4a5d-ae79-a70c11e4e81e"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE TEAM OpenAI is building Procurement of the future: one that uses AI-enabled systems, clean data, and scalable processes to help the business absorb increasing complexity, speed, volume, and throughput — while enabling teams across OpenAI to operate more strategically and at greater scale. Supplier Administration is a critical foundation of that model. Accurate, complete, and well-governed supplier data enables faster purchasing, cleaner payments, stronger controls, better reporting, more effective risk management, and more scalable automation across the procure-to-pay lifecycle. ABOUT THE ROLE We are looking for a Supplier Master Data Lead to help reimagine how supplier administrat",
+      "id": "dc4f0b027ed7d3f6",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T19:22:19.971000+00:00",
+      "raw_source_id": "2719a0cb-00c7-40dc-b237-ff013a454a20",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Supplier Master Data Lead (P2P Systems, Controls & Automation)",
+      "url": "https://jobs.ashbyhq.com/openai/2719a0cb-00c7-40dc-b237-ff013a454a20"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE ROLE We’re looking for a Procurement Enablement Lead to improve how employees and stakeholders navigate procurement at OpenAI. This role partners across Procurement, Finance, Legal, Security, Privacy, and Enterprise Technology to simplify workflows, improve guidance, and support scalable procurement experiences across the procurement lifecycle. You’ll translate procurement policies and operational requirements into clearer processes, better-enabled systems, and more intuitive employee experiences that reduce friction while strengthening consistency and controls as OpenAI continues to grow. This role is ideal for someone who combines operational judgment, process design, and strong ",
+      "id": "b89c5fb4be6fb345",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T19:22:09.152000+00:00",
+      "raw_source_id": "5aaf1e78-c506-480f-91a7-e32092557eb9",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Procurement Enablement Lead",
+      "url": "https://jobs.ashbyhq.com/openai/5aaf1e78-c506-480f-91a7-e32092557eb9"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Corporate Security team is responsible for safeguarding all OpenAI employees and executives. Our mission is to create a secure, resilient environment that allows our teams to focus on their work without risk or disruption. We manage physical security operations across offices, events, and global initiatives, partnering closely with internal teams and external agencies to stay ahead of emerging threats. About the Role As a Corporate Security Manager, based in our San Francisco office, you will lead day-to-day security operations while supporting the development of global physical security strategies, policies, and procedures. You will work cross-functionally to maintain a s",
+      "id": "bf5484e1e8de6b9b",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T18:54:52.685000+00:00",
+      "raw_source_id": "39c7261f-d21e-42e8-b14e-2c71842cd35e",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Corporate Security Manager",
+      "url": "https://jobs.ashbyhq.com/openai/39c7261f-d21e-42e8-b14e-2c71842cd35e"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Global Payments Experiences group is an organization focused on bringing new and novel payment methods to Stripe, and ensuri",
+      "id": "bb47e0c60bf7dfb7",
+      "location": "N/A",
+      "posted_at": "2026-05-26T18:53:32+00:00",
+      "raw_source_id": "7895287",
+      "source": "Greenhouse",
+      "tags": [
+        "8516 Payments Global"
+      ],
+      "title": "Backend Engineer, Payments Experiences",
+      "url": "https://stripe.com/jobs/search?gh_jid=7895287"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Global Payments Experiences group is an organization focused on bringing new and novel payment methods to Stripe, and ensuri",
+      "id": "40d45789bf44fc88",
+      "location": "N/A",
+      "posted_at": "2026-05-26T18:51:39+00:00",
+      "raw_source_id": "7895284",
+      "source": "Greenhouse",
+      "tags": [
+        "8516 Payments Global"
+      ],
+      "title": "Full Stack Engineer, Payments Experiences",
+      "url": "https://stripe.com/jobs/search?gh_jid=7895284"
+    },
+    {
+      "company": "openai",
+      "description": "OVERVIEW OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. As AI capabilities rapidly evolve, the success of our customers increasingly depends on their ability to effectively deploy, operationalize, and scale AI within real-world workflows. The Post-Training and Customer organizations play a critical role in bridging advanced AI systems with durable customer value. We are seeking a Director, AI Deployment Management to lead and scale OpenAI’s global AI Deployment Management (ADM) organization. This leader will oversee all ADM teams, including: - Builder ADM — focused on Codex and builder workflows - Core ADM — focused on foundational customer workf",
+      "id": "cf0d85877f495030",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T18:44:34.750000+00:00",
+      "raw_source_id": "be694086-9de7-4b5a-b501-75aa30de4fbe",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Director, AI Deployment Management",
+      "url": "https://jobs.ashbyhq.com/openai/be694086-9de7-4b5a-b501-75aa30de4fbe"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>In this role, you’ll report into ",
+      "id": "8aedc06dcc910a19",
+      "location": "CDMX",
+      "posted_at": "2026-05-26T18:26:19+00:00",
+      "raw_source_id": "7954511",
+      "source": "Greenhouse",
+      "tags": [
+        "6540 Talent Development"
+      ],
+      "title": "Talent and Development Facilitator",
+      "url": "https://stripe.com/jobs/search?gh_jid=7954511"
+    },
+    {
+      "company": "databricks",
+      "description": "<p><strong>REQ ID: </strong><strong> </strong>FEQ327R160</p> <p><strong>Location:</strong><strong> </strong>London, UK</p> <p><strong>Recruiter:</strong> Dina Hussain</p> <p data-pm-slice=\"1 1 []\">&nbsp;</p> <p>At Databricks, our core values are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We provide a user-friendly and intuitive platform that makes it easy to turn insights into action and fosters a culture of creativity, experimentation, and con",
+      "id": "0600c076ce03122f",
+      "location": "London, United Kingdom",
+      "posted_at": "2026-05-26T17:46:08+00:00",
+      "raw_source_id": "8517068002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "title": "Senior Solutions Architect (Enterprise Accounts)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Monetization team is a new cross-functional group working across engineering, product, research, and design to build the foundational systems that will help OpenAI scale access to intelligence responsibly. Our mission is to develop user-first, privacy-preserving monetization products, including next-generation ads experiences, that strengthen user trust, unlock economic opportunity, and support OpenAI’s long-term innovation. Monetization plays a critical role in enabling OpenAI to continue pushing the boundaries of AI capabilities while ensuring the benefits of AGI are broadly shared. We believe monetization must be aligned with user value, uphold rigorous privacy and safe",
+      "id": "b7c1327ca9fa44d4",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T17:44:41.959000+00:00",
+      "raw_source_id": "5a4eed17-29d5-41cb-856e-09bfdaffe017",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Software Engineer, Ads Manager",
+      "url": "https://jobs.ashbyhq.com/openai/5a4eed17-29d5-41cb-856e-09bfdaffe017"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"heading\"><strong>About the role</strong></h2> <p>As a Data Engineering Manager focused on GTM &amp; Marketing, you will build and lead the data engineering team responsible for turning complex commercial data into the trusted foundations that power decision-making across Anthropic's GT",
+      "id": "f604fb3276c0e5d7",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
+      "posted_at": "2026-05-26T17:33:29+00:00",
+      "raw_source_id": "5229976008",
+      "source": "Greenhouse",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "Data Engineering Manager, GTM & Marketing",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229976008"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team Our Executive Operations team includes Executive Business Partners and Administrative Business Partners, who serve as trusted advisors and collaborators to OpenAI's executives and leaders, focused on strong communication and operational excellence across teams. With a focus on elevating the impact and efficiency of leadership, we anticipate needs, streamline processes, and provide comprehensive support to ensure our executives can focus on high-impact initiatives. We play a pivotal role in driving success and achieving key milestones by cultivating strong relationships and leveraging our deep understanding of business objectives. With a commitment to excellence and a proactive",
+      "id": "0c5a22123511b4ff",
+      "location": "Not specified",
+      "posted_at": "2026-05-26T17:31:00.561000+00:00",
+      "raw_source_id": "acecf462-236f-4b24-ac0b-dfff835ee711",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Executive Business Partner, People",
+      "url": "https://jobs.ashbyhq.com/openai/acecf462-236f-4b24-ac0b-dfff835ee711"
+    },
     {
       "company": "openai",
       "description": "About the Team The Monetization team is a new cross-functional group working across engineering, product, research, and design to build the foundational systems that will help OpenAI scale access to intelligence responsibly. Our mission is to develop user-first, privacy-preserving monetization products, including next-generation ads experiences, that strengthen user trust, unlock economic opportunity, and support OpenAI’s long-term innovation. Monetization plays a critical role in enabling OpenAI to continue pushing the boundaries of AI capabilities while ensuring the benefits of AGI are broadly shared. We believe monetization must be aligned with user value, uphold rigorous privacy and safe",
@@ -268,20 +993,6 @@
       ],
       "title": "Software Engineer, Build Systems / CI",
       "url": "https://jobs.ashbyhq.com/openai/202eb061-23d7-4a58-80c8-bc3b41e56d39"
-    },
-    {
-      "company": "anthropic",
-      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold\">About the role</h2> <p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">As part of our growing Data Science and Analytics team, you will play a key role in Anthropic's mission of building safe and benefici",
-      "id": "bb39d364ac00538d",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-      "posted_at": "2026-05-25T09:25:19+00:00",
-      "raw_source_id": "5116820008",
-      "source": "Greenhouse",
-      "tags": [
-        "Data Science & Analytics"
-      ],
-      "title": "Data Scientist, Platform Product",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008"
     },
     {
       "company": "stripe",

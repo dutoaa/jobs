@@ -1,7 +1,330 @@
 {
-  "count": 75,
-  "generated_at": "2026-06-16T18:24:50.335713+00:00",
+  "count": 102,
+  "generated_at": "2026-06-17T16:51:43.476073+00:00",
   "jobs": [
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p class=\"font-claude-response-body break-words whitespace-normal\">Figma's Databases team owns the foundational data layer that powers every Figma file, component, comment, and coll",
+      "id": "0ec82482523cd2be",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "posted_at": "2026-06-17T16:29:55+00:00",
+      "raw_source_id": "6084344004",
+      "source": "Greenhouse",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Manager, Software Engineering - Storage Platform",
+      "url": "https://boards.greenhouse.io/figma/jobs/6084344004?gh_jid=6084344004"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI Finance ensures the organization is positioned for long-term success as we pursue our mission. The Order to Cash (OTC) team oversees the complete flow of commercial transactions from order intake and provisioning through billing, collections, and cash application — ensuring accuracy, compliance, and operational excellence in support of OpenAI’s mission to ensure artificial general intelligence benefits all of humanity. About the Role We are seeking an experienced Credit & Collections Lead to help scale OpenAI’s global accounts receivable, credit risk, and collections operations as our commercial business and customer base continue to grow. In this role, you will own the",
+      "id": "d53f281a731e7ece",
+      "location": "Not specified",
+      "posted_at": "2026-06-17T16:28:03.080000+00:00",
+      "raw_source_id": "da3bed10-dfa7-4e44-bb16-414dd56cc16b",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Credit and Collections Lead",
+      "url": "https://jobs.ashbyhq.com/openai/da3bed10-dfa7-4e44-bb16-414dd56cc16b"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how to leverage and deploy our highly capable AI products across their business. The team is made of Sales, Solutions, Support, Marketing, and Partnership professionals that work together to create valuable solutions that will help bring AI to as many users as possible. About the Role Our Sales team has a unique mission to help customers",
+      "id": "4a9f722726390ee5",
+      "location": "Not specified",
+      "posted_at": "2026-06-17T16:27:55.548000+00:00",
+      "raw_source_id": "6aa5b751-d949-434e-8fc7-1991d8112071",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Account Director, Large Enterprise",
+      "url": "https://jobs.ashbyhq.com/openai/6aa5b751-d949-434e-8fc7-1991d8112071"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE TEAM The Growth team is responsible for helping millions of users discover the value of ChatGPT and seamlessly access our paid experiences. We build the mobile experiences that drive activation, conversion, and retention across our subscription products. Our work sits at the intersection of product, design, engineering, and experimentation. We own critical user journeys including upgrade surfaces, purchase experiences, subscription management, and the end-to-end experiences that help users get the most value from ChatGPT. As an Android Engineer on Growth, you'll help shape how users experience and engage with ChatGPT's paid offerings on one of our most important platforms. ABOUT TH",
+      "id": "0080c54f17624928",
+      "location": "Not specified",
+      "posted_at": "2026-06-17T16:23:51.387000+00:00",
+      "raw_source_id": "57bbaedc-30c1-4f1d-b194-e32a6adf874c",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Android Engineer, Growth",
+      "url": "https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c"
+    },
+    {
+      "company": "openai",
+      "description": "About the team The AI Deployment Engineering team works closely with frontier startups. We are trusted advisors to, and thought partners with, startups to ensure that OpenAI’s technology is deployed safely and effectively, whilst also partnering with engineering, research, and product to turn those insights into evaluation systems, product improvements, and better model behavior. This team sits at the intersection of customer reality and model quality. We combine hands-on technical depth with strong product judgment, helping translate complex, high-value use cases into clear signals that can improve both the customer experience and the underlying systems. About the role We are seeking a tech",
+      "id": "b19bda1ef0b372d1",
+      "location": "Not specified",
+      "posted_at": "2026-06-17T16:14:29.798000+00:00",
+      "raw_source_id": "b76848b3-d545-40cc-b8b4-585501f09760",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "AI Deployment Engineer, Startups",
+      "url": "https://jobs.ashbyhq.com/openai/b76848b3-d545-40cc-b8b4-585501f09760"
+    },
+    {
+      "company": "openai",
+      "description": "About the team OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how to leverage and deploy our highly capable AI products across their business. The team is made of Sales, Solutions, Support, Marketing, and Partnership professionals that work together to create valuable solutions that will help bring AI to as many users as possible. About the role Our Sales team has a unique mission to help customers",
+      "id": "3c0ae18d364f8107",
+      "location": "Not specified",
+      "posted_at": "2026-06-17T15:06:41.729000+00:00",
+      "raw_source_id": "4e51e1ac-3fe0-46b5-b036-6143826ecfa5",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Account Director, Digital Natives - Nordics",
+      "url": "https://jobs.ashbyhq.com/openai/4e51e1ac-3fe0-46b5-b036-6143826ecfa5"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>FEQ327R253</p> <p>We are looking for a Sr. Manager, Field Engineering – Lakebase, to join our world-class hyper-growth organization. In this role, you will lead a specialized team of pre-sales Solutions Architects focused on our high priority product-line, Lakebase.&nbsp; The team will engage with complex, strategic accounts, helping drive the growth and expansion of our Lakebase product offering in a territory that spans across multiple verticalized business units..</p> <p>Your experience partnering with sales organizations will help grow consumption, while coaching new sales and pre-sales team members to work together and raise the bar to best-in-class execution. Your team will engage, ",
+      "id": "5b6eccc3fa477edb",
+      "location": "London, United Kingdom",
+      "posted_at": "2026-06-17T12:56:36+00:00",
+      "raw_source_id": "8596090002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "title": "Senior Manager, Field Engineering - Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596090002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>FEQ327R253</p> <p>We are looking for a Sr. Manager, Field Engineering – Lakebase, to join our world-class hyper-growth organization. In this role, you will lead a specialized team of pre-sales Solutions Architects focused on our high priority product-line, Lakebase.&nbsp; The team will engage with complex, strategic accounts, helping drive the growth and expansion of our Lakebase product offering in a territory that spans across multiple verticalized business units..</p> <p>Your experience partnering with sales organizations will help grow consumption, while coaching new sales and pre-sales team members to work together and raise the bar to best-in-class execution. Your team will engage, ",
+      "id": "45efc9b20136d717",
+      "location": "Munich, Germany",
+      "posted_at": "2026-06-17T12:56:33+00:00",
+      "raw_source_id": "8596093002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "title": "Senior Manager, Field Engineering - Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596093002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>FEQ327R253</p> <p>We are looking for a Sr. Manager, Field Engineering – Lakebase, to join our world-class hyper-growth organization. In this role, you will lead a specialized team of pre-sales Solutions Architects focused on our high priority product-line, Lakebase.&nbsp; The team will engage with complex, strategic accounts, helping drive the growth and expansion of our Lakebase product offering in a territory that spans across multiple verticalized business units..</p> <p>Your experience partnering with sales organizations will help grow consumption, while coaching new sales and pre-sales team members to work together and raise the bar to best-in-class execution. Your team will engage, ",
+      "id": "eccda2188b076e0d",
+      "location": "Paris, France",
+      "posted_at": "2026-06-17T12:56:32+00:00",
+      "raw_source_id": "8596092002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "title": "Senior Manager, Field Engineering - Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596092002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ327R361</p> <p>Databricks is seeking multiple <strong>Lakebase Sales Specialists (UKI) </strong>to help customers modernize their operational data foundation with <strong>Databricks Lakebase</strong>, our <strong>fully-managed Postgres</strong> offering for <strong>intelligent applications</strong>. This high-impact role sits within the Lakebase Go-To-Market team and partners closely with regional Account Executives to drive adoption of Lakebase with platform, application, and data teams.</p> <p>Lakebase gives customers a unified, governed foundation for <strong>operational workloads</strong> and <strong>AI-native applications</strong>, helping them move away fr",
+      "id": "8ed4f73c84795c6b",
+      "location": "London, United Kingdom",
+      "posted_at": "2026-06-17T12:00:23+00:00",
+      "raw_source_id": "8569548002",
+      "source": "Greenhouse",
+      "tags": [
+        "HQ Management"
+      ],
+      "title": "Lakebase Sales Specialist (UKI)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569548002"
+    },
+    {
+      "company": "NFON",
+      "description": "<h2>Dein neuer Job</h2> <p>Mit Begeisterung für Conversational AI entwickelst du eine skalierbare Multi-Tenant-Plattform, die den Zugang zu Cutting-Edge-LLM-Technologien öffnet und Unternehmen die Zukunft der Kommunikation näherbringt.</p> <h2>Woran du mitwirken wirst</h2> <ul> <li>In enger Zusammenarbeit mit unserem KI-Team, planst, programmierst und betreibst du Software eigenverantwortlich</li> <li>Du testest neue Funktionalitäten und sorgst für die Qualitätssicherung der Plattform</li> <li>Du stehst in Kontakt mit unseren Kund:innen, um ihre Bedürfnisse zu verstehen und außergewöhnliche Lösungen zu schaffen</li> </ul> <h2>Die Qualifikationen, die Du brauchst</h2> <ul> <li>Du hast bereits",
+      "id": "b307a28f3f96da72",
+      "location": "Munich",
+      "posted_at": "2026-06-17T10:00:49+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "title": "Software Engineer (all genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/nfon/software-engineer-all-genders-munich-61655"
+    },
+    {
+      "company": "Strictly Boring GmbH",
+      "description": "<p>Strictly Boring baut AI- und Automations-Systeme für E-Commerce-Brands ab ca. 5 Mio. € Umsatz. Wir lösen operative Probleme, die in wachsenden DTC-Teams täglich Zeit, Marge und Fokus kosten: manuelle Reportings, repetitive Support-Prozesse, fehleranfällige Datenflüsse zwischen Shopify, Klaviyo, ERP und anderen Tools.</p> <p>Unser Anspruch: keine AI-Demos, keine Hype-Pitch-Decks, sondern Systeme, die im Alltag laufen, messbar entlasten und auch in der Black Week funktionieren.</p> <p>Gegründet wurde Strictly Boring von Leon Ruddat, zuvor drei Jahre Head of AI & Automation bei SNOCKS. Aktuell wachsen wir aus der Solo-Gründerphase in eine kleine, fokussierte Delivery-Organisation. Dafür such",
+      "id": "0b55d593aafa653c",
+      "location": "Mannheim",
+      "posted_at": "2026-06-17T08:29:03+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Software Engineer / AI Systems (m/w/d) - Mannheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/strictly-boring-gmbh/software-engineer-ai-systems-mannheim-207551"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ127R35</p> <p>As part of our accelerating growth, Databricks is looking for a dynamic Digital Native Account Executive to join us in Seoul, Korea. This is an exciting Sales role that will make an important impact on the revenue and expansion of our business. As a Digital Native Account Executive, your mission will be to acquire and grow some of our focus customers. You know how to sell within a variety of Digital Native Business vertical domains and can guide deals forward to compress decision cycles. You love understanding a product in-depth and are passionate about communicating its value to customers and partners. Always prospecting for new opportunities, you",
+      "id": "b39b97612eb14869",
+      "location": "Seoul, South Korea",
+      "posted_at": "2026-06-17T08:11:55+00:00",
+      "raw_source_id": "8194920002",
+      "source": "Greenhouse",
+      "tags": [
+        "Enterprise Sales"
+      ],
+      "title": "Digital Native Account Executive",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8194920002"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>As an Enterprise Account Executive at Anthropic, you'll join the foundational team at the forefront of introducing our cutting-edge AI productivity SaaS solution to large enterprise organizations across DACH. You'll drive the adoption of safe, frontier ",
+      "id": "93aaecbf14efb939",
+      "location": "Munich, Germany",
+      "posted_at": "2026-06-17T07:46:46+00:00",
+      "raw_source_id": "5223738008",
+      "source": "Greenhouse",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Enterprise Account Executive, Industries Generalist",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223738008"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>REQ ID - FEQ427R319</p> <p>Location:&nbsp; Toronto, ON</p> <p>We are looking for pre-sales professionals who have a successful track record helping large enterprises become more data-driven. Working with the Enterprise Account Executive (AE), the Sr. Solutions Engineer defines and directs the technical strategy for our largest and important accounts, leading to more widespread use of our products and wider and deeper adoption of ML &amp; AI. You will lean upon your background in value selling, technical account management and technical leadership to maximize success in these accounts. While you work with a team that includes hands-on resources who will build proofs of concept and demonstr",
+      "id": "963877f9d6cc94ab",
+      "location": "Toronto, Canada",
+      "posted_at": "2026-06-17T05:23:13+00:00",
+      "raw_source_id": "8593371002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - FE Direct Regulated"
+      ],
+      "title": "Sr. Solutions Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593371002"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2 id=\"who-we-are\">Who we are</h2> <h3 id=\"about-stripe\">About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3 id=\"about-the-team\">About the team</h3> <p>The Global Payment Methods and Expansion Partnerships team develops and ma",
+      "id": "0a17bcd562a13ded",
+      "location": "Singapore",
+      "posted_at": "2026-06-17T03:10:28+00:00",
+      "raw_source_id": "7994539",
+      "source": "Greenhouse",
+      "tags": [
+        "3514 Regional Product Partnerships"
+      ],
+      "title": "Partner Development Manager (Global Payment Methods)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7994539"
+    },
+    {
+      "company": "openai",
+      "description": "About the team OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how to leverage and deploy our highly capable AI products across their business. The team is made of Sales, Solutions, Support, Marketing, and Partnership professionals that work together to create valuable solutions that will help bring AI to as many users as possible. About the role Our Sales team has a unique mission to help customers",
+      "id": "4ecbc7b952057e93",
+      "location": "Not specified",
+      "posted_at": "2026-06-17T02:58:23.614000+00:00",
+      "raw_source_id": "e6050096-9dcc-4054-8f3c-02af8b5bcbeb",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Account Director, Public Sector - Tokyo",
+      "url": "https://jobs.ashbyhq.com/openai/e6050096-9dcc-4054-8f3c-02af8b5bcbeb"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Global Sales Vendors team partners with third-party external sales organ",
+      "id": "18577ecc84012f07",
+      "location": "Remote in the US",
+      "posted_at": "2026-06-17T02:01:11+00:00",
+      "raw_source_id": "8011418",
+      "source": "Greenhouse",
+      "tags": [
+        "1131 Vendor Mgmt and SD PM"
+      ],
+      "title": "Sales Excellence Manager, Global Sales Vendors",
+      "url": "https://stripe.com/jobs/search?gh_jid=8011418"
+    },
+    {
+      "company": "openai",
+      "description": "About The Team OpenAI’s mission is to ensure that general-purpose artificial intelligence benefits all of humanity. The Global Events team is a dynamic and ethos-driven group dedicated to crafting one-of-a-kind and extraordinary experiences that encompass OpenAI’s values and mission. Our team is driven by a deep passion for shining the spotlight on others and bringing people together to connect in meaningful ways. The Events Production team, a sub-team of Events, collaborates with Event Managers to transform ideas into well-organized, immersive experiences that resonate with audiences and achieve business goals. About the Role We’re looking for an exceptional Event Producer to join the Globa",
+      "id": "895e2404c56dfa78",
+      "location": "Not specified",
+      "posted_at": "2026-06-17T00:45:11.859000+00:00",
+      "raw_source_id": "0ce05097-56c7-42ac-8e86-1a1492d7f387",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Producer, Global Events",
+      "url": "https://jobs.ashbyhq.com/openai/0ce05097-56c7-42ac-8e86-1a1492d7f387"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE TEAM: OpenAI’s Hardware organization develops silicon and system-level solutions designed for the unique demands of advanced AI workloads. The team is responsible for building the next generation of AI-native silicon while working closely with software and research partners to co-design hardware tightly integrated with AI models. In addition to delivering production-grade silicon for OpenAI’s supercomputing infrastructure, the team also creates custom design tools and methodologies that accelerate innovation and enable hardware optimized specifically for AI. ROLE OVERVIEW We are seeking a Package Reliability Engineer to lead reliability engineering for advanced packages used in hig",
+      "id": "a6294beeea629587",
+      "location": "Not specified",
+      "posted_at": "2026-06-16T22:30:59.069000+00:00",
+      "raw_source_id": "6d545b2c-5697-4f38-affc-aaa309f5bb26",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Advanced Packaging Reliability Engineer",
+      "url": "https://jobs.ashbyhq.com/openai/6d545b2c-5697-4f38-affc-aaa309f5bb26"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team Our Robotics team is focused on unlocking general-purpose robotics and pushing towards AGI-level intelligence in dynamic, real-world settings. Working across the entire model stack, we integrate cutting-edge hardware and software to explore a broad range of robotic form factors. We strive to seamlessly blend high-level AI capabilities with the constraints of physical systems to improve peoples’ lives. About the Role We are seeking a Lead Robotics Safety Engineer to define and lead the product safety strategy for our robotics program. You will work closely with leadership, engineering, research, legal, and policy teams to ensure safety is integrated into our products from the e",
+      "id": "acb398dfbb9ee17e",
+      "location": "Not specified",
+      "posted_at": "2026-06-16T19:30:47.204000+00:00",
+      "raw_source_id": "809d22a7-bb04-446f-a409-da323a6c327e",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Lead Safety Engineer, Robotics",
+      "url": "https://jobs.ashbyhq.com/openai/809d22a7-bb04-446f-a409-da323a6c327e"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team Our Robotics team is focused on unlocking general-purpose robotics and pushing towards AGI-level intelligence in dynamic, real-world settings. Working across the entire model stack, we integrate cutting-edge hardware and software to explore a broad range of robotic form factors. We strive to seamlessly blend high-level AI capabilities with the constraints of physical systems to improve peoples’ lives. About the Role We are seeking a Lead Product & Industrial Designer to help define the visual identity, form language, and physical expression of our robotic products. You will work closely with leadership, product, and engineering teams to shape how our systems look, feel, and co",
+      "id": "a32821020e201132",
+      "location": "Not specified",
+      "posted_at": "2026-06-16T19:29:41.084000+00:00",
+      "raw_source_id": "04a780c7-f672-43d1-9e73-37ce17b82403",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Lead Industrial Designer, Robotics",
+      "url": "https://jobs.ashbyhq.com/openai/04a780c7-f672-43d1-9e73-37ce17b82403"
+    },
+    {
+      "company": "openai",
+      "description": "About the Role We are hiring a Cyber Partnerships Lead to develop and execute OpenAI's global cybersecurity partnership strategy. This person will lead high-impact product, platform, and research partnerships across the cybersecurity ecosystem. The right person can shape where OpenAI should go deep with strategic security partners, how we enable a broader ecosystem, and how product, security, safety, policy, legal, and commercial considerations should inform a partnership. You will bring the voice of security partners into OpenAI while helping internal teams turn ambiguous opportunities into clear product, commercial, and launch decisions. You will work with leading security platforms, softw",
+      "id": "a78c5bb68167f528",
+      "location": "Not specified",
+      "posted_at": "2026-06-16T19:27:14.383000+00:00",
+      "raw_source_id": "cb846094-f44b-4afb-a5e1-f031ad8ca278",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Business Development Lead - Cyber",
+      "url": "https://jobs.ashbyhq.com/openai/cb846094-f44b-4afb-a5e1-f031ad8ca278"
+    },
     {
       "company": "stripe",
       "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Global Sales Enablement team equips Stripe's go-to-market organization wi",
@@ -344,6 +667,38 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8009536"
     },
     {
+      "company": "Quinncia Inc",
+      "description": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 ",
+      "id": "5c1bdabe955b1118",
+      "location": "Worldwide",
+      "posted_at": "2026-06-16T06:59:30+00:00",
+      "raw_source_id": "2090991",
+      "source": "Remotive",
+      "tags": [
+        "AI/ML",
+        "CSS",
+        "NLP",
+        "REST",
+        "Typescript",
+        "UI/UX",
+        "Webpack",
+        "computer vision",
+        "data visualization",
+        "docker",
+        "frontend",
+        "github",
+        "graphql",
+        "javascript",
+        "jest",
+        "next.js",
+        "react js",
+        "testing",
+        "video"
+      ],
+      "title": "Frontend Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991"
+    },
+    {
       "company": "databricks",
       "description": "<p data-pm-slice=\"1 1 []\">FEQ327R299</p> <p>As an AI/ML Specialist Solutions Architect (SSA), you will be the trusted technical ML &amp; AI expert to both Databricks customers and the Field Engineering organization. You will work with Solution Architects to guide customers in architecting production-grade ML &amp; AI applications on Databricks, while aligning their technical roadmap with the continually evolving Databricks Data Intelligence Platform. You will continue to strengthen your technical skills through applying cutting-edge technologies in GenAI, MLOps, and ML more broadly, expanding your impact through mentorship, and establishing yourself as an AI thought leader.&nbsp;</p> <p>This",
       "id": "5f99720443f46565",
@@ -442,6 +797,42 @@
       "url": "https://jobs.ashbyhq.com/openai/3124e8f0-e9e7-4c8b-8541-13cbbc5d1f4a"
     },
     {
+      "company": "TrueML",
+      "description": "<p> </p><h3><strong>Why TrueML?</strong></h3> <p>TrueML is a mission-driven financial software company that aims to create better customer experiences for distressed borrowers. Consumers today want personal, digital-first experiences that align with their lifestyles, especially when it comes to managing finances. TrueMLâs approach uses machine learning to engage each customer digitally and adjust strategies in real time in response to their interactions. </p> <p>The TrueML team includes inspired data scientists, financial services industry experts and customer experience fanatics building technology to serve people in a way that recognizes their unique needs and preferences as human beings",
+      "id": "90c10bdaa5c503b1",
+      "location": "Lenexa, Kansas",
+      "posted_at": "2026-06-16T00:00:10+00:00",
+      "raw_source_id": "1133456",
+      "source": "Remote OK",
+      "tags": [
+        "api",
+        "cloud",
+        "customer support",
+        "design",
+        "dev",
+        "devops",
+        "digital nomad",
+        "docker",
+        "education",
+        "engineer",
+        "exec",
+        "finance",
+        "infosec",
+        "javascript",
+        "marketing",
+        "ops",
+        "python",
+        "recruiter",
+        "serverless",
+        "sys admin",
+        "technical",
+        "testing",
+        "travel"
+      ],
+      "title": "DevSecOps Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-devsecops-engineer-trueml-1133456"
+    },
+    {
       "company": "openai",
       "description": "ABOUT THE TEAM OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. The Consumer Devices team is building a new generation of AI-powered products that seamlessly integrate hardware and software to create intuitive, transformative experiences. We bring together experts across embedded systems, machine learning, hardware, design, and product engineering to develop products at the intersection of AI and consumer technology. ABOUT THE ROLE OpenAI is seeking a System Performance Engineer to profile, benchmark, and optimize performance across our embedded hardware products. In this role, you will work across operating systems, applications, camera and vision",
       "id": "302f908f00b7c92d",
@@ -454,6 +845,41 @@
       ],
       "title": "System Performance Engineer, Consumer Devices",
       "url": "https://jobs.ashbyhq.com/openai/3fe77c71-1f20-45b5-8291-62f0d2104989"
+    },
+    {
+      "company": "Upgrade, Inc.",
+      "description": "<p><span><em><span>Upgrade helps customers move in the right direction with affordable and responsible financial products. Since 2017, weâve helped over 7.5 million customers access over $42 billion in consumer credit. With a relentless focus on improving our customers' financial well-being, we build products that put more money in their pocket and support their journey toward a better financial future. Weâre backed by some of the most prominent technology investors and were most recently valued at $7.3B.</span></em></span></p><p><span><em><span>Weâre consistently recognized for our collaborative and inclusive culture. Most recently, we were named one of the Worldâs Top Fintech Compa",
+      "id": "8447a17c88aa33d2",
+      "location": "San Francisco, San Francisco, California, United States",
+      "posted_at": "2026-06-15T22:43:02+00:00",
+      "raw_source_id": "1133488",
+      "source": "Remote OK",
+      "tags": [
+        "analyst",
+        "customer support",
+        "data science",
+        "education",
+        "engineer",
+        "excel",
+        "exec",
+        "finance",
+        "full time",
+        "game dev",
+        "golang",
+        "junior",
+        "marketing",
+        "medical",
+        "microsoft",
+        "music",
+        "ops",
+        "recruiter",
+        "senior",
+        "stats",
+        "testing",
+        "video"
+      ],
+      "title": "Junior Business & Data Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-business-amp-data-analyst-upgrade-inc-1133488"
     },
     {
       "company": "openai",
@@ -738,8 +1164,8 @@
     {
       "company": "databricks",
       "description": "<p>FEQ327R253</p> <p>We are looking for a Sr. Manager, Field Engineering – Lakebase, to join our world-class hyper-growth organization. In this role, you will lead a specialized team of pre-sales Solutions Architects focused on our high priority product-line, Lakebase.&nbsp; The team will engage with complex, strategic accounts, helping drive the growth and expansion of our Lakebase product offering in a territory that spans across multiple verticalized business units..</p> <p>Your experience partnering with sales organizations will help grow consumption, while coaching new sales and pre-sales team members to work together and raise the bar to best-in-class execution. Your team will engage, ",
-      "id": "44a3a3a16648b6aa",
-      "location": "Amsterdam, Netherlands; London, United Kingdom; Munich, Germany; Paris, France",
+      "id": "96036b264faed9da",
+      "location": "Amsterdam, Netherlands",
       "posted_at": "2026-06-15T15:42:25+00:00",
       "raw_source_id": "8568039002",
       "source": "Greenhouse",
@@ -917,6 +1343,20 @@
       ],
       "title": "Member of Technical Staff (Software Engineer, Comet and Native Apps)",
       "url": "https://jobs.ashbyhq.com/perplexity/be0bab19-d24e-4233-ab9e-edb6f6a16620"
+    },
+    {
+      "company": "databricks",
+      "description": "<div>Reporting to the Director, Enterprise Sales for Switzerland. Austria and Eastern Europe, as a Startup Hunter Account Executive at Databricks, you will focus on acquiring new accounts across Eastern Europe. As a successful candidate, you are a self-starter who understands how to generate pipeline and manage full sales cycles. You have experience with the consumption business, know how to sell innovation and value to new prospective customers, identify first or new use cases, and can guide them forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to customers and partners. Always prospecting for new use case opport",
+      "id": "c4c9c5a94514d4b3",
+      "location": "Zürich, Switzerland",
+      "posted_at": "2026-06-15T10:11:02+00:00",
+      "raw_source_id": "8575200002",
+      "source": "Greenhouse",
+      "tags": [
+        "Enterprise Sales"
+      ],
+      "title": "Startup Hunter Account Executive - Eastern Europe",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575200002"
     },
     {
       "company": "ON-POINT Connect GmbH",

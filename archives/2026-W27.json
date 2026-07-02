@@ -1,11 +1,517 @@
 {
-  "count": 107,
-  "generated_at": "2026-07-01T16:18:18.286011+00:00",
+  "count": 133,
+  "generated_at": "2026-07-02T15:59:59.596756+00:00",
   "jobs": [
     {
       "company": "databricks",
+      "description": "<p>CSQ327R216</p> <p>As a Sr. Field Technical Program Manager (TPM) role in our Forward Deployed Engineering team, you will play a pivotal role in delivering complex technical projects that drive customer success and our business growth. Forward Deployed Engineering is part of the Field Engineering (FE) organization, the technical arm of Databricks’ customer-facing teams.&nbsp;</p> <p>The TPM position understands our customers’ business goals and can steer technical projects from beginning to end with exceptional outcomes. You will start on projects after a statement of work is agreed (i.e. post-sales) and will leverage your technical expertise and project management skills to navigate custo",
+      "id": "26349a9150bc454d",
+      "location": "United States",
+      "posted_at": "2026-07-02T15:54:44+00:00",
+      "raw_source_id": "8583037002",
+      "source": "Greenhouse",
+      "tags": [
+        "Professional Services Operations"
+      ],
+      "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583037002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>CSQ327R209</p> <h3><strong>Sr. Field Technical Program Manager, Forward Deployed Engineering - Canada</strong></h3> <p>At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We provide a user-friendly and intuitive platform that makes it easy to turn insights into action and fosters a culture of creativity, experimentation, and continuous improvement. You will be an essential part of this mission, using your techni",
+      "id": "7e9184044184a715",
+      "location": "Canada",
+      "posted_at": "2026-07-02T15:52:38+00:00",
+      "raw_source_id": "8586460002",
+      "source": "Greenhouse",
+      "tags": [
+        "Professional Services Operations"
+      ],
+      "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering - Canada",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8586460002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>CSQ427R136</p> <h3><strong>Sr. Field Technical Program Manager, Forward Deployed Engineering - Public Sector</strong></h3> <p>At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We provide a user-friendly and intuitive platform that makes it easy to turn insights into action and fosters a culture of creativity, experimentation, and continuous improvement. You will be an essential part of this mission, using your",
+      "id": "c25247b23895e8ae",
+      "location": "Washington, D.C.",
+      "posted_at": "2026-07-02T15:49:33+00:00",
+      "raw_source_id": "8549259002",
+      "source": "Greenhouse",
+      "tags": [
+        "Professional Services Operations"
+      ],
+      "title": "Sr. Field Technical Program Manager, Forward Deployed Engineering - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549259002"
+    },
+    {
+      "company": "Persohap GmbH",
+      "description": "<p>Persohap builds AI-powered coaching and interview experiences. We're a small, fast-moving team shipping products that put AI in front of real users</p> <h3>Tasks</h3> <p>Build and maintain features across the backend and frontend. Write clean, reliable, well-tested code. Take part in code reviews. Collaborate with product and design to ship features end-to-end.</p> <h3>Requirements</h3> <p>Experience building and shipping web applications. Comfortable across backend and frontend. A pragmatic problem-solver with strong ownership. Clear communicator who works well in a team.</p> <h3>Benefits</h3> <p>High-ownership role with real impact, a modern stack, and the freedom to ship.</p> <p><stron",
+      "id": "f6d98498fd2f494b",
+      "location": "Berlin",
+      "posted_at": "2026-07-02T14:30:45+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Development"
+      ],
+      "title": "Software Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/software-engineer-berlin-398186"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>As a Manager on the Startups team at Anthropic, you'll lead a team of 5-10 Growth Account Executives responsible for driving expansion and retention across our fastest-growing startup customers. You'll build and develop a high-performing team while esta",
+      "id": "d5a21b2c123d8cc1",
+      "location": "Dublin, IE",
+      "posted_at": "2026-07-02T14:22:29+00:00",
+      "raw_source_id": "5289760008",
+      "source": "Greenhouse",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Manager, Account Executives, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5289760008"
+    },
+    {
+      "company": "stripe",
+      "description": "<h1><strong>Technical Partner Manager, Network Partnerships, Global Partner Engineering &amp; Operations (PE&amp;O)</strong></h1> <h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your car",
+      "id": "c1a61ee121dff866",
+      "location": "US-Atlanta; US-Chicago; US-Remote; CA-Toronto; CA-Remote",
+      "posted_at": "2026-07-02T13:18:12+00:00",
+      "raw_source_id": "7976987",
+      "source": "Greenhouse",
+      "tags": [
+        "8548 Payins - Eng"
+      ],
+      "title": "Technical Partner Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=7976987"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ327R621</p> <p>Do you want to help solve the world's toughest business problems with Data and AI? This is what we do every day at Databricks.</p> <p>We are looking for a Senior Manager, Emerging Enterprise (DACH) to join our world-class, hyper-growth organisation. In this first line leadership position, you will define the go to market strategy, business plan and cohesive sales strategy for the DACH region, in order to meet annual business segment goals and KPIs. You will lead and grow a team of experienced Emerging Enterprise Account Executives in growing a productive and sustainable business in this pivotal territory. This role is based in Germany.&nbsp;</p> <",
+      "id": "b077510444e07906",
+      "location": "Germany",
+      "posted_at": "2026-07-02T13:10:59+00:00",
+      "raw_source_id": "8613573002",
+      "source": "Greenhouse",
+      "tags": [
+        "Enterprise Sales"
+      ],
+      "title": "Senior Manager, Emerging Enterprise (DACH)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8613573002"
+    },
+    {
+      "company": "GRID eSports GmbH",
+      "description": "<ul><li><p>Are you passionate about building event-driven systems?</p></li><li><p>Do you have a strong grasp of Kotlin or Go?</p></li><li><p>Do you enjoy finding solutions for significantly impactful challenges?</p></li></ul><p style=\";\"></p><p>If the answers to the above questions are yes, then this role could be ideal for you!</p><br /><br /><h4>What you will do </h4><ul><li><p>Build greenfield mission-critical services and expand the reliability of existing ones</p></li><li><p>Help to shape GRID's technological landscape together with experienced colleagues</p></li><li><p>Participate in architectural discussions, providing feedback to coworkers and ensuring good practices</p></li><li><p>W",
+      "id": "a8580ec3c42264cc",
+      "location": "Berlin",
+      "posted_at": "2026-07-02T11:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering",
+        "bachelor's degree"
+      ],
+      "title": "Backend Engineer (m/f/x)",
+      "url": "https://www.arbeitnow.com/jobs/companies/grid-esports-gmbh/backend-engineer-berlin-17366"
+    },
+    {
+      "company": "perplexity",
+      "description": "Perplexity AI is looking for experienced Generalist Software Engineers to join our Perplexity and Comet application teams. Our team is reshaping knowledge work through our high-impact desktop and Comet apps. The ideal candidate should have strong programming skills and multiple years of experience shipping high-quality, production software. Our stack spans several different skillsets, including Rust, Kotlin, Swift, Typescript, Chromium and Perplexity’s core AI stack. We have found that our strongest engineers are capable of working across multiple codebases and ramping up quickly, and we expect the same high bar for candidates. Responsibilities - Work closely with product teams to implement ",
+      "id": "004fcf464c5d8960",
+      "location": "Not specified",
+      "posted_at": "2026-07-02T09:26:32.130000+00:00",
+      "raw_source_id": "b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Member of Technical Staff (Software Engineer, Desktop Apps)",
+      "url": "https://jobs.ashbyhq.com/perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>REQ ID: CSQ427R209<br><br>Databricks is redefining what organisations can achieve with data and AI. As the unified platform powering the world's most ambitious data-driven enterprises, we sit at the intersection of cloud migrations, AI transformation, and real-time intelligence and our customers challenge us every day to go further.</p> <p>As <strong>Manager, Forward Deployed Engineering</strong>, you will lead a high-performing team of Forward Deployed Engineers (FDEs) at the forefront of this transformation. Partnering with Databricks' most strategic enterprise customers, you will shape how leading organizations migrate to the lakehouse, build next-generation AI and GenAI systems, and u",
+      "id": "31eb3219db3a0f61",
+      "location": "Amsterdam, Netherlands",
+      "posted_at": "2026-07-02T08:52:57+00:00",
+      "raw_source_id": "8613192002",
+      "source": "Greenhouse",
+      "tags": [
+        "Professional Services Operations"
+      ],
+      "title": "Manager, Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8613192002"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies from the world’s largest enterprises to the most ambitious startups use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Commercial (Mid-Market) Grower team is a highly consultative group that m",
+      "id": "633149708ac9437a",
+      "location": "Japan",
+      "posted_at": "2026-07-02T07:24:50+00:00",
+      "raw_source_id": "8042978",
+      "source": "Greenhouse",
+      "tags": [
+        "1195 Account Executives (APAC)"
+      ],
+      "title": "Account Manager (Mid-Market, Japan)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8042978"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2>Who we are</h2> <h3>About Stripe&nbsp;</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3>About the team</h3> <p>The Technical Account Management (TAM) team directly supports our largest, and fastest growing paid users.&nbsp; We pr",
+      "id": "7aa2af532756f200",
+      "location": "Singapore",
+      "posted_at": "2026-07-02T06:44:32+00:00",
+      "raw_source_id": "8040143",
+      "source": "Greenhouse",
+      "tags": [
+        "4148 Technical Account Management, Support & Services - APAC"
+      ],
+      "title": "Manager, TAM (Greater China)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8040143"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">Req ID - FEQ327R499</p> <p>Location: San Francisco Bay Area, CA</p> <p>While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations in the Western United States.</p> <p>The Databricks Field Engineering team activates and accelerates the value our customers get from their data and AI.&nbsp; Major Enterprises in the U.S. are leveraging the Databricks Data Intelligence Platform to securely deliver AI’s potential to every audience, at scale.&nbsp; Our Field Engineering team is hiring a dynamic Solutions Architecture leader who is not only focused on team culture but also can translate their team vision into a",
+      "id": "e3a340222cabcd98",
+      "location": "San Francisco, California",
+      "posted_at": "2026-07-02T06:01:30+00:00",
+      "raw_source_id": "8612968002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - FE Direct Regulated"
+      ],
+      "title": "Sr. Manager, Field Engineering - High Tech and MFG",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612968002"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>As an Enterprise Account Executive at Anthropic, you'll join the foundational team at the forefront of introducing our cutting-edge AI productivity SaaS solution to large enterprise organizations across DACH. You'll drive the adoption of safe, frontier ",
+      "id": "8176d9a0ac1dea25",
+      "location": "Munich, Germany",
+      "posted_at": "2026-07-02T05:58:31+00:00",
+      "raw_source_id": "5223741008",
+      "source": "Greenhouse",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Enterprise Account Executive, Industries Generalist",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223741008"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">REQ ID - FEQ327R483</p> <p>Location(s): Central US (Texas, Illinois, St. Louis)</p> <p>While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations in the Central United States.</p> <p>The Databricks Field Engineering team activates and accelerates the value our customers get from their data and AI.&nbsp; Major Enterprises in the U.S. are leveraging the Databricks Data Intelligence Platform to securely deliver AI’s potential to every audience, at scale.&nbsp; Our Field Engineering team is hiring a dynamic Solutions Architecture leader who is not only focused on team culture but also can translate their te",
+      "id": "a5bd6bcbe7837ff3",
+      "location": "Chicago, Illinois",
+      "posted_at": "2026-07-02T05:51:59+00:00",
+      "raw_source_id": "8612964002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - FE Direct Regulated"
+      ],
+      "title": "Manager, Field Engineering - MFG",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612964002"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p>As a leader in our Enterprise Support organization, you’ll lead a team across Enterprise and Technical Support to ensure we deliver exceptional experiences to our customers. You’",
+      "id": "ea2325268dd6c6db",
+      "location": "Singapore",
+      "posted_at": "2026-07-02T02:33:38+00:00",
+      "raw_source_id": "6104574004",
+      "source": "Greenhouse",
+      "tags": [
+        "Product Support"
+      ],
+      "title": "Manager, Enterprise Support (Singapore)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6104574004?gh_jid=6104574004"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ327R620</p> <p>The Consulting &amp; Systems Integrator (C&amp;SI) organization accelerates Databricks' growth by building and managing strategic relationships with the world's leading data, AI, and technology services companies.</p> <p>As the Ventures Partner Portfolio Lead, you will drive value, scale, and strategic go-to-market motions across Databricks' portfolio of newly invested partner organizations. You will oversee a model designed to deeply support and scale our highest-performing investment partners post-investment. You will define and execute a cohesive portfolio strategy for fifteen partners.</p> <p>In this role, you will focus on ensuring partners f",
+      "id": "1d100b1a927dd419",
+      "location": "United States",
+      "posted_at": "2026-07-02T00:52:31+00:00",
+      "raw_source_id": "8614926002",
+      "source": "Greenhouse",
+      "tags": [
+        "Business Development"
+      ],
+      "title": "Director, Ventures Partner Portfolio",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614926002"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p class=\"font-claude-response-body break-words whitespace-normal\">Figma is looking for a Manager, IT Operations to lead our New York team. We are looking for someone with a proven ",
+      "id": "c56e6e86e168f111",
+      "location": "New York, NY",
+      "posted_at": "2026-07-01T21:53:13+00:00",
+      "raw_source_id": "6104563004",
+      "source": "Greenhouse",
+      "tags": [
+        "Business Operations"
+      ],
+      "title": "Manager, IT Operations",
+      "url": "https://boards.greenhouse.io/figma/jobs/6104563004?gh_jid=6104563004"
+    },
+    {
+      "company": "scaleai",
+      "description": "<p>Scale's Public Sector customer base is growing rapidly, and you will ensure that these customers become passionate, lifelong Scale partners. As a member of our Public Sector Delivery team, you are a catalyst, willing to go deep, get technical, and drive change.&nbsp; You are the ultimate hands-on leader, triaging customer issues and support, using data and analytics to align internal resources around Scale’s hardest problems, and driving the creation of tools that add direct value to Scale’s Public Sector customers. All of this serves an ultimate goal of delivering outsized value in supporting our Public Sector customer’s AI/ML objectives.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Your natural inc",
+      "id": "fe60c161f1faefcd",
+      "location": "Columbia, MD",
+      "posted_at": "2026-07-01T21:51:44+00:00",
+      "raw_source_id": "4711480005",
+      "source": "Greenhouse",
+      "tags": [
+        "Public Sector"
+      ],
+      "title": "Technical Program Manager, Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711480005"
+    },
+    {
+      "company": "databricks",
+      "description": "<p>CSQ427R47</p> <p>At Databricks we work on some of the most complex distributed processing and machine learning problems in the world and our customers challenge us with interesting new big data and AI use cases. You will shape the future of big data and the machine learning landscape for leading Fortune 500 organizations.</p> <p><strong>Forward Deployed Engineering (FDE) Delivery Partner Manager </strong>supports the mission of the FDE team, which is to<strong> accelerate and de-risk our customers' business outcomes</strong> through effective enablement and delivery of Databricks platform technology. This is an individual contributor role that will oversee the Databricks Delivery Partner ",
+      "id": "3f3800dd8ac3e1ba",
+      "location": "Central - United States; Northeast - United States; Southeast - United States",
+      "posted_at": "2026-07-01T21:20:46+00:00",
+      "raw_source_id": "8611106002",
+      "source": "Greenhouse",
+      "tags": [
+        "Professional Services Operations"
+      ],
+      "title": "Sr. Delivery Partner Manager, FDE",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611106002"
+    },
+    {
+      "company": "Heidi Systems",
+      "description": "<p><strong>About Heidi Systems</strong><br> Heidi Systems is building the data infrastructure layer for buildings and energy. We help property owners and managers digitize metering, consumption data, reporting, and billing workflows in one of the largest and most outdated infrastructure markets in Europe.<br> We are looking for an exceptional intern who wants to work close to the core of our technical system: data architecture, DevOps, infrastructure, and backend tooling.<br> This is not a classic internship. You will work directly on production-relevant systems, help shape our data infrastructure, and build tools that directly impact customers, internal operations, and the scalability of th",
+      "id": "2d8eb4594bc23ec4",
+      "location": "Berlin",
+      "posted_at": "2026-07-01T20:29:03+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data Engineer",
+        "Data Processing"
+      ],
+      "title": "DevOps & Data Architecture Intern",
+      "url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/devops-data-architecture-intern-berlin-457764"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"heading\"><strong>About the role</strong></h2> <p>As a Data Engineer on the Safeguards team, you will build the data foundations that keep our AI systems safe. The Safeguards team works to monitor models, prevent misuse, and ensure user well-being — and doing that well requires robust, ",
+      "id": "6533129e2e67f0df",
+      "location": "San Francisco, CA | New York City, NY",
+      "posted_at": "2026-07-01T20:26:10+00:00",
+      "raw_source_id": "5240422008",
+      "source": "Greenhouse",
+      "tags": [
+        "Data Science & Analytics"
+      ],
+      "title": "[P] Data Engineer, Safeguards",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008"
+    },
+    {
+      "company": "perplexity",
+      "description": "Perplexity is seeking a Senior Editor to lead the quality and velocity of everything we publish. Our content spans a range of audiences, channels, and objectives. You will set the editorial bar for excellence and make every writer around you measurably better. If you treat a clunky sentence and a sprawling launch narrative as the same kind of craft, take pride in language without being precious about deadlines, and want to build a world-class editorial function from the ground up, this role is for you. Responsibilities - Own editorial quality end to end. - Reject mediocrity. - Demand clarity. Ensure accuracy. - Be Perplexity. Evolve and enforce our voice. Everything we ship should sound like",
+      "id": "495db26c272d9930",
+      "location": "Not specified",
+      "posted_at": "2026-07-01T20:17:23.179000+00:00",
+      "raw_source_id": "ebd5d9b3-39c4-498b-85a6-2f565e001d7e",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Senior Editor",
+      "url": "https://jobs.ashbyhq.com/perplexity/ebd5d9b3-39c4-498b-85a6-2f565e001d7e"
+    },
+    {
+      "company": "perplexity",
+      "description": "Perplexity is seeking an Internal Communications Manager to build that function from the ground up. You will own how information moves through Perplexity. You will be responsible for what Perplexity employees think, feel, know, and do. This is a 0→1 role with executive exposure from day one. If you believe internal comms is a strategic function and want to shape how an n(1) company talks to itself, this role is for you. Responsibilities - Listen and learn across the company. Understand what’s happening, how, and why in order to make sound recommendations on what should be amplified or addressed. - Run all-hands and executive content. Planning, execution, measurement, and evolution. - Interna",
+      "id": "45832e9ecd3014a5",
+      "location": "Not specified",
+      "posted_at": "2026-07-01T20:14:56.588000+00:00",
+      "raw_source_id": "8f2873af-9149-4037-a36f-2dda73cee1a0",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Internal Communications Manager",
+      "url": "https://jobs.ashbyhq.com/perplexity/8f2873af-9149-4037-a36f-2dda73cee1a0"
+    },
+    {
+      "company": "perplexity",
+      "description": "Perplexity is looking for a Social Media Manager to expand how Perplexity shows up online. You'll run the channels day to day, writing posts, setting strategy, scaling our accounts, and writing for leadership and the team, working closely with our Communications and marketing team, product managers, and engineers. This is a hands-on role. You'll write most of what goes out yourself. Excellent judgement and high taste are required. The role is mostly Instagram with some community initiatives like Reddit, and interacting with our developer audiences. RESPONSIBILITIES - Run social channels day to day. Maintain our brand and product accounts across all channels. This includes writing social copy",
+      "id": "2d8e340520e3bea8",
+      "location": "Not specified",
+      "posted_at": "2026-07-01T20:12:00.628000+00:00",
+      "raw_source_id": "9740bc68-7297-4d69-ae54-3be81ae3745a",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Social Media Manager",
+      "url": "https://jobs.ashbyhq.com/perplexity/9740bc68-7297-4d69-ae54-3be81ae3745a"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p>We are looking for an Account Executive, SMB who will play a critical role driving sales and maximizing revenue with our SMB customers. You will be responsible for targeting, bui",
+      "id": "5e32b12eccb98cae",
+      "location": "São Paulo, Brazil",
+      "posted_at": "2026-07-01T20:05:03+00:00",
+      "raw_source_id": "6100117004",
+      "source": "Greenhouse",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Account Executive, SMB, Spanish & Portuguese Speaking (São Paulo, Brazil)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6100117004?gh_jid=6100117004"
+    },
+    {
+      "company": "Modern Drive Technology GmbH",
+      "description": "<p>Die Modern Drive Technology GmbH (MDT) ist ein Fullservice IoT-Cloud-Integrator mit Fokus auf <strong>OEMs und Maschinenproduzenten</strong>. Mit unserer offenen Plattform ermöglichen wir Herstellern, ihren Maschinen und Fahrzeugen eine eigene, vollständig gebrandete digitale Servicewelt zu geben – ohne selbst eine Cloud-Infrastruktur aufbauen zu müssen.</p> <p>Ob Fernwartung, Predictive Maintenance oder datenbasierte After-Sales-Services: Wir liefern die technologische Grundlage, damit OEMs ihren Kunden smarte Mehrwerte anbieten und neue Geschäftsmodelle erschließen können. Die Komplexität von Cloud-Entwicklung, Cybersecurity und Plattformbetrieb übernehmen wir – unsere Kunden konzentrie",
+      "id": "a469445e35598386",
+      "location": "Neumarkt in der Oberpfalz",
+      "posted_at": "2026-07-01T19:59:02+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Werkstudent Software Engineer - IoT & Cloud (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/modern-drive-technology-gmbh/werkstudent-software-engineer-iot-cloud-neumarkt-in-der-oberpfalz-90237"
+    },
+    {
+      "company": "Modern Drive Technology GmbH",
+      "description": "<p>Die Modern Drive Technology GmbH (MDT) ist ein Full-Service IoT-Cloud-Integrator mit Fokus auf <strong>OEMs und Maschinenproduzenten</strong>. Mit unserer offenen Plattform ermöglichen wir Herstellern, ihren Maschinen und Fahrzeugen eine eigene, vollständig gebrandete digitale Servicewelt zu geben – ohne selbst eine Cloud-Infrastruktur aufbauen zu müssen.</p> <p>Ob Fernwartung, Software-Updates oder datenbasierte After-Sales-Services: Wir liefern die technologische Grundlage, damit OEMs ihren Kunden smarte Mehrwerte anbieten und neue Geschäftsmodelle erschließen können. Die Komplexität von Cloud-Entwicklung, Cybersecurity und Plattformbetrieb übernehmen wir – unsere Kunden konzentrieren s",
+      "id": "2614ab0e23e880a3",
+      "location": "Neumarkt in der Oberpfalz",
+      "posted_at": "2026-07-01T19:59:02+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Software Engineer - IoT & Cloud (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/modern-drive-technology-gmbh/software-engineer-iot-cloud-neumarkt-in-der-oberpfalz-291638"
+    },
+    {
+      "company": "perplexity",
+      "description": "Perplexity is looking for a Creator & Influencer Marketing Lead to build, own, and scale our entire creator and influencer marketing function. In this multifaceted, senior role you will define the strategy in line with our company priorities, then own the execution of massive campaigns spanning 100+ creators and multi-million-dollar budgets. You will be a storyteller with genuine taste who differentiates Perplexity's products through thoughtful, sophisticated content, paired with a performance marketing mindset that ties creator work directly to our most important business outcomes. This role is ideal for an autonomous, high-output operator who wants to own and grow an entire function and am",
+      "id": "9b00deef07746dad",
+      "location": "Not specified",
+      "posted_at": "2026-07-01T19:54:56.774000+00:00",
+      "raw_source_id": "457d84e7-6a36-4499-ae61-db92a2c404b9",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Creator & Influencer Marketing Lead",
+      "url": "https://jobs.ashbyhq.com/perplexity/457d84e7-6a36-4499-ae61-db92a2c404b9"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>Enterprise is central to Anthropic's mission. The organizations that could benefit most from Claude often have the most demanding needs, with rigorous requirements around end-user experience, procurement, security, and permissions. We believe earning th",
+      "id": "3649a7ff17980d35",
+      "location": "San Francisco, CA | New York City, NY",
+      "posted_at": "2026-07-01T19:52:07+00:00",
+      "raw_source_id": "5288742008",
+      "source": "Greenhouse",
+      "tags": [
+        "Engineering & Design - Product"
+      ],
+      "title": "Staff+ Software Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288742008"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Employee Relations and HR Com",
+      "id": "fb4910705b623fab",
+      "location": "Dublin",
+      "posted_at": "2026-07-01T19:09:51+00:00",
+      "raw_source_id": "8041850",
+      "source": "Greenhouse",
+      "tags": [
+        "6516 Employee Relations"
+      ],
+      "title": "Employee Relations & HR Compliance Specialist",
+      "url": "https://stripe.com/jobs/search?gh_jid=8041850"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the role</h2> <p>AI capabilities are advancing faster than most people can adapt. The gap between what Claude can do and what people know how to do with it widens with every model release. Closing this gap before the window for thoughtful adoption narrows is core to our mission.</p> <p>",
+      "id": "064c0a7ef1d26f19",
+      "location": "San Francisco, CA | New York City, NY",
+      "posted_at": "2026-07-01T18:20:44+00:00",
+      "raw_source_id": "5288959008",
+      "source": "Greenhouse",
+      "tags": [
+        "Technical Education"
+      ],
+      "title": "Head of Content & Curriculum, Education",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288959008"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\"><strong>SLSQ327R619</strong></p> <p data-renderer-start-pos=\"1648\">While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.</p> <p>Candidates in the listed location(s) are encouraged for this role</p> <ul> <li>Remote - NYC</li> <li>Remote - NJ</li> </ul> <p>As a Enterprise Account Executive at Databricks, you are a sales professional experienced in leading go-to-market campaigns in Fortune 500 accounts, specifically in the CMEG space. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in",
+      "id": "66624c9751ffeee5",
+      "location": "Remote - New York",
+      "posted_at": "2026-07-01T18:15:51+00:00",
+      "raw_source_id": "8610866002",
+      "source": "Greenhouse",
+      "tags": [
+        "Enterprise Sales"
+      ],
+      "title": "Named Core Account Executive - CMEG",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8610866002"
+    },
+    {
+      "company": "rwQUANTICAL GmbH",
+      "description": "<p>rwQUANTICAL ist eine Boutique Beratung im Bereich Digitalisierung & AI. Untere Kunden sind große mittelständische Unternehmen und Großkonzerne, die am Anfang oder mitten in Ihrer IT-Transformation stehen.</p> <p>Wir werden für unsere hohe Qualität geschätzt, da alle Berater technische, fachliche und kommunikative Stärke verbinden.</p> <p>Für unser <strong>Team im Bereich AI & Data Analytics</strong> suchen wir aktuell Verstärkung.</p> <h2>Aufgaben</h2> <ul> <li>Strategische Beratung und Analyse der Geschäftsprozesse unserer Kunden</li> <li>Technische Konzeption von digitalen Lösungen und Automatisierungsstrategien</li> <li>Eigenständige Entwicklung individueller Softwarelösungen</li> <li>",
+      "id": "fbbeb213838566bb",
+      "location": "Düsseldorf",
+      "posted_at": "2026-07-01T18:00:31+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Consulting"
+      ],
+      "title": "Consultant AI Transformation / AI Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/rwquantical-gmbh/consultant-ai-transformation-ai-engineer-dusseldorf-398560"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>Link is one of the fastest-growing consumer networks in the world, with 300M+ registered ",
+      "id": "2b10cb2817b2c6bf",
+      "location": "San Francisco, New York City",
+      "posted_at": "2026-07-01T17:48:08+00:00",
+      "raw_source_id": "8014533",
+      "source": "Greenhouse",
+      "tags": [
+        "8570 Consumer Network - Eng"
+      ],
+      "title": "Technical Program Manager, Link",
+      "url": "https://stripe.com/jobs/search?gh_jid=8014533"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p class=\"font-claude-response-body break-words whitespace-normal\">We're looking for a proactive and detail-oriented People Operations Coordinator to join our global People Ops team",
+      "id": "6d9969c6eb28f9d5",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-07-01T16:27:55+00:00",
+      "raw_source_id": "6104568004",
+      "source": "Greenhouse",
+      "tags": [
+        "People"
+      ],
+      "title": "People Operations Coordinator",
+      "url": "https://boards.greenhouse.io/figma/jobs/6104568004?gh_jid=6104568004"
+    },
+    {
+      "company": "databricks",
       "description": "<p data-pm-slice=\"1 1 []\">GAQ327R178</p> <p data-renderer-start-pos=\"1648\">While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.</p> <p>We're building a finance function that stays ahead of the curve — leveraging AI, automation, and modern tooling to operate at the pace Databricks demands. The Senior Manager, Close &amp; Consolidations, that we’re looking to add to the team will lead Databricks’ global close and consolidation process as we continue to scale. This is a hands-on, builder-oriented role responsible for overseeing the global close process across Finance, driving close discipline and accountability, and executing",
-      "id": "98dbd6d267a1a412",
+      "id": "8bc174be20e01e1f",
       "location": "San Francisco, California",
       "posted_at": "2026-07-01T16:10:55+00:00",
       "raw_source_id": "8604605002",
@@ -13,7 +519,7 @@
       "tags": [
         "Finance"
       ],
-      "title": "Sr. Accounting Manager",
+      "title": "Sr. Accounting Manager - Close & Consolidations",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604605002"
     },
     {
@@ -29,6 +535,20 @@
       ],
       "title": "Sr. Accounting Manager",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604603002"
+    },
+    {
+      "company": "Modern Drive Technology GmbH",
+      "description": "<p>Die Modern Drive Technology GmbH (MDT) ist ein Full-Service-Iot-Cloud-Integrator mit Fokus auf <strong>OEMs und Maschinenproduzenten</strong>. Mit unserer offenen Plattform ermöglichen wir Herstellern, ihren Maschinen und Produkten eine eigene, vollständig gebrandete digitale Servicewelt zu geben – ohne selbst eine Cloud-Infrastruktur aufbauen zu müssen.</p> <p>Ob Fernwartung, Predictive Maintenance oder datenbasierte After-Sales-Services: Wir liefern die technologische Grundlage, damit OEMs ihren Kunden smarte Mehrwerte anbieten und neue Geschäftsmodelle erschließen können.</p> <p>Bereits <strong>über 100 Kunden mit mehr als 13.000 vernetzten Einheiten</strong> setzen auf unsere Lösung –",
+      "id": "046a4340ea881ba0",
+      "location": "Neumarkt in der Oberpfalz",
+      "posted_at": "2026-07-01T16:01:05+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Werkstudent App-Entwicklung (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/modern-drive-technology-gmbh/werkstudent-app-entwicklung-neumarkt-in-der-oberpfalz-374310"
     },
     {
       "company": "databricks",
@@ -71,34 +591,6 @@
       ],
       "title": "Strategic Account Executive, Healthcare",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288441008"
-    },
-    {
-      "company": "Modern Drive Technology GmbH",
-      "description": "<p>Die Modern Drive Technology GmbH (MDT) ist ein Fullservice IoT-Cloud-Integrator mit Fokus auf <strong>OEMs und Maschinenproduzenten</strong>. Mit unserer offenen Plattform ermöglichen wir Herstellern, ihren Maschinen und Fahrzeugen eine eigene, vollständig gebrandete digitale Servicewelt zu geben – ohne selbst eine Cloud-Infrastruktur aufbauen zu müssen.</p> <p>Ob Fernwartung, Predictive Maintenance oder datenbasierte After-Sales-Services: Wir liefern die technologische Grundlage, damit OEMs ihren Kunden smarte Mehrwerte anbieten und neue Geschäftsmodelle erschließen können. Die Komplexität von Cloud-Entwicklung, Cybersecurity und Plattformbetrieb übernehmen wir – unsere Kunden konzentrie",
-      "id": "3fd6030c63eafc12",
-      "location": "Neumarkt in der Oberpfalz",
-      "posted_at": "2026-07-01T15:31:02+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [
-        "Software Development"
-      ],
-      "title": "Werkstudent Software Engineer (m/w/d) - IoT & Cloud",
-      "url": "https://www.arbeitnow.com/jobs/companies/modern-drive-technology-gmbh/werkstudent-software-engineer-iot-cloud-neumarkt-in-der-oberpfalz-90237"
-    },
-    {
-      "company": "Modern Drive Technology GmbH",
-      "description": "<p>Die Modern Drive Technology GmbH (MDT) ist ein Full-Service IoT-Cloud-Integrator mit Fokus auf <strong>OEMs und Maschinenproduzenten</strong>. Mit unserer offenen Plattform ermöglichen wir Herstellern, ihren Maschinen und Fahrzeugen eine eigene, vollständig gebrandete digitale Servicewelt zu geben – ohne selbst eine Cloud-Infrastruktur aufbauen zu müssen.</p> <p>Ob Fernwartung, Software-Updates oder datenbasierte After-Sales-Services: Wir liefern die technologische Grundlage, damit OEMs ihren Kunden smarte Mehrwerte anbieten und neue Geschäftsmodelle erschließen können. Die Komplexität von Cloud-Entwicklung, Cybersecurity und Plattformbetrieb übernehmen wir – unsere Kunden konzentrieren s",
-      "id": "c0fe6230bf1c5058",
-      "location": "Neumarkt in der Oberpfalz",
-      "posted_at": "2026-07-01T15:31:01+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [
-        "Software Development"
-      ],
-      "title": "Software Engineer (m/w/d) - IoT & Cloud",
-      "url": "https://www.arbeitnow.com/jobs/companies/modern-drive-technology-gmbh/software-engineer-iot-cloud-neumarkt-in-der-oberpfalz-291638"
     },
     {
       "company": "Quantum- Systems GmbH",
@@ -410,6 +902,22 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614656002"
     },
     {
+      "company": "Workada",
+      "description": "<p><u>Who We Are</u><br><br>Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks.<br>We believe careful data work matters. Every reviewed item, categorized example, and quality-checked task helps improve how technology interprets information, follows instructions, and responds in practical settings.<br><br><u>About You</u><br><br>We're hiring detail-oriented individuals who are comfortable working on a computer and interested in careful, focused digital work. We're especially interested in:</p> <ul style=",
+      "id": "73c42f8dbadc9c20",
+      "location": "USA",
+      "posted_at": "2026-07-01T01:48:13+00:00",
+      "raw_source_id": "2090903",
+      "source": "Remotive",
+      "tags": [
+        "digital content",
+        "research",
+        "spreadsheets"
+      ],
+      "title": "Data Labeling Specialists",
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903"
+    },
+    {
       "company": "scaleai",
       "description": "<h1><strong>Head of Healthcare and Life Sciences GTM</strong></h1> <p>AI is transforming how the world’s largest companies operate. At Scale, our mission is to Develop reliable AI systems for the world’s most important decisions. Scale has powered breakthroughs in generative AI, defense, and autonomy. Following our Series F, we’ve continued doubling down on accelerating Fortune 100 enterprises' build and deploy AI agents that solve complex, real-world problems - through our Scale Generative AI Platform (SGP).</p> <h2><strong>About the Role</strong></h2> <p>We’re looking for a senior leader to own and scale our go-to-market strategy for the Healthcare industry.</p> <p>This person will combine",
       "id": "63ee0e5bc936c00c",
@@ -425,8 +933,8 @@
     },
     {
       "company": "databricks",
-      "description": "<h1 style=\"text-align: center;\">Staff Machine Learning Engineer, CustomerLake (ML/LLM)</h1> <p><em>RDQ427R109</em></p> <p data-pm-slice=\"1 1 []\">&nbsp;</p> <p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best Data Intelligence Platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to tackle technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our ",
-      "id": "d9dddfb1ce4f57fc",
+      "description": "<p><em>RDQ427R109</em></p> <p data-pm-slice=\"1 1 []\">&nbsp;</p> <p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best Data Intelligence Platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to tackle technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting star",
+      "id": "60c92972f8ea40c5",
       "location": "New York City, New York",
       "posted_at": "2026-06-30T23:49:00+00:00",
       "raw_source_id": "8614863002",
@@ -434,22 +942,8 @@
       "tags": [
         "Engineering"
       ],
-      "title": "Staff Software Engineer - AI/ML",
+      "title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002"
-    },
-    {
-      "company": "stripe",
-      "description": "<p><strong>About Stripe</strong></p> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <p>&nbsp;</p> <p><strong>About the team</strong></p> <p>You’ll be joining the data science team at Stripe responsible for our overall infrastructure, with a spe",
-      "id": "089c70e38e7406aa",
-      "location": "n/a",
-      "posted_at": "2026-06-30T23:15:49+00:00",
-      "raw_source_id": "8040003",
-      "source": "Greenhouse",
-      "tags": [
-        "7112 Data Science"
-      ],
-      "title": "Staff Data Scientist, Security",
-      "url": "https://stripe.com/jobs/search?gh_jid=8040003"
     },
     {
       "company": "openai",
@@ -1127,7 +1621,7 @@
     },
     {
       "company": "databricks",
-      "description": "<p data-pm-slice=\"1 1 []\">SLSQ227R839</p> <p>The Partner Development Center (PDC) is the engine of Databricks' C&amp;SI partner ecosystem growth. We run a digital-first engagement model that moves Rising 100 and active Bronze partners from onboarding to revenue through standardized maturity paths, milestone-based activation, and earned human coaching — so customer impact, enablement, and GTM collaboration consistently beat plan.&nbsp;This is not a team of relationship managers. We are program builders, ecosystem developers, and partner advocates. We design the engagement motion, not just follow one.</p> <h2>The Role</h2> <p>This India-based Sr. Alliance Manager is the sole dedicated PDC reso",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ227R839</p> <h2>The Team</h2> <p>The Partner Development Center (PDC) develops Databricks' C&amp;SI partner ecosystem at scale. We accelerate the growth of Rising 100 and active Bronze partners through structured, high-touch engagement, while driving systematic activation of Bronze partners through AI-powered automation.</p> <p>Rising 100 partners receive business plan-led, white-glove engagement: structured development plans, biweekly cadence, and accountability to measurable GTM milestones.</p> <p>Active Bronze partners are engaged through cohort-based programs designed to build the next generation of high-performing Databricks partners.</p> <h2>The Role</h2> ",
       "id": "1eea620f75dd585d",
       "location": "Bengaluru, India; Mumbai, India",
       "posted_at": "2026-06-29T15:30:41+00:00",
@@ -1327,117 +1821,6 @@
       ],
       "title": "Sr. Solutions Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8609866002"
-    },
-    {
-      "company": "Quantum- Systems GmbH",
-      "description": "<p style=\";\">As a Software Engineer at our Rostock location, you will develop innovative software solutions for the next generation of autonomous systems. Working closely with cross-functional teams, you will tackle complex technical challenges and contribute throughout the entire development lifecycle—from concept and implementation to the continuous improvement of our technologies. At Quantum Systems, we develop intelligent, connected systems across the air, land, sea, and underwater domains, delivering solutions that support demanding civilian and defense applications worldwide.<br /></p><h4><strong>What is your Day to Day Mission:</strong></h4><ul><li><p>Deploy, configure and maintain Li",
-      "id": "5f555f612698b261",
-      "location": "Rostock",
-      "posted_at": "2026-06-29T07:20:17+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [
-        "Engineering",
-        "bachelor's degree"
-      ],
-      "title": "Sytems & Infrastructure Engineer - Robotics (m/f/d)",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/sytems-infrastructure-engineer-robotics-rostock-37249"
-    },
-    {
-      "company": "Speechify",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025.</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. Thes",
-      "id": "174f075a6790a247",
-      "location": "Munich, Bavaria, Germany",
-      "posted_at": "2026-06-29T06:45:25+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [],
-      "title": "Tech Lead, Android Core Product - Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-munich-germany-490822"
-    },
-    {
-      "company": "Speechify",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025.</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. Thes",
-      "id": "55eafad089c2bf8c",
-      "location": "Frankfurt, Hesse, Germany",
-      "posted_at": "2026-06-29T06:45:25+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [],
-      "title": "Tech Lead, Android Core Product - Frankfurt, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-frankfurt-germany-222957"
-    },
-    {
-      "company": "Speechify",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025.</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. Thes",
-      "id": "6a7a46c63601d766",
-      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
-      "posted_at": "2026-06-29T06:45:25+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [],
-      "title": "Tech Lead, Android Core Product - Düsseldorf, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-dusseldorf-germany-dusseldorf-151895"
-    },
-    {
-      "company": "Speechify",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity. </p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These i",
-      "id": "1531378dfdc6915f",
-      "location": "Munich, Bavaria, Germany",
-      "posted_at": "2026-06-29T06:45:25+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [],
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-422993"
-    },
-    {
-      "company": "Speechify",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity. </p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These i",
-      "id": "426f382617411ec0",
-      "location": "Stuttgart, Baden-Württemberg, Germany",
-      "posted_at": "2026-06-29T06:45:24+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [],
-      "title": "Software Engineer, Platform - Stuttgart, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-stuttgart-germany-143599"
-    },
-    {
-      "company": "Speechify",
-      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div> <div class=\"p-rich_text_section\"> <p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity. </p> <p",
-      "id": "8487761c31d3c590",
-      "location": "Stuttgart, Baden-Württemberg, Germany",
-      "posted_at": "2026-06-29T06:45:24+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [],
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Stuttgart, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-stuttgart-germany-430294"
-    },
-    {
-      "company": "Speechify",
-      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div> <div class=\"p-rich_text_section\"> <p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity. </p> <p",
-      "id": "dbda158a273d7f4f",
-      "location": "Munich, Bavaria, Germany",
-      "posted_at": "2026-06-29T06:45:24+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [],
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-munich-germany-311490"
-    },
-    {
-      "company": "Speechify",
-      "description": "<p><strong>Mission</strong></p> <p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p> <p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our category, and experiencing exponential growth.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">We're looking for a Senior Software Engineer to join our Core Experiences Team. This team ",
-      "id": "c4608645039ffe92",
-      "location": "Munich, Bavaria, Germany",
-      "posted_at": "2026-06-29T06:45:24+00:00",
-      "raw_source_id": "",
-      "source": "Arbeitnow",
-      "tags": [],
-      "title": "Senior Software Engineer, Core Experiences - Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-core-experiences-munich-germany-460476"
     },
     {
       "company": "databricks",

@@ -1,0 +1,1442 @@
+{
+  "count": 101,
+  "generated_at": "2026-11-09T23:13:30.013877+00:00",
+  "jobs": [
+    {
+      "company": "openai",
+      "description": "About the Team The Intelligence & Investigations Engineering team builds systems that detect, analyze, and disrupt abuse across OpenAI’s products. We partner closely with the Child Safety team and cross-functional groups to protect users while advancing OpenAI’s goal of developing AI that benefits everyone. About the Role As a Fullstack Engineer focused on child safety, you’ll build data-intensive, AI-powered applications and infrastructure that enable operators and investigators to work effectively and responsibly. You’ll adapt quickly in ambiguous, fast-moving environments to deliver well-crafted, reliable tooling for high-severity safety work. *Candidates should understand this role invol",
+      "id": "075f16bc74b4c3c4",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T22:58:22.319000+00:00",
+      "raw_source_id": "8ddb799f-f0c7-4df8-9665-5016a1f39da3",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Full-Stack Software Engineer, Child Safety Tools & Systems (London)",
+      "url": "https://jobs.ashbyhq.com/openai/8ddb799f-f0c7-4df8-9665-5016a1f39da3"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Intelligence & Investigations Engineering team builds systems that detect, analyze, and disrupt abuse across OpenAI’s products. We partner closely with the Child Safety team and cross-functional groups to protect users while advancing OpenAI’s goal of developing AI that benefits everyone. About the Role As a Fullstack Engineer focused on child safety, you’ll build data-intensive, AI-powered applications and infrastructure that enable operators and investigators to work effectively and responsibly. You’ll adapt quickly in ambiguous, fast-moving environments to deliver well-crafted, reliable tooling for high-severity safety work. *Candidates should understand this role invol",
+      "id": "5fa2d9e1dc595c75",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T22:58:12.042000+00:00",
+      "raw_source_id": "d7dfc19d-e508-4522-91fa-e31c3b612a47",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
+      "url": "https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to build safe artificial general intelligence that benefits all of humanity. Our EMEA organization translates OpenAI’s global mission and strategy into meaningful local impact, working across Growth, Product, Marketing, Partnerships, Finance, Research, Operations and Compliance. About the Role As Strategy and Operations lead, you will develop country strategies, identify the most important market opportunities and barriers, align cross-functional teams around a focused set of priorities, and personally drive initiatives through to measurable outcomes. This is an individual-contributor role. The primary focus is Consumer, with opportunities to create adjacen",
+      "id": "4d8f92c6d941b100",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T22:58:00.436000+00:00",
+      "raw_source_id": "c46d8648-b921-4b71-bb9a-f7d5c8e989f4",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Strategy & Operations, Germany",
+      "url": "https://jobs.ashbyhq.com/openai/c46d8648-b921-4b71-bb9a-f7d5c8e989f4"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to ensure the responsible and widespread adoption of artificial intelligence. In support of that mission, the Ads Solutions team partners closely with advertisers to deeply understand their businesses and needs, helping inform the development of products and solutions that drive meaningful revenue growth and long-term success on the platform—while maintaining strong standards for user trust and platform integrity. About the Role We’re looking for an Ads Solutions Engineer to partner with advertisers and agencies throughout the pre-sales and growth lifecycle, helping them successfully evaluate, launch, and scale on OpenAI’s advertising platform. You will ser",
+      "id": "ffe9fc7d2f70ac12",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T22:55:05.140000+00:00",
+      "raw_source_id": "40b24015-76ad-4013-b52c-313defd6f9bd",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Solutions Engineer, Ads Solutions - Tokyo",
+      "url": "https://jobs.ashbyhq.com/openai/40b24015-76ad-4013-b52c-313defd6f9bd"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>Metronome is the leading usage-based billing platf",
+      "id": "8fa8eef87e371046",
+      "location": "San Francisco, Seattle, US-Remote",
+      "posted_at": "2026-11-09T22:53:24+00:00",
+      "raw_source_id": "8368260",
+      "source": "Greenhouse",
+      "tags": [
+        "9014 Metronome - R&D"
+      ],
+      "title": "Solutions Architect, Metronome (AI Native)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8368260"
+    },
+    {
+      "company": "databricks",
+      "description": "<p><strong>CSQ128R180</strong></p> <p>At Databricks we work on some of the most complex distributed processing and machine learning problems in the world and our customers challenge us with interesting new big data and AI use cases. You will shape the future of big data and the machine learning landscape for leading Fortune 500 organizations.</p> <p><strong>Forward Deployed Engineering (FDE) Delivery Partner Manager </strong>supports the mission of the FDE team, which is to<strong> accelerate and de-risk our customers' business outcomes</strong> through effective enablement and delivery of Databricks platform technology. This is an individual contributor role that will oversee the Databricks",
+      "id": "f9c9be895b071ee4",
+      "location": "Northeast - United States; San Francisco, California; Seattle, Washington; Southeast - United States",
+      "posted_at": "2026-11-09T22:48:23+00:00",
+      "raw_source_id": "8920618002",
+      "source": "Greenhouse",
+      "tags": [
+        "Professional Services Operations"
+      ],
+      "title": "Delivery Partner Manager, FDE",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8920618002"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE TEAM OpenAI’s GTM Partnerships team builds a strategic, global partner ecosystem that accelerates customer success, enables enterprise AI adoption, and drives durable growth in support of OpenAI’s mission. Cloud partners are central to how customers discover, purchase, deploy, and scale OpenAI solutions. We work across cloud providers and their field, product, marketplace, technical, and partner organizations to reduce friction for customers and create repeatable paths from initial interest to production impact. The team collaborates closely with Sales, Technical Success, Product, Engineering, Finance, Legal, Security, Marketing, Operations, and Customer Success to turn strategic c",
+      "id": "63f7f746c16a601a",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T22:36:01.923000+00:00",
+      "raw_source_id": "d6fbe4bd-1b55-40b6-93c0-a296ea747ecf",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Partner Director, GTM Cloud Partnerships",
+      "url": "https://jobs.ashbyhq.com/openai/d6fbe4bd-1b55-40b6-93c0-a296ea747ecf"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team Customer Education helps people and organizations develop the skills and confidence to use AI effectively and build and deploy AI solutions. We create courses, live learning, community programs and product education that help enterprise customers apply AI across their workforce and get more value from OpenAI’s products. Champion Programs is part of OpenAI’s Customer Education team. We help enterprise customers identify and develop the people who lead AI adoption in their organizations. Some Champions guide a rollout across the company. Others help colleagues learn how to use AI in their daily work. Through the OpenAI Champion Network, they learn from OpenAI, exchange ideas wit",
+      "id": "dd5cfbc03f1d0eb2",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T22:19:49.832000+00:00",
+      "raw_source_id": "1dddc3d3-00d5-4b19-a321-a8d00720f543",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Community Programs Manager, Champion Network",
+      "url": "https://jobs.ashbyhq.com/openai/1dddc3d3-00d5-4b19-a321-a8d00720f543"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE TEAM The Applied AI Engineering team is responsible for helping customers turn frontier AI capabilities into real products, workflows, and business impact. We act as trusted technical partners across solution design, architecture, implementation, evaluation, and adoption, working alongside customers to build and scale effective AI applications with OpenAI’s technologies. The Codex Applied AI Engineering team focuses on helping organizations transform how software is built with AI. We partner directly with engineering teams and technical leaders to integrate Codex into their software development lifecycle — from identifying high-impact use cases and designing AI-enabled workflows to",
+      "id": "84fda34966a032fc",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T22:13:58.693000+00:00",
+      "raw_source_id": "b28b990c-54e4-4be4-a33a-d5518dc3e117",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Manager, Applied AI Engineering (Codex)",
+      "url": "https://jobs.ashbyhq.com/openai/b28b990c-54e4-4be4-a33a-d5518dc3e117"
+    },
+    {
+      "company": "Dashlane",
+      "description": "<div class=\"content-intro\"><p><strong>About Dashlane</strong></p> <p style=\"margin-left: 0.0in;\">Dashlane’s mission is to deliver the credential security every business and employee needs to thrive. Millions of consumers, and over 25,000 brands worldwide, such as Michelin, Air France, and Forrester, trust Dashlane for industry-leading innovations, patented zero-knowledge security, and an unmatched user experience. Founded in Paris, Dashlane has since established offices in New York and Lisbon, and has grown to more than 300 Dashlaners globally.</p> <p style=\"margin-left: 0.0in;\">We're looking for people who actively use AI tools to drive efficiency, creativity, and impact in their work. At D",
+      "id": "7df7f46faccc32fc",
+      "location": "Paris",
+      "posted_at": "2026-11-09T21:55:30+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Senior Software Engineer - Web",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dashlane/senior-software-engineer-web-paris-349684"
+    },
+    {
+      "company": "mongodb",
+      "description": "<p>Application Modernization Platform (“AMP”) is a MongoDB offering that modernises our customer’s legacy relational applications to a modern architecture underpinned by MongoDB using a combination of software, processes, and engineers. In this offering, the people and software are inextricably linked and cannot be separated. The delivery happens in an accelerated timeframe wherein the team takes advantage of GenAI and algorithmic tooling to expedite the turnaround time for application delivery.&nbsp;&nbsp;</p> <p>AMP team generally works with enterprise-grade customers, in all verticals on a variety of exciting use cases. This role solves technically sophisticated problems, gains incredible",
+      "id": "3762f74a51252f41",
+      "location": "Remote",
+      "posted_at": "2026-11-09T21:55:26+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "AMP",
+        "EMEA Delivery"
+      ],
+      "title": "Senior Technical Project Manager",
+      "url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-technical-project-manager-37688"
+    },
+    {
+      "company": "Physicsx",
+      "description": "<div class=\"content-intro\"><h2>About us</h2> <div><strong>Re-architecting Engineering for the Age of Intelligence<br></strong><br>PhysicsX is the physics AI company for industrials. The company’s mission is to accelerate hardware innovation by overhauling what industrial engineering and manufacturing look like today. PhysicsX is building a new simulation software stack to deliver deep physics AI enablement across the entire engineering lifecycle. The company partners with leading organisations in aerospace &amp; defence, automotive, semiconductors, materials, and energy &amp; renewables, supporting them on some of their most critical and complex challenges. PhysicsX is headquartered in the U",
+      "id": "9b957aa1a626aa78",
+      "location": "London",
+      "posted_at": "2026-11-09T21:55:26+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Research"
+      ],
+      "title": "Senior Research Machine Learning Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-research-machine-learning-engineer-london-308300"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who We Are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the Team</strong></h3> <p>The Solutions Architecture team partners with Stripe’s users to design and bu",
+      "id": "9ee86617206e53af",
+      "location": "San Francisco, CA or New York, NY or Remote",
+      "posted_at": "2026-11-09T21:54:55+00:00",
+      "raw_source_id": "8361184",
+      "source": "Greenhouse",
+      "tags": [
+        "1151 Solutions Architecture (AMER)"
+      ],
+      "title": "Head of Strategic Accounts, Solutions Architecture",
+      "url": "https://stripe.com/jobs/search?gh_jid=8361184"
+    },
+    {
+      "company": "adesso Netherlands",
+      "description": "<p class=\"Paragraph SCXW120495533 BCX8\"><strong>Niet faciliteren om te faciliteren. Maar teams helpen slimmer samen te werken.</strong></p><p class=\"Paragraph SCXW120495533 BCX8\">AI verandert de manier waarop we software ontwikkelen. Maar nieuwe technologie alleen maakt een team nog niet beter. Daarvoor heb je iemand nodig die mensen verbindt, samenwerking versterkt en verandering écht in beweging krijgt.</p><p class=\"Paragraph SCXW120495533 BCX8\">Bij adesso Nederland ontwikkelen we ons tot een AI First-organisatie. We bouwen aan moderne software, slimme dataplatformen en agentic oplossingen. Tegelijkertijd kijken we hoe AI onze eigen manier van werken verandert.</p><p class=\"Paragraph SCXW1",
+      "id": "e66e4041df91d5ce",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "posted_at": "2026-11-09T21:51:25+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "DXP"
+      ],
+      "title": "Senior Scrum master",
+      "url": "https://www.arbeitnow.nl/jobs/companies/adesso-netherlands/senior-scrum-master-utrecht-398767"
+    },
+    {
+      "company": "hyperexponential",
+      "description": "<h1><strong>About hyperexponential (hx)</strong></h1><p style=\"min-height:1.5em\">At hyperexponential, we're building the AI-powered platform that enables the world's most critical decisions in a $7 trillion industry - which risks to take, and how to price them. These are the decisions that shape real-world outcomes: whether rockets successfully launch into space, autonomous vehicles make it to market, or communities recover after major storms.</p><p style=\"min-height:1.5em\">Until now, insurance has been making billion-dollar decisions using outdated tools. We're changing that. Our platform brings together data, AI, and human expertise to give insurers the fastest path from submission to deci",
+      "id": "a112ca57e1fea465",
+      "location": "London (hybrid)",
+      "posted_at": "2026-11-09T21:40:15+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Technology"
+      ],
+      "title": "Senior Staff Product Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/senior-staff-product-engineer-london-303554"
+    },
+    {
+      "company": "Legora",
+      "description": "<h2>About Us</h2><p style=\"min-height:1.5em\">Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar.<br /><br />Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, strategy, and outcomes.<br /><br />2,100+ customers across 80+ countries trust us, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons, a",
+      "id": "054c696a1a18387d",
+      "location": "London",
+      "posted_at": "2026-11-09T21:40:15+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Product"
+      ],
+      "title": "Product Operations Manager",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/product-operations-manager-london-282360"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team The Intelligence and Investigations team is dedicated to ensuring the safe, responsible deployment of AI by rapidly detecting and mitigating abuse. Our team leverages cutting-edge testing methodologies to uncover vulnerabilities and emerging threats, helping safeguard OpenAI’s products and users. We work closely with cross-functional partners across product, policy, and engineering to drive a comprehensive defense strategy against evolving adversarial challenges. About the Role As a Novel Abuse Red Teamer, you’ll advance our pre- and post-deployment testing efforts at OpenAI, ensuring our models and products remain resilient against evolving, real-world adversarial threats. We",
+      "id": "2013301e703606c5",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T21:15:11.647000+00:00",
+      "raw_source_id": "9e7c3009-6a91-4927-b242-3d5aa766c722",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Novel Abuse Red Teamer",
+      "url": "https://jobs.ashbyhq.com/openai/9e7c3009-6a91-4927-b242-3d5aa766c722"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Product Operations team suppo",
+      "id": "1efabf0aec617427",
+      "location": "US Remote",
+      "posted_at": "2026-11-09T21:13:52+00:00",
+      "raw_source_id": "8315943",
+      "source": "Greenhouse",
+      "tags": [
+        "1522 GTM Product StratOps"
+      ],
+      "title": "Product Operations Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=8315943"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>There are close to a billion knowledge workers in the world, and only a small fraction of them have worked with AI that makes them better at what they do. In the enterprise, reaching the rest depends on the IT, security, and business leaders who decide ",
+      "id": "9e0d7966f48d45e5",
+      "location": "San Francisco, CA | New York City, NY",
+      "posted_at": "2026-11-09T21:12:27+00:00",
+      "raw_source_id": "5470528008",
+      "source": "Greenhouse",
+      "tags": [
+        "Marketing & Brand"
+      ],
+      "title": "Product Marketing Manager, Knowledge Work - Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470528008"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how to leverage and deploy our highly capable AI products across their business. The team is made of Sales, Solutions, Support, Marketing, and Partnership professionals that work together to create valuable solutions that will help bring AI to as many users as possible. About the Role OpenAI is seeking a highly motivated and experienced ",
+      "id": "fa0674172a8c6892",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T20:55:17.208000+00:00",
+      "raw_source_id": "3b85fc17-403b-4ca0-81e3-21c2aec9c052",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Account Director, Startups | New Business - UK&I",
+      "url": "https://jobs.ashbyhq.com/openai/3b85fc17-403b-4ca0-81e3-21c2aec9c052"
+    },
+    {
+      "company": "Agent F GmbH",
+      "description": "<h2><strong>About Agent F</strong></h2><p>Agent F is building an autonomous finance function: software that takes on the work of keeping a company’s finances in order. That means bringing information together from different systems, recording transactions correctly, preparing useful reports, and helping people understand what needs their attention.</p><p>Today, much of this work depends on spreadsheets, repeated data entry and people checking one system against another. Our ambition is to make that work increasingly automatic, while keeping every number explainable and every consequential action under clear control.</p><p>We are building towards a complete business management system for grow",
+      "id": "fccdfdaaf6f14619",
+      "location": "Berlin",
+      "posted_at": "2026-11-09T20:30:43+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Forward Deployed Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/agent-f-gmbh/forward-deployed-engineer-berlin-400716"
+    },
+    {
+      "company": "openai",
+      "description": "ABOUT THE TEAM OpenAI’s GTM Partnerships team builds a strategic, global partner ecosystem to accelerate customer success, support responsible enterprise AI adoption, and drive durable growth in support of OpenAI’s mission. We work across Sales, Solutions Engineering, Customer Success, Product, Marketing, Operations, and partner organisations to turn strategic partnerships into measurable customer and commercial outcomes. Cloud providers, global systems integrators, consulting firms, and technology partners play a critical role in helping customers adopt and scale OpenAI’s products. Our Partner Sales & Development team connects these partnerships to the field through joint account planning, ",
+      "id": "d6a01258a9df9412",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T20:12:53.569000+00:00",
+      "raw_source_id": "320f6132-7a72-425e-8045-4fd59f99f31c",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Partner Sales and Development Leader, Southern Europe",
+      "url": "https://jobs.ashbyhq.com/openai/320f6132-7a72-425e-8045-4fd59f99f31c"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>How do we know whether a model is safe - and how do we know whether the systems we built to catch misuse actually catch it?</p> <p>Anthropic answers both questions with evaluations. We measure model behavior across misuse, prompt injection, and user wel",
+      "id": "7d93f107452d26c2",
+      "location": "San Francisco, CA; Seattle, WA",
+      "posted_at": "2026-11-09T20:05:14+00:00",
+      "raw_source_id": "5477379008",
+      "source": "Greenhouse",
+      "tags": [
+        "Safeguards (Trust & Safety)"
+      ],
+      "title": "Staff+ Software Engineer, Safeguards Evals",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477379008"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI's Legal team plays a crucial role in furthering OpenAI's mission by tackling innovative, fundamental legal issues in AI. If you're passionate about doing significant and unique work as a technology lawyer, this team is for you. The team comprises legal professionals from diverse fields, including technology, privacy, IP, corporate, cybersecurity, employment, tax, regulatory, and litigation. About the Role We’re growing our world-class Litigation and Regulatory team and seek an experienced counsel to support litigation matters related to AI model outputs, such as products liability and mass torts. This role is highly cross-functional across OpenAI, including work across ",
+      "id": "23c3a0913b37dcb5",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T19:55:07.066000+00:00",
+      "raw_source_id": "1a607736-8631-4fd9-a1a9-f790318d12d2",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Senior Counsel, Litigation (Safety)",
+      "url": "https://jobs.ashbyhq.com/openai/1a607736-8631-4fd9-a1a9-f790318d12d2"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h2><strong>About the team</strong></h2> <p>The SMB Account Executive team is",
+      "id": "de1877605f73f0a0",
+      "location": "Chicago",
+      "posted_at": "2026-11-09T19:44:01+00:00",
+      "raw_source_id": "8287918",
+      "source": "Greenhouse",
+      "tags": [
+        "1651 Velocity - Account Executives (NA)"
+      ],
+      "title": "Account Executive, SMB Hunter",
+      "url": "https://stripe.com/jobs/search?gh_jid=8287918"
+    },
+    {
+      "company": "perplexity",
+      "description": "Perplexity is seeking energetic engineers to join our highly driven Agent Engine team. The Agent Engine team designs and builds powerful agentic experiences including Perplexity Computer https://www.perplexity.ai/computer, the Comet ecosystem, our Agent API, and more. In short, we build frontier intelligence systems for the world's most discerning users. As an engineer on our Agent Engine team, you'll bring AI expertise, sharp product intuition, and a tinkerer's mindset to advance the frontier of what agents can accomplish for our millions of devoted users. You'll work across engineering and applied research to solve many open problems in AI, including: - Designing frontier agent harnesses a",
+      "id": "b5fb35bc8f4f9169",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T19:39:20.676000+00:00",
+      "raw_source_id": "d865c821-9a27-416c-9c6a-14132a86f760",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
+      "url": "https://jobs.ashbyhq.com/Perplexity/d865c821-9a27-416c-9c6a-14132a86f760"
+    },
+    {
+      "company": "perplexity",
+      "description": "Perplexity is seeking an Engineering Manager to lead and grow our highly driven Agent Engine team. The Agent Engine team designs and builds powerful agentic experiences including Perplexity Computer https://www.perplexity.ai/computer, the Comet ecosystem, our Agent API, and more. In short, we build frontier intelligence systems for the world's most discerning users. As the engineering manager supporting the Agent Engine team, you'll bring AI expertise, sharp product intuition, and strong leadership and collaboration skills to advance the frontier of what agents can accomplish for our millions of devoted users. You'll lead, grow, and support a team in solving many open problems in AI, includi",
+      "id": "e5672c7b1c907ad7",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T19:38:54.104000+00:00",
+      "raw_source_id": "3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Engineering Manager (Agent Engine)",
+      "url": "https://jobs.ashbyhq.com/Perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de"
+    },
+    {
+      "company": "scaleai",
+      "description": "<p>At Scale, we believe that AI will dramatically improve the world, and our mission is to accelerate the development of AI. As Scale continues to grow its Government Relations and Policy Insights function, we are looking for a US Policy and International Engagement lead to support our engagement with the US government and US-based diplomatic community.</p> <p>The successful candidate will have experience engaging US Executive Branch and foreign officials, a history of driving policy and regulatory outcomes, and the ability to connect business objectives to policy wins.&nbsp;</p> <p><strong>You will:&nbsp;</strong></p> <ul> <li>Develop and execute Scale's US Executive Branch strategy, in clo",
+      "id": "57dcf3ba2b35acd7",
+      "location": "Washington, DC",
+      "posted_at": "2026-11-09T19:35:49+00:00",
+      "raw_source_id": "4752556005",
+      "source": "Greenhouse",
+      "tags": [
+        "Public Sector"
+      ],
+      "title": "US Executive Branch Policy & International Engagement Lead",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4752556005"
+    },
+    {
+      "company": "scaleai",
+      "description": "<p>At Scale, we believe that AI will dramatically improve the world, and our mission is to accelerate the development of AI. As Scale continues to grow its Government Relations &amp; Policy Insights function, we are looking for an AI Policy Lead to support policy development and engagements with governments and third parties in the US and globally.&nbsp;</p> <p>The successful candidate will combine deep AI policy expertise, experience driving regulatory and policy outcomes, and the ability to connect business objectives to policy wins.&nbsp;</p> <p><strong>You Will:&nbsp;</strong></p> <ul> <li>Serve as Scale’s in-house AI policy subject-matter expert</li> <li>Lead the company’s development o",
+      "id": "adf40b4165742367",
+      "location": "New York, NY; San Francisco, CA; Washington, DC",
+      "posted_at": "2026-11-09T19:34:29+00:00",
+      "raw_source_id": "4752554005",
+      "source": "Greenhouse",
+      "tags": [
+        "Public Sector"
+      ],
+      "title": "AI Policy Lead",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4752554005"
+    },
+    {
+      "company": "Decathlontechnology",
+      "description": "<h1>Data Engineer Confirmé.e</h1> <p><strong>L'équipe Core Data Product de DECATHLON recherche ses futur-e-s Data Engineers basé·e·s à Lille/Paris.</strong></p> <p><strong>&nbsp;</strong><br>Au cœur de l’entité Decathlon Digital, nous recherchons nos futur.es Data Engineers pour rejoindre les équipes Core Data Products.<br>Rejoignez l'équipe Core Data Products : Au cœur des décisions stratégiques de Decathlon<br>Au sein de notre Data Platform, vous évoluerez sur le socle qui alimente l'ensemble des décisions stratégiques et des modèles d'IA de Decathlon. Notre mission ? Construire la Single Source of Truth transversale pour transformer les données brutes en produits de données prêts à l'empl",
+      "id": "6893a3e1b1f6d0a3",
+      "location": "Paris, Paris; Villeneuve-d'Ascq, Nord",
+      "posted_at": "2026-11-09T18:55:33+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data"
+      ],
+      "title": "Data Engineer Confirmed - Core Data Product(f/m/d)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-engineer-confirmed-core-data-product-paris-paris-villeneuve-dascq-nord-349841"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Platform Sales team is a highly consultative, enterprise sales team t",
+      "id": "5aca4ce9434a13f6",
+      "location": "Paris",
+      "posted_at": "2026-11-09T18:49:07+00:00",
+      "raw_source_id": "8334554",
+      "source": "Greenhouse",
+      "tags": [
+        "1180 GEO Sales HQ (EMEA)"
+      ],
+      "title": "Sales Manager, Enterprise Platforms, France",
+      "url": "https://stripe.com/jobs/search?gh_jid=8334554"
+    },
+    {
+      "company": "openai",
+      "description": "About the role OpenAI is seeking an accomplished CISO/CSO or equivalent cybersecurity executive to help security leaders turn frontier AI into practical cyber defense. As an Executive in Residence, you will be a visible industry voice and a trusted peer to senior customer and partner leaders, working alongside our account, technical, product, research, and deployment teams. We are looking for someone security leaders already want to hear from in person and digitally. You bring a recognized reputation, substantive operating experience, and a record of attracting senior audiences through the quality of your ideas and judgment. Your participation should make an industry agenda more compelling a",
+      "id": "a2dbe1f951f4b7f9",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T18:48:13.073000+00:00",
+      "raw_source_id": "6384df1b-c2e0-4265-ad9b-d4a7bca706d6",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Executive in Residence, Cyber",
+      "url": "https://jobs.ashbyhq.com/openai/6384df1b-c2e0-4265-ad9b-d4a7bca706d6"
+    },
+    {
+      "company": "Faculty",
+      "description": "<h2><strong>Why Faculty? </strong></h2><p style=\"min-height:1.5em\"><br />We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://faculty.ai/impact\">here</a>.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and ",
+      "id": "adc9be53dbfe571d",
+      "location": "London",
+      "posted_at": "2026-11-09T18:40:14+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Life Sciences"
+      ],
+      "title": "Platform Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/platform-engineer-london-87528"
+    },
+    {
+      "company": "Faculty",
+      "description": "<h2><strong>Why Faculty? </strong></h2><p style=\"min-height:1.5em\"><br />We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://faculty.ai/impact\">here</a>.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and ",
+      "id": "49da7875d74d7455",
+      "location": "London",
+      "posted_at": "2026-11-09T18:40:14+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Full Stack Software Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/full-stack-software-engineer-london-168572"
+    },
+    {
+      "company": "9Fin",
+      "description": "<p style=\"min-height:1.5em\"><strong>About 9fin</strong></p><p style=\"min-height:1.5em\">9fin is the AI platform powering global debt markets — the world’s largest asset class at over $145 trillion.</p><p style=\"min-height:1.5em\">Debt markets are vast, global, and mission-critical, yet still run on fragmented data, PDFs, and manual workflows. 9fin replaces this broken infrastructure with a single platform that centralises proprietary credit data, deep analysis, and high-value workflows across global markets.</p><p style=\"min-height:1.5em\">Today, 9fin powers teams at 300+ blue-chip institutions worldwide, including global banks, asset managers, private equity firms, law firms, and advisors. The",
+      "id": "2fcd7afc491f2c58",
+      "location": "London",
+      "posted_at": "2026-11-09T18:40:12+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data & AI"
+      ],
+      "title": "Senior AI Engineer - Legal AI",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-ai-engineer-legal-ai-london-213423"
+    },
+    {
+      "company": "9Fin",
+      "description": "<p style=\"min-height:1.5em\"><strong>About 9fin</strong></p><p style=\"min-height:1.5em\">9fin is the AI platform powering global debt markets — the world’s largest asset class at over $145 trillion.</p><p style=\"min-height:1.5em\">Debt markets are vast, global, and mission-critical, yet still run on fragmented data, PDFs, and manual workflows. 9fin replaces this broken infrastructure with a single platform that centralises proprietary credit data, deep analysis, and high-value workflows across global markets.</p><p style=\"min-height:1.5em\">Today, 9fin powers teams at 300+ blue-chip institutions worldwide, including global banks, asset managers, private equity firms, law firms, and advisors. The",
+      "id": "d9c4f5df060d2ba9",
+      "location": "London",
+      "posted_at": "2026-11-09T18:40:12+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data & AI"
+      ],
+      "title": "Senior AI Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-ai-engineer-london-367667"
+    },
+    {
+      "company": "Optics11",
+      "description": "<p>As a <strong>Senior System Test & Validation Engineer</strong> at Optics11, you are responsible for defining and driving system-level verification and validation for complex multidisciplinary products.</p><p style=\"min-height: 1.7em;\"></p><p>You develop a strong understanding of the product, customer use cases, system architecture, operating environment, and technical risks, and translate these into effective validation strategies, test setups, and test campaigns.</p><p>The systems you validate combine sensing hardware, embedded software, Edge computing, networking, cloud software, data processing, algorithms, and customer-facing applications. Your role is therefore focused on validating ",
+      "id": "0802a367d13f50c0",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "posted_at": "2026-11-09T18:31:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "R&D"
+      ],
+      "title": "Senior System Test & Validation Engineer",
+      "url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-system-test-validation-engineer-amsterdam-320238"
+    },
+    {
+      "company": "Quantum-Systems GmbH",
+      "description": "<p><strong>About the role:</strong></p><p>As a <strong>UX/UI Designer</strong>, you will shape intuitive and user-centered experiences for complex digital products within the Quantum Systems ecosystem.</p><p>You will work at the intersection of <strong>users, product, and engineering</strong>, translating complex workflows and technical requirements into clear, efficient, and visually compelling interfaces.</p><p>From early user flows and wireframes to interactive prototypes and polished UI designs, you will take ownership of the design process and collaborate closely with Product Managers and Software Engineers to turn ideas and requirements into solutions that work in real-world environmen",
+      "id": "f1fb54785f725452",
+      "location": "Gilching, Bayern, Germany",
+      "posted_at": "2026-11-09T18:31:18+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software"
+      ],
+      "title": "UX/UI Designer (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/ux-ui-designer-gilching-326429"
+    },
+    {
+      "company": "Quantum-Systems GmbH",
+      "description": "<p>Quantum Systems develops autonomous, multi-domain systems that operate in the air, on the ground and on the water. Behind every platform is software that has to work reliably in the real world, with limited resources, unreliable connectivity and no second chances.</p><p>We are looking for software engineers who like to build exactly that kind of software in Rust and C++. You will join our engineering organization and work on production code that runs on real vehicles and sensors, across a broad range of challenges from low-level systems to scalable services.</p><p>We are looking for engineers who quickly understand a complex system and its domain, and who use that understanding to get lev",
+      "id": "c33abd08c8cdd364",
+      "location": "Remote job",
+      "posted_at": "2026-11-09T18:31:18+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Software"
+      ],
+      "title": "Rust Software Engineer - Rust / C++ (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-rust-software-engineer-rust-c-gilching-217668"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Solutions Architecture team w",
+      "id": "ff778ae4df99cd40",
+      "location": "N/A",
+      "posted_at": "2026-11-09T18:21:44+00:00",
+      "raw_source_id": "8336703",
+      "source": "Greenhouse",
+      "tags": [
+        "1152 Solutions Architecture (EMEA)"
+      ],
+      "title": "Solutions Architect, Enterprise (German-Speaking)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8336703"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Solutions Architecture team w",
+      "id": "feec587614f41365",
+      "location": "LOCATION",
+      "posted_at": "2026-11-09T18:16:30+00:00",
+      "raw_source_id": "8336719",
+      "source": "Greenhouse",
+      "tags": [
+        "1152 Solutions Architecture (EMEA)"
+      ],
+      "title": "Solutions Architect, Platforms (German-Speaking)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8336719"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to ensure that general-purpose artificial intelligence benefits all of humanity. The Community team focuses on finding exceptional power users of our tools and turning real usage into stories and signals that shape both product direction and how the world understands OpenAI. We do that by learning directly from users, then working together to package insights and use cases into formats that can travel: playbooks, webpages, launch assets, event series, and clear guidance on how people actually use our tools. About the Role The Head of Community, EMEA,will lead OpenAI’s community presence across the region and be responsible for setting and evolving an eviden",
+      "id": "f66f23a9d2416e35",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T18:15:25.105000+00:00",
+      "raw_source_id": "a19c76b4-f4ed-424b-afb0-c711ed7d9e2d",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Head of Community, EMEA",
+      "url": "https://jobs.ashbyhq.com/openai/a19c76b4-f4ed-424b-afb0-c711ed7d9e2d"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s Legal team plays a crucial role in advancing our mission by tackling innovative and fundamental legal issues in AI. The team includes professionals from diverse legal fields – technology, AI, infrastructure, privacy, IP, corporate, employment, tax, regulatory, and litigation – who collaborate closely with colleagues across the company. If you are passionate about being a technology lawyer working on cutting-edge challenges, you’ll thrive here. About the Role We are seeking an experienced attorney to join our commercial legal team. Based in the US, you will help lead commercial legal support for OpenAI’s rapidly growing business, working with teams such as GTM, Partner",
+      "id": "6ad199aae8e63fff",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T17:39:19.020000+00:00",
+      "raw_source_id": "167e2ee5-7280-4153-9490-5e7a8372e1dc",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Senior Counsel, Commercial (Health and Life Sciences)",
+      "url": "https://jobs.ashbyhq.com/openai/167e2ee5-7280-4153-9490-5e7a8372e1dc"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ327R353</p> <p>Databricks is seeking a <strong>Lakebase Sales Specialist </strong>to help customers modernise their operational data foundation with <strong>Databricks Lakebase</strong>, our <strong>fully-managed Postgres</strong> offering for <strong>intelligent applications</strong>. This high-impact role sits within the Lakebase Go-To-Market team and partners closely with regional Account Executives to drive adoption of Lakebase with platform, application, and data teams.</p> <p>Lakebase gives customers a unified, governed foundation for <strong>operational workloads</strong> and <strong>AI-native applications</strong>, helping them move away from a fragmente",
+      "id": "b3532a9c6e7f6073",
+      "location": "Stockholm, Sweden",
+      "posted_at": "2026-11-09T17:36:44+00:00",
+      "raw_source_id": "8569533002",
+      "source": "Greenhouse",
+      "tags": [
+        "HQ Management"
+      ],
+      "title": "Lakebase Sales Specialist",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569533002"
+    },
+    {
+      "company": "Hornetsecurity",
+      "description": "<p>We are looking for an <strong>Software Engineer (AI Development Experience) – SDLC</strong> (m/f/d) to support our organization in automating our Software Development Life Cycle through AI Orchestration across all interfaces. You will work at the intersection of technology, business departments, and organizational transformation. Your work will have a direct impact on how AI is used in practice across the company, how processes are made more efficient, and how we further develop and transform our Software Development Life Cycle.</p><p><strong>Your Job</strong></p><ul><li><p>Analyze and optimize the SDLC and CI/CD pipelines across all areas of software development (Platform, Security, Back",
+      "id": "983470476c6307e9",
+      "location": "Hanover",
+      "posted_at": "2026-11-09T17:30:46+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Software Engineer (AI Development Experience)",
+      "url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/software-engineer-ai-development-experience-hanover-226842"
+    },
+    {
+      "company": "openai",
+      "description": "About the Role As an Account Director for Higher Education in AMER, you will own strategic relationships with colleges, universities, and higher education systems as they move from AI experimentation to responsible, institution-wide transformation. You will work with presidents, provosts, CIOs, CTOs, academic and administrative leaders, researchers, security teams, and procurement stakeholders to define priority use cases, build the technical and governance foundation for deployment, and translate institutional goals into a multi-year AI transformation roadmap. You will own the commercial and customer journey end to end—from territory strategy, pipeline creation, and executive alignment thro",
+      "id": "b89bed1b8f85b8b9",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T17:27:02.716000+00:00",
+      "raw_source_id": "dceee17e-1e37-448b-acd3-2f97e41a6af7",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Account Director, Higher Education",
+      "url": "https://jobs.ashbyhq.com/openai/dceee17e-1e37-448b-acd3-2f97e41a6af7"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p>We’re looking for a Director, Creative Brand Expression to join Figma’s Brand Studio and drive critical parts of our portfolio. This role is as much about growing a team as it is",
+      "id": "e22afb7839a36493",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "posted_at": "2026-11-09T17:16:13+00:00",
+      "raw_source_id": "6232528004",
+      "source": "Greenhouse",
+      "tags": [
+        "Marketing"
+      ],
+      "title": "Director, Creative Brand Expression",
+      "url": "https://boards.greenhouse.io/figma/jobs/6232528004?gh_jid=6232528004"
+    },
+    {
+      "company": "databricks",
+      "description": "<h4><strong>FEQ128R96 / </strong><strong>Stockholm-based</strong><strong><br><br></strong></h4> <p><strong>The Role</strong><strong><br></strong><strong><br></strong>As a Solutions Architect, you will lead the technical strategy for your customers - owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers’ data and AI strategy. You are developing a technical specialisation (archetype) and are recognized within your team for depth in a specific domain.</p> <p><strong>The Impact You Will Have</str",
+      "id": "5614955a47b1ef8e",
+      "location": "Stockholm, Sweden",
+      "posted_at": "2026-11-09T17:00:40+00:00",
+      "raw_source_id": "8934786002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "title": "Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8934786002"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ128R66</p> <div>While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.<br>Candidates in the listed location(s) are encouraged for this role</div> <ul> <li>Remote - Los Angeles</li> <li>Remote - San Francisco</li> </ul> <div>As a Enterprise Account Executive at Databricks, you are a sales professional experienced in leading go-to-market campaigns in Fortune 500 accounts, specifically in the CMEG space. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate ab",
+      "id": "f56a2de5d93cd04a",
+      "location": "Los Angeles, California; San Francisco, California; United States",
+      "posted_at": "2026-11-09T16:59:29+00:00",
+      "raw_source_id": "8929498002",
+      "source": "Greenhouse",
+      "tags": [
+        "Enterprise Sales"
+      ],
+      "title": "Strategic Core Account Executive",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929498002"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Enterprise East Sales team engages with some of the largest and fastest-g",
+      "id": "546514de1abff6fe",
+      "location": "New York",
+      "posted_at": "2026-11-09T16:49:33+00:00",
+      "raw_source_id": "8354772",
+      "source": "Greenhouse",
+      "tags": [
+        "1170 GEO Sales HQ (NA)"
+      ],
+      "title": "Manager, Account Executive (Enterprise, Grower)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8354772"
+    },
+    {
+      "company": "planqor.ai",
+      "description": "<h2>Founding Full-Stack Engineer</h2><p>Build the software systems around planqor.ai: the real-time decision layer that steers discrete manufacturing when production plans get disrupted. Born on the shop floor, co-founded by senior production experts, and with direct access to high-impact industry problems. Work directly with our CTO and shape a greenfield product spanning Python backend, data, visualization, frontend, infrastructure, and integration with our optimization core. Backed by investors who have built and scaled successful companies. Remote-first or from our office in Munich, competitive pay + VSOP, no puzzle interviews.</p><h3>The opportunity</h3><p>Factories have invested billio",
+      "id": "1e4adc850957b5dc",
+      "location": "Berlin",
+      "posted_at": "2026-11-09T16:47:27+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Web Development"
+      ],
+      "title": "Founding Full-Stack Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-62731"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ128R88</p> <p data-pm-slice=\"1 1 []\">Remote-HOU</p> <p data-pm-slice=\"1 1 []\">Remote-OK</p> <ul class=\"ak-ul\" data-indent-level=\"1\"> <li> <p data-renderer-start-pos=\"2729\"></p> <p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">As an Enterprise Account Executive in Databricks', you are an enterprise sales professional experienced in selling to Enterprise accounts. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new oppo",
+      "id": "c00420daedf94c76",
+      "location": "Houston, Texas; Oklahoma",
+      "posted_at": "2026-11-09T16:46:04+00:00",
+      "raw_source_id": "8925470002",
+      "source": "Greenhouse",
+      "tags": [
+        "Enterprise Sales"
+      ],
+      "title": "Named Core Account Executive-Manufacturing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8925470002"
+    },
+    {
+      "company": "Quantum-Systems GmbH",
+      "description": "<p>Quantum Systems develops autonomous, multi-domain systems that operate in the air, on the ground and on the water. Behind every platform is software that has to work reliably in the real world, with limited resources, unreliable connectivity and no second chances.</p><p>We are looking for software engineers who like to build exactly that kind of software in Rust and C++. You will join our engineering organization and work on production code that runs on real vehicles and sensors, across a broad range of challenges from low-level systems to scalable services.</p><p>We are looking for engineers who quickly understand a complex system and its domain, and who use that understanding to get lev",
+      "id": "0c7c381252f9c812",
+      "location": "Gilching",
+      "posted_at": "2026-11-09T16:20:09+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "professional"
+      ],
+      "title": "Rust Software Engineer - Rust / C++ (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/rust-software-engineer-rust-c-gilching-442564"
+    },
+    {
+      "company": "figma",
+      "description": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!</p></div><p>We’re hiring a Researcher, AI Evaluations to join AI Insights within Figma’s Research team. This is a senior individual contributor role with no direct reports, reporting to the ",
+      "id": "9cd1970783ea49bb",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "posted_at": "2026-11-09T16:14:32+00:00",
+      "raw_source_id": "6242701004",
+      "source": "Greenhouse",
+      "tags": [
+        "Design"
+      ],
+      "title": "Researcher, AI Evaluations",
+      "url": "https://boards.greenhouse.io/figma/jobs/6242701004?gh_jid=6242701004"
+    },
+    {
+      "company": "Fastned",
+      "description": "<p><strong><span style=\"color:#121317\">Join a fast-growing, listed company with a purpose! Fastned owns and operates a network of 400+ fast charging stations across 10 European countries, allowing electric vehicle drivers to charge their car with 100% green energy in just 15 minutes. Our goal is a European network of 1000 fast charging stations in prime locations, where all electric vehicles can charge with renewable energy from the sun and wind. We have recently been voted best charging network in the UK, France and the Netherlands. If you want to make a difference and work in an informal, international scale-up environment with future prospects, then read on!</span></strong></p><h3><strong",
+      "id": "d47bcd9b9aeea5ca",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "posted_at": "2026-11-09T15:51:34+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Engineering"
+      ],
+      "title": "Backend Engineer - Payments Team",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fastned/backend-engineer-payments-team-amsterdam-441218"
+    },
+    {
+      "company": "Institut Mines-Télécom",
+      "description": "<figure><img src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/19ggb2cf4c/image.png\"></figure><p style=\"text-align:center;\"><strong>Who we are ?</strong></p><p style=\"text-align:center;\">Télécom Paris, part of the IMT (Institut Mines-Télécom) and a founding member of the Institut Polytechnique de Paris, is one of France's top 6 general engineering schools.</p><p style=\"text-align:center;\">The<strong> mainspring</strong> of Télécom Paris is to train, imagine and undertake to design digital models, technologies and solutions for a society and economy that respect people and their environment.</p><p style=\"min-height: 1.7em;\"></p><p>Modern distributed systems are increasingly co",
+      "id": "efc8d950155f9fa4",
+      "location": "Palaiseau, Île-de-France, France",
+      "posted_at": "2026-11-09T15:51:32+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data analytics et Intelligence artificielle"
+      ],
+      "title": "Research and Development Engineer in Artificial Intelligence - 12 months contract",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/research-and-development-engineer-in-artificial-intelligence-12-months-contract-palaiseau-439120"
+    },
+    {
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "description": "<h3><strong>About Us</strong></h3><p style=\"min-height:1.5em\">Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.</p><p style=\"min-height:1.5em\">Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting ambitious goals, and taking on the hardest technical challenges. We operate in a demanding environment where rigor, ownership, and execution are expected.</p><p style=\"min-height:1.5em\"></p><p style=\"mi",
+      "id": "61168f8dfa65a0ea",
+      "location": "Paris",
+      "posted_at": "2026-11-09T15:40:15+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "R&D"
+      ],
+      "title": "Data Acquistion Module Lead",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/data-acquistion-module-lead-paris-415896"
+    },
+    {
+      "company": "Wemolo",
+      "description": "<p style=\"min-height:1.5em\">Talent Acquisition ist für uns mehr als Recruiting. Wir verstehen es als eine echte Disziplin, die sich stetig weiterentwickelt durch neue Technologien, neue Ansätze und vor allem durch die Menschen, die sie gestalten. Dabei zählt für uns nicht nur das Ergebnis, sondern auch der Weg dorthin. Und genau diesen Anspruch wollen wir mit dir weiterentwickeln.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">Als <strong>Tech Recruiter (all genders)</strong> übernimmst du die End-to-end-Verantwortung für unsere Product- und Engineering-Rollen – von Software Engineering über Engineering Management, Data und Plattform bis ",
+      "id": "5814a37a769a2ab3",
+      "location": "Munich",
+      "posted_at": "2026-11-09T15:40:12+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Finance & People"
+      ],
+      "title": "Tech Recruiter (all genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/tech-recruiter-all-genders-munchen-411368"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-pm-slice=\"1 1 []\">SLSQ128R164</p> <p>As an Enterprise Geo Hunter Account Executive at Databricks, you are a seasoned sales professional with experience selling to Financial Services accounts. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will be asked to hunt after net new logos. Along with the chance to close an exciting deal, we also offer accelerators above 100% quota attainment.</p> <p>The impact you will have:</p> <ul> <li>Me",
+      "id": "8d109b45d7b96cd0",
+      "location": "Remote - New York",
+      "posted_at": "2026-11-09T15:28:14+00:00",
+      "raw_source_id": "8932854002",
+      "source": "Greenhouse",
+      "tags": [
+        "Enterprise Sales"
+      ],
+      "title": "Geo Core Account Executive-FINS",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8932854002"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <h2><strong>What you’ll do</strong><",
+      "id": "82285c6a5dfb4fe9",
+      "location": "LOCATION",
+      "posted_at": "2026-11-09T14:37:40+00:00",
+      "raw_source_id": "8348469",
+      "source": "Greenhouse",
+      "tags": [
+        "9002 Privy - G&A"
+      ],
+      "title": "Crypto S&O",
+      "url": "https://stripe.com/jobs/search?gh_jid=8348469"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the role</h2> <p>Anthropic is looking for a Recruiter to partner with our Communications team. This team tells Anthropic's story across corporate, product, executive, and internal communications. In this role, you will be the team's primary recruiter. You will own searches from intake t",
+      "id": "c664c721caad206b",
+      "location": "San Francisco, CA | New York City, NY",
+      "posted_at": "2026-11-09T14:22:17+00:00",
+      "raw_source_id": "5476704008",
+      "source": "Greenhouse",
+      "tags": [
+        "People"
+      ],
+      "title": "Recruiter, Communications",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5476704008"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><img style=\"width: 869px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/u6tpks5n6rc5unu4o72f9gbve9tmr9/2025_Stellenanzeigen_Gulmayriam_Yerzhanova_Julia_Röhrig.jpg\" /><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, ZDF und der Deutschen Bahn</span></p></li><li><p><span style=\"color: #335f5f\">Du entwickelst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testautomatisierun",
+      "id": "d5566fd5a07f0fb1",
+      "location": "Darmstadt",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Werkstudent* Software Engineering",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/werkstudent-software-engineering-darmstadt-210512"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testautomatisierung)</span></p></li><li><p><span style=\"color: #335f5f\">Du verfügst über Erfahrung und Expertise in der sicheren Software Entwicklung, um Best Principles un",
+      "id": "b48c64a8b314dca7",
+      "location": "Frankfurt am Main",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Software Security Engineer*",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/software-security-engineer-frankfurt-am-main-219154"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testautomatisierung)</span></p></li><li><p><span style=\"color: #335f5f\">Du verfügst über langjährige Erfahrung und Expertise in der sicheren Software Entwicklung, um Best P",
+      "id": "4dba09ac78e334fa",
+      "location": "Frankfurt am Main",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Senior Software Security Engineer*",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-security-engineer-frankfurt-am-main-375296"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><img style=\"width: 869px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/ygccs6gynydlye3hvu4k2lehbdyute/2025_Stellenanzeigen_Xenija_Neufeld.jpg\" /><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, ZDF und der Deutschen Bahn</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testau",
+      "id": "a64a268a35dc035b",
+      "location": "Köln",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Senior Software Engineer* Agentic AI​",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-engineer-agentic-ai-koln-223439"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><img style=\"width: 869px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/4b87sob99rrvtmto246kcl2mgesn5a/2025_Stellenanzeigen_Xenija_Neufeld.jpg\" /><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"\">Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testautomatisierung)</span></p></l",
+      "id": "b289e2ba72ca01b6",
+      "location": "Darmstadt",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Senior Software Engineer* Agentic AI",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-engineer-agentic-ai-darmstadt-447523"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><img style=\"width: 869px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/v8woc8prsg1nny82eloss6k8rtdmfp/2025_Stellenanzeigen_Xenija_Neufeld.jpg\" /><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testau",
+      "id": "4cbf354ceb8ef929",
+      "location": "München",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Senior Software Engineer* Agentic AI",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-engineer-agentic-ai-munchen-483816"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><img style=\"width: 869px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/oyl3vk9mk6p2a4amnyrg4h78echugc/1280_x_720_Accso_Stellenanzeige_11.jpg\" /><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testaut",
+      "id": "ccf5599d0fd3d903",
+      "location": "Darmstadt",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Senior Software Architect*",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-architect-darmstadt-232459"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><img style=\"width: 869px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/51hy4c51obl45tvnwcamyhp132of9k/1280_x_720_Accso_Stellenanzeige_11.jpg\" /><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarelösungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testaut",
+      "id": "8375f9fa87446fb4",
+      "location": "München",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Senior Software Architect*",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-architect-munchen-24749"
+    },
+    {
+      "company": "Accso – Accelerated Solutions GmbH",
+      "description": "<p style=\";\"></p><img style=\"width: 869px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/pg5osr5dn4k723kfvat81f6w4w57ry/Accso_Stellenanzeige_Dr._Xenija_Neufeldt.jpg\" /><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, ZDF und der Deutschen Bahn</span></p></li><li><p><span style=\"color: #335f5f\">Du verantwortest die Architektur von Web- und Enterprise-Anwendungen, arbeitest praktisch an Frontend-Lösungen mit und steuerst Anforderungen und Projekte</span></p></li><li><p><span style=\"color: #335f5",
+      "id": "980e0dcf2cc658e5",
+      "location": "Darmstadt",
+      "posted_at": "2026-11-09T14:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Internet and software",
+        "high school coursework"
+      ],
+      "title": "Lead Frontend Architekt*",
+      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/lead-frontend-architekt-darmstadt-13158"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s mission is to ensure the responsible and widespread adoption of artificial intelligence. In support of that mission, the Ads Solutions team partners closely with advertisers to deeply understand their businesses and needs, helping inform the development of products and solutions that drive meaningful revenue growth and long-term success on the platform—while maintaining strong standards for user trust and platform integrity. About the Role We’re looking for an Ads Solutions Engineer to partner with advertisers and agencies throughout the pre-sales and growth lifecycle, helping them successfully evaluate, launch, and scale on OpenAI’s advertising platform. You will ser",
+      "id": "6f3e1148313b24b8",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T14:14:33.198000+00:00",
+      "raw_source_id": "eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Solutions Engineer, Ads Solutions - NYC",
+      "url": "https://jobs.ashbyhq.com/openai/eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb"
+    },
+    {
+      "company": "Valova",
+      "description": "<h2>About Valova</h2><p><strong>We are building the AI operations platform for European hospitals, so every clinician can focus on patients.</strong></p><p>Behind every patient sits a chain of admin work: documentation, coding, billing, audits, scheduling. It runs through <strong>disconnected systems and endless manual hand-offs</strong>, while <strong>most German hospitals already operate at a loss</strong>.</p><p>We start where the impact is measurable from day one: <strong>case to cash</strong>. Valova codes every case, defends it in audits and makes sure the money lands. From there we take on <strong>every workflow that runs a hospital</strong>, until <strong>one agentic system handles t",
+      "id": "b9af3e18e351d39e",
+      "location": "Munich",
+      "posted_at": "2026-11-09T14:00:57+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Forward Deployed Engineer (f/m/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/valova/forward-deployed-engineer-munich-150617"
+    },
+    {
+      "company": "Windhoff Group",
+      "description": "<p>Seit über 25 Jahren verwandeln wir bei der Windhoff Group <strong>Daten</strong> in echte <strong>Geschäftschancen</strong> – von klassischer Business Intelligence bis zur KI-getriebenen Automatisierung. Dabei denken wir ganzheitlich: Wir begleiten unsere Kunden End-to-End, von der Strategie über die technische Umsetzung bis zum produktiven Betrieb. Ob BI-Reporting, Data Warehousing, Predictive Analytics oder KI-Lösungen – unser Anspruch ist es, <strong>aus Daten messbaren Mehrwert</strong> zu machen.</p><p>Als Teil unseres Teams wirst du gemeinsam mit erfahrenen Kolleg:innen an anspruchsvollen Projekten arbeiten und dich in der gesamten <strong>Data & AI-Landschaft</strong> in die Richtu",
+      "id": "28135b78c478dd3f",
+      "location": "Berlin",
+      "posted_at": "2026-11-09T14:00:54+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Development",
+        "Remote",
+        "SAP/ERP Consulting"
+      ],
+      "title": "Consultant (m/w/d) SAP Data Engineering & Databricks",
+      "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/consultant-sap-data-engineering-databricks-berlin-159015"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s Applied AI Engineering team helps organizations turn frontier AI capabilities into safe, reliable, and high-impact production systems. We work with customer executives, product and engineering teams, security leaders, and transformation teams to identify valuable opportunities, accelerate technical implementation, and scale what works. Production-ready deployments are defined by complexity rather than any one industry: existing architectures, diverse data environments, security and governance requirements, multiple stakeholder groups, and organization-wide change. We turn lessons from these deployments into better products and reusable patterns for customers everywher",
+      "id": "57ca881db4fb7478",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T13:58:27.834000+00:00",
+      "raw_source_id": "0cbc002e-bd6e-4aa3-9dbc-ed7fe59511ea",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Applied AI Engineer, Large Enterprise",
+      "url": "https://jobs.ashbyhq.com/openai/0cbc002e-bd6e-4aa3-9dbc-ed7fe59511ea"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h1><strong>Research Scientist, Discovery (Engineering &amp; Applied Sciences)</strong></h1> <p><strong>About the Team</strong></p> <p>Our team is organized around the north star goal of building an AI scientist – a system capable of solving the long term reasoning challenges and basic capabiliti",
+      "id": "7a3bd1df319cc20a",
+      "location": "San Francisco, CA | New York City, NY",
+      "posted_at": "2026-11-09T13:26:21+00:00",
+      "raw_source_id": "5468930008",
+      "source": "Greenhouse",
+      "tags": [
+        "AI Research & Engineering"
+      ],
+      "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468930008"
+    },
+    {
+      "company": "Roku",
+      "description": "<div class=\"content-intro\"><h2 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;\">Teamwork makes the stream work.</h2> <p>&nbsp;</p> <h3 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif;\"><strong>Roku is changing how the world watches TV</strong></h3> <p>Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabili",
+      "id": "245ad2dc3558aa72",
+      "location": "Cambridge",
+      "posted_at": "2026-11-09T12:55:18+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "206 - OS UI/SDK"
+      ],
+      "title": "Senior Software Engineer, Embedded UI",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-embedded-ui-cambridge-286314"
+    },
+    {
+      "company": "Filigran",
+      "description": "<h2>🌀 The Company</h2><p style=\"min-height:1.5em\"><strong>Founded in 2022, Filigran is a global cybersecurity company on a mission to empower defense teams to be proactive through open-source solutions that uncover threats and drive action.</strong></p><p style=\"min-height:1.5em\">Filigran stands out in the cybersecurity ecosystem through its open-source, AI-powered and threat-informed approach to Continuous Threat Exposure Management (CTEM). Our eXtended Threat Management (XTM) platform brings together threat intelligence, exposure validation and cyber risk reduction, enabling organizations to better understand their threat landscape and take action.</p><p style=\"min-height:1.5em\">At the hea",
+      "id": "38eb64ab9a88975c",
+      "location": "France",
+      "posted_at": "2026-11-09T12:40:16+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Research & Development"
+      ],
+      "title": "Senior Software Engineer - OpenCRQ",
+      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-software-engineer-opencrq-france-234504"
+    },
+    {
+      "company": "Bitvavo",
+      "description": "<p style=\"min-height:1.5em\">In 2018, Bitvavo launched the first version of its digital assets trading platform, to bridge the gap between traditional currencies and digital assets. By offering transparent fees, a wide range of assets and an easy to use platform, Bitvavo is making the currency of the future accessible for everyone.<br /><br />In two years' time, Bitvavo has established itself as the market leader in the Netherlands and one of the largest in Europe, with over one million users exchanging tens of billions of digital assets a year.</p><h2><strong>About the Opportunity</strong></h2><p style=\"min-height:1.5em\">We are looking for a talented Senior Data Platform Engineer to join the",
+      "id": "206f18e4885341bb",
+      "location": "Headquarters",
+      "posted_at": "2026-11-09T12:40:15+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Senior Data Engineer - Storage & Messaging",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bitvavo/senior-data-engineer-storage-messaging-headquarters-117527"
+    },
+    {
+      "company": "TYTAN Technologies GmbH",
+      "description": "<h3>TYTAN Technologies</h3><p style=\"text-align:start;\"><span style=\"color:#121317\">The </span><strong><span style=\"color:#121317\">PACE</span></strong><span style=\"color:#121317\"> is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who are driven by ownership, embrace challenges, and are energized by meaningful work. If you're motivated by impact and thrive in dynamic environments, you'll fit right in.</span></p><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-a",
+      "id": "d510d638e67eb880",
+      "location": "Munich, Bayern, Germany",
+      "posted_at": "2026-11-09T12:31:15+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Senior Software Engineer, Networked Systems (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-software-engineer-networked-systems-munich-276742"
+    },
+    {
+      "company": "Pexon Consulting GmbH",
+      "description": "<p>Du baust lieber Datenplattformen, denen das Management vertraut, als Dashboards, die nach drei Wochen keiner mehr öffnet? Du sprichst SQL, Python und DAX genauso fließend wie die Sprache des Controllings? Dann lass uns reden.</p><p style=\";\"></p><p>Wir suchen genau dich, wenn du Datenprojekte von der Quelle bis zum Management-Dashboard verantwortest. Nicht nur Pipelines, nicht nur Reports, sondern das Ganze, mit sauberem Datenmodell in der Mitte.</p><p style=\";\"></p><p>Pexon Consulting baut Cloud- und KI-Plattformen für große Unternehmen und den gehobenen Mittelstand im DACH-Raum. Seit 2020 haben wir über 400 Projekte umgesetzt, für mehr als 100 Kunden. Wir sind Partner von AWS, Microsoft",
+      "id": "5fb5ca2180a97df5",
+      "location": "Berlin",
+      "posted_at": "2026-11-09T12:20:11+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Consulting",
+        "professional"
+      ],
+      "title": "Senior Data & Analytics Engineer – Microsoft Fabric & Power BI (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pexon-consulting-gmbh/senior-data-analytics-engineer-microsoft-fabric-power-bi-berlin-226406"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <p><strong>About the team</strong></p> <p>Stripe’s Education Partnerships tea",
+      "id": "c9e018cb71dbcbc8",
+      "location": "Dublin",
+      "posted_at": "2026-11-09T12:18:38+00:00",
+      "raw_source_id": "8357049",
+      "source": "Greenhouse",
+      "tags": [
+        "6250 Office of the Vice Chair"
+      ],
+      "title": "Education Partnerships Coordinator",
+      "url": "https://stripe.com/jobs/search?gh_jid=8357049"
+    },
+    {
+      "company": "openai",
+      "description": "About the team OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how to leverage and deploy our highly capable AI products across their business. The team is made of Sales, Solutions, Support, Marketing, and Partnership professionals that work together to create valuable solutions that will help bring AI to as many users as possible. About the role This leadership role will be responsible for driving ",
+      "id": "263d6f7901b00249",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T12:06:24.552000+00:00",
+      "raw_source_id": "110d820b-fcbe-4f02-9203-5b6145132e60",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Sales Manager, Enterprise - Japan",
+      "url": "https://jobs.ashbyhq.com/openai/110d820b-fcbe-4f02-9203-5b6145132e60"
+    },
+    {
+      "company": "Exotec",
+      "description": "<p>Chez Exotec, nous concevons des solutions robotiques de stockage et de préparation de commandes élégantes, fiables et prêtes à l’emploi. En tant que leader mondial de l’automatisation intralogistique, nous accompagnons certaines des plus grandes marques internationales dans leur transition vers des entrepôts automatisés. Notre technologie transforme les opérations logistiques en les rendant plus sûres, plus rapides, plus performantes et moins exigeantes physiquement pour les équipes qui y travaillent.<a href=\"https://exotecsolution.sharepoint.com/sites/TALENT.ACQUISITION/_layouts/15/Doc.aspx?sourcedoc=%7B691A81B0-32B8-4895-BAC1-205631BC8576%7D&file=Exotec%20Job%20descriptions%202026.docx&",
+      "id": "146d1a72f9163b6b",
+      "location": "Lille, France",
+      "posted_at": "2026-11-09T11:20:13+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "R&D"
+      ],
+      "title": "Director Software Foundations - Warehouse Robotics & Automation",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/director-software-foundations-warehouse-robotics-automation-lille-67270"
+    },
+    {
+      "company": "Coopers Group AG",
+      "description": "<p>................</p><p>Für unseren Kunden aus der Logistikbranche in <strong>Bern</strong>, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n <strong>Java Fullstack Software Engineer (Spring Boot / Angular).</strong></p><p>In diesem Projekt arbeitest du an der Entwicklung einer modernen, skalierbaren Softwarelösung zur datenbasierten Routenplanung und Optimierung komplexer logistischer Prozesse. Gemeinsam mit einem interdisziplinären <strong>Scrum DevOps Team</strong> gestaltest du eine neue Systemlandschaft auf Basis einer <strong>Microservice-Architektur</strong> und setzt moderne Technologien sowie Machine Learning ein, um effiziente und zuverlässige Planungslösungen zu",
+      "id": "84993288fef3a3ae",
+      "location": "Bern",
+      "posted_at": "2026-11-09T11:01:03+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h5><strong>About the role</strong></h5> <p>As the Revenue Strategy &amp; Operations partner for Australia and New Zealand, one of our most established markets in Asia-Pacific, you'll work with our ANZ sales leadership to plan and run the business, from the market's largest enterprises and govern",
+      "id": "c8b15cb6cc819402",
+      "location": "Sydney, Australia",
+      "posted_at": "2026-11-09T10:41:07+00:00",
+      "raw_source_id": "5475156008",
+      "source": "Greenhouse",
+      "tags": [
+        "Sales"
+      ],
+      "title": "Revenue Strategy and Operations , ANZ",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475156008"
+    },
+    {
+      "company": "Marentis",
+      "description": "<h2>Project responsibility</h2><p>Technical Lead for KODER and the Marentis robotics track</p><h2>Reporting line</h2><p>CTO, with product and commercial priorities agreed with the product owner and CEO</p><h2>Mission</h2><p>Deliver a reproducible workflow from industrial evidence and task descriptions to validated robot program proposals, then coordinate the integration needed for controlled real robot trials and later productisation.</p><p>The role should own integration architecture, interface contracts, technical dependencies, demonstration quality, benchmark design and the transfer of research outputs into maintainable Marentis software. It needs enough practical robotics depth to challe",
+      "id": "5a91e8e30e2f3384",
+      "location": "Berlin",
+      "posted_at": "2026-11-09T10:31:05+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Embedded Systems",
+        "Firmware Development"
+      ],
+      "title": "Lead Robotics Software Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/marentis/lead-robotics-software-engineer-berlin-192005"
+    },
+    {
+      "company": "XALT Business Consulting GmbH",
+      "description": "<p>XALT builds AI solutions that actually work – not just as proof-of-concepts, but in production. As a Senior AI Engineer, you help shape these systems and work right at the intersection of research and real-world application.</p><h2>What to expect</h2><ul><li>You design and implement AI-powered solutions – from concept to production deployment at our clients.</li><li>You build scalable LLM, RAG, and agent architectures on modern cloud infrastructure.</li><li>You collaborate closely with our consulting and engineering teams to translate AI requirements into technical specifications.</li><li>You maintain high standards: code reviews, testing, monitoring – everything needed to keep systems ru",
+      "id": "f09782efd628dfcf",
+      "location": "Munich",
+      "posted_at": "2026-11-09T10:01:23+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Development"
+      ],
+      "title": "Senior AI Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/senior-ai-engineer-munich-73725"
+    },
+    {
+      "company": "Proxima Fusion GmbH",
+      "description": "<p style=\"min-height:1.5em\"><strong>WHO WE ARE</strong> </p><p style=\"min-height:1.5em\">Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over €650M and powered by a growing team across Munich, Zurich, and Oxford, we are developing the hardware and infrastructure needed to deliver the world’s first commercial stellarator fusion power plant.</p><p style=\"min-height:1.5em\">Our concept advances the most mature fusion technology out there, the Wendelstein 7-X stellarator, through two next-generation machines: Alpha and Stellaris. Our work combines",
+      "id": "cd13e745a908a3df",
+      "location": "Munich",
+      "posted_at": "2026-11-09T09:40:14+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Numerical Optimization",
+        "Plasma Modelling & Research",
+        "Stellarator Architecture"
+      ],
+      "title": "Software Engineer - Simulation Platform",
+      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/software-engineer-simulation-platform-munich-468703"
+    },
+    {
+      "company": "CEPA Study Abroad/ Terra Education Europe GmbH",
+      "description": "<h2>Who we are</h2><p>CEPA Study Abroad is a U.S. based study abroad organization that partners with schools to develop and run custom faculty-led programs in over 40 countries. CEPA was founded in 1997 and operates study abroad programs across Europe, including European Study Centers in France and Germany. Our main administrative offices are in Besigheim, Germany and Strasbourg, France. CEPA also partners with the CEPA Foundation to provide service-learning opportunities in Costa Rica, Peru, and Guatemala, programs that align with our organization’s commitment to environmental and humanitarian engagement.</p><p>We are a small marketing team, very much mission and values driven, focused on b",
+      "id": "1d210baf37178065",
+      "location": "Besigheim",
+      "posted_at": "2026-11-09T09:01:07+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Data Scientist"
+      ],
+      "title": "AI Internship/ KI Werksstudent (w/m/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/cepa-study-abroad-terra-education-europe-gmbh/ai-internship-ki-werksstudent-besigheim-318308"
+    },
+    {
+      "company": "Auterion",
+      "description": "<p>We are looking for a hands-on Autonomous Drone Software Engineer to join a swarming programme. As an engineer on a lean, high-impact team, you will have the opportunity to drive development of new features, have a say in architecture and design decisions and have real impact across all the team’s projects.&nbsp;</p> <p>You will not be siloed; this role spans the entire autonomy lifecycle, from developing autonomy capabilities to investigating real-world flight-test data.&nbsp;</p> <p>The ideal candidate is someone who’s a self-starter, can work independently, can work with ambiguity, can take decisions on their own and not be afraid to drive and push towards getting the project across the",
+      "id": "0cd0a8e40b732881",
+      "location": "Zurich",
+      "posted_at": "2026-11-09T06:55:16+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Engineering"
+      ],
+      "title": "Senior Software Engineer",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-software-engineer-zurich-194918"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About the role</strong></h2> <p>As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping large enterprises understand the value of Claude and paint the vision on how they can successfully integrate and deploy ",
+      "id": "21af2d3b61d925e7",
+      "location": "Seoul, South Korea",
+      "posted_at": "2026-11-09T06:47:38+00:00",
+      "raw_source_id": "5476577008",
+      "source": "Greenhouse",
+      "tags": [
+        "Applied AI"
+      ],
+      "title": "Applied AI Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5476577008"
+    },
+    {
+      "company": "Datadog",
+      "description": "<p data-renderer-start-pos=\"33\" data-local-id=\"7bdbad19d29a\"><a class=\"_ymio1r31 _ypr0glyw _zcxs1o36 _mizu194a _1ah3dkaa _ra3xnqa1 _128mdkaa _1cvmnqa1 _4davt94y _4bfu18uv _1hms8stv _ajmmnqa1 _vchhusvi _kqswh2mm _ect4ttxp _syaz13af _1a3b18uv _4fpr8stv _5goinqa1 _f8pj13af _9oik18uv _1bnxglyw _jf4cnqa1 _30l313af _1nrm18uv _c2waglyw _1iohnqa1 _9h8h12zz _10531ra0 _1ien1ra0 _n0fx1ra0 _1vhv17z1\" href=\"https://www.datadoghq.com/blog/engineering/introducing-husky/\" data-renderer-mark=\"true\" data-is-router-link=\"false\" data-testid=\"link-with-safety\"><u data-renderer-mark=\"true\">Husky</u></a> is what we call the distributed, petabyte-scale columnar event store at the heart of our Event Platform, which ",
+      "id": "6dd23d1cfc6e280e",
+      "location": "Paris",
+      "posted_at": "2026-11-09T03:55:15+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Leadership"
+      ],
+      "title": "Manager I, Engineering - Husky",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-husky-paris-75600"
+    },
+    {
+      "company": "anthropic",
+      "description": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p><strong>About the role</strong></p> <p>We are looking for an experienced National Security practitioner to guide our strategic engagements with Asia-Pacific national security and intelligence communities. Working closely with the national security team based in the US and the APAC policy team,",
+      "id": "99f7e84a7ba036c5",
+      "location": "Canberra, Australia",
+      "posted_at": "2026-11-09T03:49:33+00:00",
+      "raw_source_id": "5475099008",
+      "source": "Greenhouse",
+      "tags": [
+        "Public Policy"
+      ],
+      "title": "National Security Lead, APAC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475099008"
+    },
+    {
+      "company": "iwoca",
+      "description": "<p style=\"min-height:1.5em\"><strong>Backend Engineer - Partner Flow Team</strong></p><p style=\"min-height:1.5em\">Hybrid in London / Remote within the UK</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>We’re looking for a Backend Engineer to join the Partner Flow team.</strong></p><p style=\"min-height:1.5em\">This role is a chance to shape how thousands of small businesses find their way to iwoca. You'll join the team that owns iwoca's partner integrations — the Lending API and embedded flows that let third-party platforms, from major banks to fintechs, offer iwoca loans inside their own customer journeys. You'll own projects, collaborate with stakeholders, and design ro",
+      "id": "ba16ec603d30f309",
+      "location": "London",
+      "posted_at": "2026-11-09T03:40:17+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Software Engineering and Tech"
+      ],
+      "title": "Backend Engineer - Partner Flow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-partner-flow-london-201344"
+    },
+    {
+      "company": "stripe",
+      "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>The Solutions Architecture Team p",
+      "id": "ae2e6473d07f4957",
+      "location": "Japan",
+      "posted_at": "2026-11-09T03:19:31+00:00",
+      "raw_source_id": "8354754",
+      "source": "Greenhouse",
+      "tags": [
+        "1153 Solutions Architecture (APAC)"
+      ],
+      "title": "Solutions Architect (Japan)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8354754"
+    },
+    {
+      "company": "openai",
+      "description": "About the Team OpenAI’s Industrial Compute organization is building the infrastructure needed to support the next generation of AI. We work with engineering firms, construction partners, utilities, equipment manufacturers, and strategic suppliers to deliver hyperscale campuses. The Strategic Sourcing team develops the supplier relationships and commercial strategies that help these programs secure critical equipment, manage long-lead constraints, and deliver reliably at scale. We partner across Design Engineering, Infrastructure Delivery, Capacity Planning, Construction, Finance, Legal, and Hardware Operations. About the Role We are seeking a Strategic Sourcing Manager to lead sourcing strat",
+      "id": "16430af01dc7d463",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T02:49:38.412000+00:00",
+      "raw_source_id": "e99a7881-e30a-40b4-849d-b039004d11ed",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Strategic Sourcing Manager, Data Center Infrastructure, Electrical & Mechanical",
+      "url": "https://jobs.ashbyhq.com/openai/e99a7881-e30a-40b4-849d-b039004d11ed"
+    },
+    {
+      "company": "databricks",
+      "description": "<p data-renderer-start-pos=\"1648\">Req: P-1372<br>Location: Tokyo, Japan</p> <p><strong>The Role</strong></p> <p>As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers’ data and AI strategy. You are developing a technical specialization (archetype) and are recognized within your team for depth in a specific domain.</p> <p><strong>The Impact You Will Have</strong></p> <ul> <li>Own the end-to-end technical strateg",
+      "id": "f7595e10c33b291c",
+      "location": "Tokyo, Japan",
+      "posted_at": "2026-11-09T02:19:58+00:00",
+      "raw_source_id": "7827370002",
+      "source": "Greenhouse",
+      "tags": [
+        "Field Engineering - Other"
+      ],
+      "title": "Evergreen Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7827370002"
+    },
+    {
+      "company": "openai",
+      "description": "About the team OpenAI’s Forward Deployed Engineering (FDE) team partners with our customers to turn research breakthroughs into production systems. We embed with users to solve high-leverage problems, move fast from prototype to deployment, and surface reusable patterns that shape our platform. We operate at the intersection of field delivery and internal development, working closely with Product, Research, and Go-To-Market (GTM). About the role As a foundational FDE manager, you’ll lead FDE through high-stakes, ambiguous customer deployments and own technical and business value outcomes end to end. You’ll grow a team that can operate under pressure and help OpenAI learn from the field. You’",
+      "id": "d88f0d0c6422f3e1",
+      "location": "Not specified",
+      "posted_at": "2026-11-09T01:20:20.424000+00:00",
+      "raw_source_id": "5d5b2256-ee0f-4ba6-a983-d62d0d70515d",
+      "source": "Ashby",
+      "tags": [
+        "FullTime"
+      ],
+      "title": "Manager, Forward Deployed Engineering - Munich",
+      "url": "https://jobs.ashbyhq.com/openai/5d5b2256-ee0f-4ba6-a983-d62d0d70515d"
+    },
+    {
+      "company": "Catapult Sports",
+      "description": "<p><strong>SENIOR DEVOPS ENGINEER</strong></p> <p>Catapult is building the future of sports performance technology, with a mission to <strong>Unleash the Potential</strong> of every athlete and team on earth. We don't just work in the sporting industry; we are actively changing it. Since 2006, our solutions have been leading the way in sports performance software, science, and data, in a world where 1% can literally mean the difference between winning and losing.</p> <p>We work with over 5,000+ teams around the world, empowering coaches, managers and trainers in premier teams in the NFL, NBA, NHL, MLS, EPL, AFL, NRL, NCAA and more. We provide the information they need to optimize athletes' h",
+      "id": "b2edad4069bb0bdb",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "posted_at": "2026-11-09T00:45:52+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [],
+      "title": "Senior DevOps Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-devops-engineer-cologne-378538"
+    },
+    {
+      "company": "Cognition",
+      "description": "<h2><strong>We are an applied AI lab building end-to-end software agents.</strong></h2><p style=\"min-height:1.5em\">We're the makers of Devin, the first AI software engineer. </p><p style=\"min-height:1.5em\">Our team is extremely talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.</p><p style=\"min-height:1.5em\">Building Devin is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks",
+      "id": "d6503143cb0e3903",
+      "location": "London",
+      "posted_at": "2026-11-09T00:40:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "Customer Engineering"
+      ],
+      "title": "Program Manager - Field CTOs - EMEA",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cognition/program-manager-field-ctos-emea-london-306325"
+    },
+    {
+      "company": "Loftorbital",
+      "description": "<div><strong>Wanna join the adventure?<br><br></strong></div> <div>Loft's AI for Space group is building the stack that runs real machine learning in orbit; turning raw sensor data into decisions on the satellite itself, so insight reaches the customer in minutes instead of hours.<br>The AI Engineering team is where models meet the spacecraft. We own the full path from a partner's trained model to something that actually runs — fast — on flight hardware: compiling ONNX models into optimized engines for each accelerator, the Space Inference Engine and its execution providers, the SDK that packages models for flight, and the perf tooling that proves a model fits its power, thermal, and latency",
+      "id": "8422c8cbb9785dfb",
+      "location": "Toulouse, Occitanie",
+      "posted_at": "2026-11-09T00:07:21+00:00",
+      "raw_source_id": "",
+      "source": "Arbeitnow",
+      "tags": [
+        "AI Engineering"
+      ],
+      "title": "ML Runtime Engineer",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/ml-runtime-engineer-toulouse-occitanie-67783"
+    }
+  ],
+  "source_errors": {},
+  "week": "2026-W46",
+  "week_end": "2026-11-15",
+  "week_start": "2026-11-09"
+}
